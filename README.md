@@ -1,2 +1,2 @@
 # blog
-tehomic blogs and articles
+Tehomic blogs and articles
