@@ -380,7 +380,7 @@ There is another way to say substance - talented character. Since talent is the 
 If a disciple has talent but not enough character then that person is more vulnerable to temptation and sin. People with character flaws should expect to experience one or more humilty trials, so that they grow into their calling. Don't confuse character troubles with persecution!
 
 <bref>2 Cor 2:10-11 NIV</bref>
-.<bref>10</bref>Anyone you forgive, I also forgive. And what I have forgiven—if there was anything to forgive—I have forgiven in the sight of Christ for your sake, <bref>11</bref> in order that Satan might not outwit us. For we are not unaware of his schemes.
+.<bref>10</bref> Anyone you forgive, I also forgive. And what I have forgiven—if there was anything to forgive—I have forgiven in the sight of Christ for your sake, <bref>11</bref> in order that Satan might not outwit us. For we are not unaware of his schemes.
 
 Next is another proverbs verse that explores how Sin is actively hunting to trap, persecute and even kill. Pay attention !
 
@@ -865,7 +865,7 @@ kala', kaw-law'; a primitive root; to restrict, by act (hold back or in) or word
 Review the gold highlights above. What does obscurity mean? It means your real life is effectively shut down, and without the Lord’s intervention, it will never see the light of day. 
 Since the <a target="_blank" href="https://uhg.readthedocs.io/en/latest/stem_hiphil.html"><u>Hiphil</u></a> tense applies, this means Sin causatively works to maintain state. The prisoner is actively restrained and actively forbidden to exercise their talent. The other Hiphil verb says “to deliver”, which points to a rescue mission by disciples working in the name of Jesus.
 
-Recall that another way to describe substance is talented character. There is a less severe mode Christian obscurity. It happens when a person has lots of talent but not enough character then the Lord will bring humble arrangements to bear, so that His pupil gains more character.
+Recall that another way to describe substance is talented character. There is a less severe mode Christian obscurity. It happens when a person has lots of talent but not enough character. The Lord is control, bringing humble arrangements to bear, so that His pupil gains more character.
 
 This topic is esteemed by the the bible and the Lord God of Israel. Many honoured bible characters describe their real or virtual prison experience. Among them are Jacob, Joseph, Job, David and Daniel. As for Joseph, when he came out of a real prison his character was proven. He was now ready to handle great responsibility. 
 
