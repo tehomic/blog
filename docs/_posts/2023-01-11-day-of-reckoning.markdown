@@ -29,9 +29,7 @@ categories: bible exposition
   }
 </style>
 
-<cr>Copyright</cr>
-<cr>Peter A McGill</cr>
-<cr>2023</cr>
+<cr>Copyright. Peter A McGill. 2022 - 2023.</cr>
 <hr/>
 <br/>
 
