@@ -375,9 +375,16 @@ This one is a messianic text, pointing to Jesus betrayed into the hands of Sin. 
 <bref>Psa 16:10 BSB</bref>
 For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.
 
-There is another way to say substance - talent ! Since talent is the Lord’s own property then Jesus himself has talent ! That’s quite an understatement :>. If Jesus is fine with His super-star talent, it’s ok for you to have talent. Try not to think of talent as something that must be amazing and always has a wow factor. Talent is just what the bible calls a gift to serve Jesus and God. If you have a gift you have the anointing of Jesus, or you could say Holy Spirit anointing. 
+There is another way to say substance - talented character. Since talent is the Lord’s own property then Jesus himself has talent ! That’s quite an understatement :>. If Jesus is fine with His super-star talent, it’s ok for you to have talent. Try not to think of talent as something that must be amazing and always has a wow factor. Talent is just what the bible calls a gift to serve Jesus and God. If you have a gift you have the anointing of Jesus, or you could say Holy Spirit anointing. 
 
-Next is another proverbs verse that explores how Sin is actively hunting to persecute and even kill. Pay attention !
+If a person has lots of talent but not enough character then that disciple is more vulnerable to temptation and sin. People with character flaws may have to experience one or more humilty trials, so that they grow into their calling. Don't confuse character troubles with persecution! 
+
+To introduce 
+
+See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many.
+and the reality that Sin can target people to catch, condemn and kill. 
+
+Next is another proverbs verse that explores how Sin is actively hunting to trap, persecute and even kill. Pay attention !
 
 <bref>Prov 19:24 KJV</bref>
 A slothful <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6102"><u>H6102</u></a> man hideth <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2934"><u>H2934</u></a> his hand <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3027"><u>H3027</u></a> in his bosom <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6747"><u>H6747</u></a>, and will not so much as bring <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7725"><u>H7725</u></a> it to his mouth <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6310"><u>H6310</u></a> again <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7725"><u>H7725</u></a>.
@@ -860,7 +867,9 @@ kala', kaw-law'; a primitive root; to restrict, by act (hold back or in) or word
 Review the gold highlights above. What does obscurity mean? It means your real life is effectively shut down, and without the Lord’s intervention, it will never see the light of day. 
 Since the <a target="_blank" href="https://uhg.readthedocs.io/en/latest/stem_hiphil.html"><u>Hiphil</u></a> tense applies, this means Sin causatively works to maintain state. The prisoner is actively restrained and actively forbidden to exercise their talent. The other Hiphil verb says “to deliver”, which points to a rescue mission by disciples working in the name of Jesus.
 
-This topic is esteemed by the the bible and the Lord God of Israel. Many honoured bible characters describe their real or virtual prison experience. Among them are Jacob, Joseph, Job, David and Daniel. As for Joseph, when he came out of a real prison his character was proven. He was now ready to handle great responsibility.
+Recall that another way to describe substance is talented character. There is a less severe mode Christian obscurity. It happens when a person has lots of talent but not enough character then the Lord will bring humble arrangements to bear, so that His pupil gains more character.
+
+This topic is esteemed by the the bible and the Lord God of Israel. Many honoured bible characters describe their real or virtual prison experience. Among them are Jacob, Joseph, Job, David and Daniel. As for Joseph, when he came out of a real prison his character was proven. He was now ready to handle great responsibility. 
 
 <bref>Gen 50:20 NIV</bref>
 You intended to harm me, but God intended it for good to accomplish what is now being done, the saving of many lives.
