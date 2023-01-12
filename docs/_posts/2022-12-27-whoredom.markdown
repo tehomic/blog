@@ -20,7 +20,16 @@ categories: bible exposition
     font-weight:900;
     font-size:16pt;
   }
+  cr {
+    text-align: center;
+  }
 </style>
+
+<cr>Copyright</cr>
+<cr>Peter A McGill</cr>
+<cr>2023</cr>
+<hr/>
+<br/>
 
 ### **Selling your body is whoredom**
 

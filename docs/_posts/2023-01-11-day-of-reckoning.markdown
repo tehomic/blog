@@ -24,7 +24,16 @@ categories: bible exposition
     font-weight:900;
     font-size:16pt;
   }
+  cr {
+    text-align: center;
+  }
 </style>
+
+<cr>Copyright</cr>
+<cr>Peter A McGill</cr>
+<cr>2023</cr>
+<hr/>
+<br/>
 
 <bref>Matt 25:14-19 BSB</bref>
 .<bref>14</bref> For it is just like a man going on a journey, who called his servants and entrusted them with his possessions. <bref>15</bref> To one he gave five talents, to another two talents, and to another one talent—each according to his own ability. And he went on his journey. <bref>16</bref> The servant who had received the five talents went at once and put them to work and gained five more. <bref>17</bref> Likewise, the one with the two talents gained two more. <bref>18</bref> But the servant who had received the one talent went off, dug a hole in the ground, and hid his master’s money. <bref>19</bref> After a long time the master of those servants returned to settle accounts with them. <bref>20</bref> The servant who had received the five talents came and presented five more. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’ <bref>21</bref> His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’ <bref>22</bref> The servant who had received the two talents also came and said, ‘Master, you entrusted me with two talents. See, I have gained two more.’ <bref>23</bref> His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’ <bref>24</bref> Finally, the servant who had received the one talent came and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed. <bref>25</bref> So I was afraid and went out and hid your talent in the ground. See, you have what belongs to you.’ <bref>26</bref> ‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed. <bref>27</bref> Then you should have deposited my money with the bankers, and on my return I would have received it back with interest. <bref>28</bref> Therefore take the talent from him and give it to the one who has ten talents. <bref>29</bref> For everyone who has will be given more, and he will have an abundance. But the one who does not have, even what he has will be taken away from him. <bref>30</bref> And throw that worthless servant into the outer darkness, where there will be weeping and gnashing of teeth.’

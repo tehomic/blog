@@ -20,7 +20,16 @@ categories: bible exposition
     font-weight:900;
     font-size:16pt;
   }
+  cr {
+    text-align: center;
+  }
 </style>
+
+<cr>Copyright</cr>
+<cr>Peter A McGill</cr>
+<cr>2023</cr>
+<hr/>
+<br/>
 
 <subhead><p>Recommended :</p></subhead> Read the <a target="_blank" href="/bible/exposition/2022/12/26/virtue.html"><u>Virtue?</u></a> article first, which has preliminary content to help understand this article.
 <hr/>
