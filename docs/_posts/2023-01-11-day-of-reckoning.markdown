@@ -377,12 +377,10 @@ For You will not abandon my soul to Sheol, nor will You let Your Holy One see de
 
 There is another way to say substance - talented character. Since talent is the Lord’s own property then Jesus himself has talent ! That’s quite an understatement :>. If Jesus is fine with His super-star talent, it’s ok for you to have talent. Try not to think of talent as something that must be amazing and always has a wow factor. Talent is just what the bible calls a gift to serve Jesus and God. If you have a gift you have the anointing of Jesus, or you could say Holy Spirit anointing. 
 
-If a person has lots of talent but not enough character then that disciple is more vulnerable to temptation and sin. People with character flaws may have to experience one or more humilty trials, so that they grow into their calling. Don't confuse character troubles with persecution! 
+If a disciple has talent but not enough character then that person is more vulnerable to temptation and sin. People with character flaws should expect to experience one or more humilty trials, so that they grow into their calling. Don't confuse character troubles with persecution!
 
-To introduce 
-
-See to it that no one falls short of the grace of God and that no bitter root grows up to cause trouble and defile many.
-and the reality that Sin can target people to catch, condemn and kill. 
+<bref>2 Cor 2:10-11 NIV</bref>
+.<bref>10</bref>Anyone you forgive, I also forgive. And what I have forgiven—if there was anything to forgive—I have forgiven in the sight of Christ for your sake, <bref>11</bref> in order that Satan might not outwit us. For we are not unaware of his schemes.
 
 Next is another proverbs verse that explores how Sin is actively hunting to trap, persecute and even kill. Pay attention !
 
