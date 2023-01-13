@@ -25,7 +25,7 @@ categories: bible exposition
   }
 </style>
 
-<cr>Copyright. Peter A McGill. 2022 - 2023.</cr>
+<p style="text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a target="_blank" property="dct:title" rel="cc:attributionURL" href="https://github.com/tehomic/blog.git">Tehomic Christian Themes</a> by <a target="_blank" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/tehomic">Peter A McGill</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
 <hr/>
 <br/>
 
