@@ -29,7 +29,7 @@ categories: bible exposition
 <hr/>
 <br/>
 
-<p style="display: inline;"><subhead>Recommended : </subhead>Read the <a target="_blank" href="/bible/exposition/2022/12/26/virtue.html"><u>Virtue?</u></a> article first, which has preliminary content to help understand this article.</p>
+<p style="display: inline;"><subhead>Recommended : </subhead>Read the <a target="_blank" href="/blog/bible/exposition/2022/12/26/virtue.html"><u>Virtue?</u></a> article first, which has preliminary content to help understand this article.</p>
 <br/>
 <hr/>
 <br/>
