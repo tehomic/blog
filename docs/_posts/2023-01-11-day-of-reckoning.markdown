@@ -263,7 +263,7 @@ The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs
 
 {% highlight java %}
 ¹Transliterated =>
-Past participle : charuwts, khaw-roots'
+Passive participle : charuwts, khaw-roots'
 Phonetic : khawAroots'
 {% endhighlight %}
 
@@ -288,7 +288,7 @@ The root word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H
 
 {% highlight java %}
 ¹Transliterated =>
-Noun masculine : charats
+Verb : charats
 Phonetic : khaw-rats'
 {% endhighlight %}
 
@@ -439,7 +439,7 @@ atsal, aw-tsal'; a primitive root; to lean idly, i.e. to be indolent or slack: �
 <hr/>
 <br/>
 
-The Hebrew word <b1>H2934</b1> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2934"><u>H2934</u></a> means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -468,12 +468,10 @@ taman, taw-man'; a primitive root; to hide (by covering over): — hide, lay pri
 
 The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3027"><u>H3027</u></a> means =>
 
+{% highlight java %}
 ¹Transliterated =>
 Noun feminine : yad
 Phonetic : yawd
-
-{% highlight java %}
-¹BSB definition =>
 {% endhighlight %}
 
 {% highlight java %}
@@ -644,12 +642,12 @@ pa'ah, paw-aw'; a primitive root; to puff, i.e. blow away: — scatter into corn
 <hr/>
 <br/>
 
-This one also has a dual meaning, literal and spiritual. The literal text means what it says. A Christian sluggard is one who is called but refuses to start on a journey of growth and learning, according to the Lord’s plan not their own plan. Let’s look at the Holy Spirit version of this psalm, using the elements marked above in gold highlights.
+This one also has a dual meaning, literal and spiritual. The literal text means what it says. A Christian sluggard is one who is called but refuses to start on a journey of growth and learning, according to the Lord’s plan not their own plan. Little side note about a literal mouth that cleaves in pieces. This points to your mouth the food grinder, which breaks up food in the way of pre-digestion. Now let’s look at the Holy Spirit version of this psalm, using the elements marked above in gold highlights.
 
 <bref>Prov 19:24 Holy Spirit Version</bref>
 Slothfulness conceals a person’s power to prosper, returning again and again to dash in pieces [hope for] restoration.
 
-Slothfulness is the work of Sin enforcing obscurity. The real person is virtually killed. The substitute has no influence and no prosperity, without the Lord’s intervention. In this spiritual domain, the warden has orders to beat up and wear down even a determined jail breaker. Sin is enforcing a no talent expression mandate. 
+The Lord God gives talent and anointing, which is prosperity power. Slothfulness is the work of Sin enforcing obscurity. The real person is virtually killed. The substitute has no influence and no prosperity, without the Lord’s intervention. In this spiritual domain, the warden has orders to beat up and wear down even a determined jail breaker. Sin is enforcing a no talent expression mandate. 
 
 What is the clue that shows this is real? The Hebrew verb <a target="_blank" href="https://www.blueletterbible.org/kjv/pro/19/1/t_conc_647024"><u>bring</u></a> has <a target="_blank" href="https://uhg.readthedocs.io/en/latest/stem_hiphil.html"><u>Hiphil</u></a> tense applied, which is causative action. Meaning that Sin is the active player that traps a person, spoiling their talent. How does it have a mandate to do this? By the stealing authority from an authority holder. A parent, a relative, a pastor, a work or church leader.
 
