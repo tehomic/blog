@@ -33,11 +33,11 @@ categories: alternative science, bible exposition
 
 You might know that atoms are the principal components that constitute all physical matter. Atoms in turn are composed of subatomic particles like protons, neutrons and electrons. Atoms can also be defined in terms of bounded energy. Atomic energy is **enclosed** in a container that just exists. I personally believe science leaves this property alone and ignores it, because it’s potentially touching the virtual realm. Maybe it’s a tiny 3D electromagnetic field that creates a boundary? Apparently not.
 
-Remember that God is the Lord of Hosts. I believe the Lord makes a virtual container, a tiny host that contains the material energy of an atom. That is, the energy that defines it as a particle, an atom. It’s interesting that this bounded energy also defines atomic mass density. 
+Remember that God is the Lord of Hosts. I believe the Lord makes a virtual container, a tiny host that contains the material energy of an atom. That is, the energy that defines it as a particle, an atom. It’s interesting that atomic bounded energy also defines atomic mass density. 
 
 ### **Virtual Mass Density**
 
-It might yet be revealed that the mass density science is more important than that of matter and particles. Consider two identical (ideal gas) air compressors, called C1 and C2. The experiment starts with each compressor showing 100 KPa, each one at room temperature. Now we adjust the C1 compressor, so it pumps more air into the tank, maintaining room temperature, until the pressure gauge shows 200 KPa. For C2, we circulate the original air volume through an air heater connected to the tank, raising the air temperature until the pressure = 200 KPa. 
+It might yet be revealed that mass density science is more important than that of matter and particles. Consider two identical (ideal gas) air compressors, called C1 and C2. The experiment starts with each compressor showing 100 KPa, each one at room temperature. Now we adjust the C1 compressor, so it pumps more air into the tank, maintaining room temperature, until the pressure gauge shows 200 KPa. For C2, we circulate the original air volume through an air heater connected to the tank, raising the air temperature until the pressure = 200 KPa. 
 
 Now some gas equations to help examine things =>
 ```
