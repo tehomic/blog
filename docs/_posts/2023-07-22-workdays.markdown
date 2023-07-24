@@ -1,0 +1,261 @@
+---
+layout: post
+title:  "The Workdays of Creation"
+date:   2023-07-22 00:00:00 -0600
+categories: bible exposition
+---
+
+<style>
+  b1 {
+    color:#004687;
+  }
+  bref {
+    color:#004687;
+    font-weight:700;
+  }
+  r1 {
+    color: #800020;
+  }
+  y1 {
+    font-weight: 700;
+    color: #a17e02;
+  }
+  subhead {
+    font-weight:900;
+    font-size:16pt;
+  }
+  cr {
+    text-align: center;
+  }
+</style>
+
+<p style="text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a target="_blank" property="dct:title" rel="cc:attributionURL" href="https://github.com/tehomic/blog.git">Tehomic Christian Themes</a> by <a target="_blank" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/tehomic">Peter A McGill</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+<hr/>
+<br/>
+
+About the Genesis chapter 1 and the two camps of thought that want to promote either 6 literal days of creation or 6 spiritual days. Is 24 hours the best definition of a Day? That might be like saying "Snow is cold", probably because this idea is very familiar to all human beings older than 6 months. What is a spiritual day? God only knows ! A spiritual day is a mystery and certainly not familiar to humans, because it is a parameter of the Heavenly realm, completely foreign to the earthly realm. It might even be considered strange and foreign to a naturally focused Christian.
+Consider God in the beginning. The Trinity is about to create the heavens and the natural universe, in that order. The earth is just a small dot inside the universe, but God makes the earth a big deal because Man will live there.
+
+With this in mind, the Genesis account is about 6 days of creating the natural universe and earth inside the universe. So earth is important, more important than other planets. The sun exists to support life on earth. Earth is the star of the show ! Wow ! Earth must be the frame of reference for estimating all the parameters of creation and how God did His work. For example, how long did it take to make the heavens and the earth? Six literal days of course ! Yeh, because God is making everything happen real fast so it all conforms to an earth perspective. Of course, because earth is real star of the show and not the heavens or the universe. Not even the spiritual heavens compare or challenge the stardom of the earthly realm. Nope, only earth matters. Forget about the spiritual heavens because God gave mandate to Man to rule on earth. We humans need not care that the earth is below the spiritual heavens. Who cares if natural man is below the spiritual heavens? Wait a second, man is below the spiritual heavens? What !? Yes, man has no power to rule without the Lord God's direct intervention. The heavenly realm rules over the earth and mankind because Adam sinned, the original sin.
+
+The point of my satirical commentary about 6 literal days of creation is to show what it implies. It implies that natural things, natural phenomena dominate God's creation. The work of creation did not happen naturally. Indeed nature as humans know it was invented by God and did not exist when the creation work started. To hold on to 6 literal days of creation is incredibly simplistic and naive or alternatively incredibly arrogant and deceptive.
+
+<bref>Gen 1:3-5 KJV</bref>
+.<bref>3</bref> And God said, Let there be light: and there was light. <bref>4</bref> And God saw the light, that it was good: and God divided the light from the darkness. <bref>5</bref> And God called the light <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H216"><u>H216</u></a> Day <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3117"><u>H3117</u></a>, and the darkness <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2822"><u>H2822</u></a> He called Night <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3915"><u>H3915</u></a>. And the evening and the morning were the first day <b1>H3117</b1>.
+
+Hebrew word <b1>H216</b1> means =>
+
+{% highlight java %}
+Transliterated
+Noun feminine : 'owr
+Phonetic : ore
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1.  light
+    * light of day
+    * light of heavenly luminaries (moon, sun, stars)
+    * day-break, dawn, morning light
+    * daylight
+    * lightning
+    * light of lamp
+    * light of life
+    * light of prosperity
+    * light of instruction
+    * light of face (fig.)
+    * Jehovah as Israel's light
+    * the Creation of Light
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+
+'owr, ore; from <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H215"><u>H215</u></a>; illumination or (concrete) luminary (in every sense, including lightning, happiness, etc.): — bright, clear, + day, light (-ning), morning, sun.
+<hr/>
+<br/>
+
+The root word <b1>H215</b1> means =>
+
+{% highlight java %}
+Transliterated
+Verb : 'owr
+Phonetic : ore
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1. to be or become light, shine
+    * (Qal)
+        - to become light (day)
+        - to shine (of the sun)
+        - to become bright
+    * (Niphal)
+        - to be illuminated
+        - to become lighted up
+    * (Hiphil)
+        - to give light, shine (of sun, moon, and stars)
+        - to illumine, light up, cause to shine, shine
+        - to kindle, light (candle, wood)
+        - lighten (of the eyes, his law, etc)
+        - to make shine (of the face)
+
+{% highlight java %}
+¹Strongs definition =>
+{% endhighlight %}
+
+'owr, ore; a primitive root; to be (causative, make) luminous (literally and metaphorically): — X break of day, glorious, kindle, (be, en-, give, show) light (-en, -ened), set on fire, shine.
+<hr/>
+<br/>
+
+Hebrew word <b1>H3117</b1> means =>
+
+{% highlight java %}
+Transliterated
+Noun masculine : yowm
+Phonetic : yome
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1.  day, time, year
+    * day (as opposed to night)
+    * day (24 hour period)
+        - as defined by evening and morning in Genesis 1
+        - as a division of time
+            * a working day, a day's journey
+    * days, lifetime
+    * time, period (general)
+    * year
+    * temporal references
+        - today
+        - yesterday
+        - tomorrow
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+
+yowm, yome; from an unused root meaning **to be hot**; a day (as the warm hours), whether literal (from sunrise to sunset, or from one sunset to the next), or figurative (a space of time defined by an associated term), (often used adverb): — age, + always, + chronicals, continually(-ance), daily, ((birth-), each, to) day, (now a, two) days (agone), + elder, X end, + evening, + (for) ever(lasting, -more), X full, life, as (so) long as (... live), (even) now, + old, + outlived, + perpetually, presently, + remaineth, X required, season, X since, space, then, (process of) time, + as at other times, + in trouble, weather, (as) when, (a, the, within a) while (that), X whole (+ age), (full) year(-ly)
+<hr/>
+<br/>
+
+Hebrew word <b1>H2822</b1> means =>
+
+{% highlight java %}
+Transliterated
+Noun masculine : choshek
+Phonetic : kho-shek'
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1. darkness, obscurity
+    * darkness
+    * secret place
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+
+choshek, kho-shek'; from <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2821"><u>H2821</u></a>; the dark; hence (literally) darkness; figuratively, misery, destruction, death, ignorance, sorrow, wickedness: — dark(-ness), night, obscurity.
+<hr/>
+<br/>
+
+The root word <b1>H2821</b1> means =>
+
+{% highlight java %}
+Transliterated
+Verb : chashak
+Phonetic : khaw-shak
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1.to be or become dark, grow dim, be darkened, be black, be hidden
+    * (Qal)
+        - to be or grow dark
+        - to have a dark colour
+        - to grow dim
+    * (Hiphil)
+        - to make dark, cause to be dark
+        - to hide, conceal
+        - to obscure, confuse (fig.)
+
+{% highlight java %}
+¹Strongs definition =>
+{% endhighlight %}
+
+chashak, khaw-shak'; a primitive root; to be dark (as withholding light); transitively, to darken: — be black, be (make) dark, darken, cause darkness, be dim, hide.
+<hr/>
+<br/>
+
+Hebrew word <b1>H3915</b1> means =>
+
+{% highlight java %}
+Transliterated
+Noun masculine : layil; lah'-yil
+Phonetic : lah'AyelAaw
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+
+1. night
+    * night (as opposed to day)
+    * of gloom, protective shadow (fig.)
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+
+layil, lah'-yil; or (Isaiah 21:11) leyl, lale; also laylah, lah'- yel-aw; from the same as <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3883"><u>H3883</u></a>3883; properly, a twist (away of the light), i.e. night; figuratively, adversity: — ((mid-)) night (season).
+<hr/>
+<br/>
+
+Notice that the Hebrew dictionary says that a Day is a measure of time. It maintains an earthly frame of reference, except for the unused root word which means "to be hot". Here we can explore how the heavenly realm describes a Day. Apparently a hot place ... hmm ... where work happens ! 
+
+<bref>John 9:3-4 BSB</bref>
+.<bref>3</bref> Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him. <bref>4</bref> While it is Daytime, we must do the works of Him who sent Me. Night is coming, when no one can work.
+
+Heat and work are intrisically connected to energy flux, pointing to the laws of the natural universe, the laws of thermodynamics. Consider that the natural law of energy conservation states that energy cannot be created or destroyed but only changed from one kind to another. This implies that if the energy of creation originally existed in the virtual or spiritual domain then it must transcend across the interface of two worlds to enter the temporal domain of Spacetime. 
+
+So, the 6 days of creation are 6 workdays and each day is a account of what was accomplished without any dependence on natural time. This means that a spiritual Day is like a stage or phase of work. Just like natural project planning, each sequential stage depends on the previous one, and the last stage is a culmination of all the previous project work. 
+
+Its curious that there must be an "arrow of time" in this process, because the achievement of Day 1 is a required dependency before the start of Day 2. The concept of "before" demands an arrow of time. This can perhaps be explained by entropy. In the virtual realm, in relation to creation, it might be called unentropy. This would account for accumulating order and structure produced by angels doing their creative work executing the intelligent design of God.
+
+In the natural realm it is the measurement of increasing disorder, or randomness, which provides the arrow of time. Why? Because for any closed system with a distinct boundary, the ordered state collection is a very small sample inside the set of all possible states. This implies that time could be defined as the flow of highly probable events documenting random redistribution of smaller and smaller components inside a closed system. A good example is the natural production of sand, which originally was bound together as solid rock, but by the weathering of rain, wind and earthquake was redistributed becoming a collection of sand grains. 
+
+Here is a human example of natural entropy and disorder increasing by the action of work. A person is multi-tasking at their computer, while occasionally sipping a glass of water, that is placed a little to close to the proximity of her arms in the event that she must move quickly. Our actor is typing happily on the keyboard until she smells the distinct fragrance of burning cheese ... her toasted sandwich is over-cooking under the griller. While taking off in a big hurry, she accidentally knocks the glass of water off her work station, which hits the tiled floor, smashing into hundreds of glass shards on the floor. The total order of the universe just took a hit, as the uniform shape of the glass transformed to a pile of random shards, dispersed on the floor. It's possible to try reversing the process, by melting the collection of glass shards into a blob of molten glass and reshaping it to be a glass again, but that of course consumes energy. Also the initial work done to place the glass on the table provides gravitational potential energy. Once the glass falls the original energy can not be recovered. It is transformed into kinetic energy, shattering the glass, dispersing shards in multiple directions. What's amazing is that the laws of physics do not prohibit the reversal of time to recreate the original uniform glass object. They just behave such that the probability of time reversal is extremely unlikely. This provides a definition of the miraculous, in terms of the arrow of time. A miracle has happened when the disordered result of some calamity is reversed so that the original ordered condition is restored. 
+
+The reason that a natural process tends towards a disorderd state is based on the statistical map of all possible states. Take the air molecules in a room. If left undisturbed the gas molecules fill the space evenly. 
+This configuration will account for the vast majority of all possible states, but there are configurations which defy the similarity of the "evenly spread out" arrangement set. An exceptional case is all the molecules clustered in a virtually compressed ball of gas, leaving a vacuum elsewhere in the room. The set of states that match this condition is very small relative to the total set. 
+
+In terms of humanity, it's curious that if spiritual entropy were considered it would describe the tendency for common and ordinary creatures to occupy the vast majority of all created beings, while the holy ones are exceptional and most holy even more so. The limit of this holiness frequency graph is the Lord God himself, who is perfectly Holy. The spirit of the World promotes indiscriminate equality and hates distinction that tends to group people separately based on gender or ability. Seems that corruption is aligned with increasing disorder and entropy.
+
+Here is what <a target="_blank" href="https://www.britannica.com/science/laws-of-thermodynamics"><u>Britannica</u></a> says about this subject =>
+
+The first law of thermodynamics :
+
+Within an isolated system, the total energy of the system is constant, even if energy has been converted from one form to another. (This is another way of stating the law of conservation of energy: that energy can not be created or destroyed but merely converted from one form to another.) If the system is not isolated, the change in a system’s internal energy ΔU is equal to the difference between the heat Q added to the system from its surroundings and the work W done by the system on its surroundings; that is, ΔU = Q − W.
+
+The second law of thermodynamics :
+
+Heat does not flow spontaneously from a colder region to a hotter region; or, equivalently, heat at a given temperature cannot be converted entirely into work. Consequently, the entropy (measure of the disorder of the material) of a closed system, or heat energy per unit temperature, increases over time toward some maximum value. Thus, all closed systems tend toward an equilibrium state in which entropy is at a maximum and no energy is available to do useful work.
+
+The third law of thermodynamics :
+
+The entropy of an isolated system approaches a constant value as the temperature of the system approaches absolute zero (−273.15 °C, or −459.67 °F). In practical terms, this theorem implies the impossibility of attaining absolute zero, since as a system approaches absolute zero, the further extraction of energy from that system becomes more and more difficult.
+
+
