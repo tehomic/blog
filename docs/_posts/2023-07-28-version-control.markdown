@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Daytime of Work and Night of Obscurity"
-date:   2023-01-19 00:00:00 -0600
+date:   2023-07-28 00:00:00 -0600
 categories: bible exposition
 ---
 
