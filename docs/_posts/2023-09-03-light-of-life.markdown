@@ -30,9 +30,9 @@ categories: bible exposition
 <br/>
 
 The book of Genesis is the Lord God's intelligent design document, providing a witness about Creation activity and purpose and a witness about the structure of heaven and the universe. However, without doubt there is a significant challenge presented to the reader in order to to appreciate His witness. 
-Consider that the world of heaven must surely be dramatically different to earth. On this subject, I recently heard a very good preacher declare "the realm of Heaven compared to Earth might be like comparing two worlds. Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter is a projected image moving through time.
+Consider that the world of heaven must surely be dramatically different to earth. On this subject, I recently heard a good preacher declare "the realm of Heaven compared to Earth might be like comparing two worlds. Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter is a projected image moving through time.
 
-Eventhough, a born again Christian is seated in heaven with Christ, unless he/she walks with the Holy Spirit, bible reading will be a challenge, because the Flesh is spiritual.
+Eventhough a born again Christian is seated in heaven with Christ, unless he/she walks with the Holy Spirit, bible reading and interpretation might be a challenge, because the flesh is spiritual.
 
 <bref>Gal 5:17 NIV</bref>
 For the flesh desires what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are in conflict with each other, so that you are not to do whatever you want.
@@ -42,15 +42,46 @@ This translation gives food for thought, saying "They are in conflict with each 
 <bref>Rom 8:5 ESV</bref>
 For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit.
 
-In the book of Daniel, it says
 
-While preparing this final article about the Days of Creation, I noticed the impressive volume of youtube material dedicated to Creation science and young earth cosmology. 
+In the book of Daniel, about his dream interpretation, it says the fourth kingdom is one like iron mixed with clay, which apparently indicates a fatally flawed system of government, because footing materials must have compressive strength, able to bear the weight of the body. Iron and clay are completely opposite materials, so immediately we expect this is weakness. But does it absolutely mean weakness? We know the subject is government, so that will depend on the application, arrangement and people? What's interesting is that cured concrete does have compressive strength. Cement, the binding agent of concrete, is a mixture of limestone, clay and sand. When fired in a very hot kiln, these elements crystalise into something called 'clinker'. Finally clinker is ground with gypsum into cement. Reinforced concrete is comparable to a mixture of iron and clay and is very strong. Concrete provides compressive strength to anchor reo-steel bars at the load points of a span, while steel gives tensile strength for spanning an open space. In this way iron and 'clay' are an effective partnership. Perhaps the key principle of this scripture is partnership. The strength of government is partership. Partnership with business, law, academics, education, banking, arts, sport and society. 
 
-When the bible says in psalm X:Y "the Lord created the earth and the heavens by the breath of his mouth", it might be easy to draw a conclusion that God spoke and by supernatural power creation immediately stood up to attention. But if you think and ponder it more judiciously, what is the principle word or term that the picture depends on? The term "the Lord created" explains the principle actor and activity. But there is an adverb of sorts that adds depth and backgound to the picture. The Hebrew word breath is called Ruach, and either refers to a spirit doing spiritual work or a wind doing natural work. This is a beautiful analogy of man that shows God's desire for mankind to believe that their image is from God. It's an analogy because God is spirit, He does not breath. He does not inhale and exhale breath. It means that creation has an Executor, a very powerful person. He is the Holy Spirit. He does the actual work of creating, and He moves only when God's command is declared. Recall that Gen 1:2 says "The spirit hovered over the waters". This means the Holy Spirit was getting in position ready for the water, ie, the Word of God, to flow. Since the holy angels are like God's sons, like a good Father, God gives them the privelege of declaring the commands that are entrusted to them. In the first order creation, Arch-angels speak commands for creating worker angels. Then later, in second order creation, the worker angels are directed by commander Arch-angels to speak their commands for creating the natural world.
-Imagine the scene, kind of like a stage when each of the morning stars has a turn in the spotlight to declare the next creation command. After the natural things appear, an angel or an angel company of the Kingdom is charged to maintain life. That does not mean things are static, quite the opposite. I believe, there is continual warfare in the spiritual heavens designed to uphold or degrade the prosperity of mankind. Each person is pushed and pulled to believe either their eternal identity is real or fake. The consequences of this struggle flow on to affect all of natural life. Realise that Satan and his cohorts hate mankind with a cruel hatred, because if unchallenged the chosen ones of mankind would eventually supercede the angels and one Day start to rule as God, even as the Lord God planned from the beginning. The chosen ones of mankind are Israel, according to the Spirit. The Day of Reckoning happens when the Morning appears, the Resurrection of the dead. Consider the vast array of galaxies in the heavenly realm. Kingdom angels are responsible to uphold the natural laws that keep the universe stable and continuous.
+This is an example of interpreting scripture with abstractive ideas. 
+
+While preparing this final article about the Days of Creation, I noticed the impressive volume of youtube material dedicated to Creation science and young earth cosmology. From my exposure to Creation ministry content, the main premise of their theology could be captured by psalm 33:6.
+
+<bref>Psa 33:6 NIV</bref>
+By the word of the LORD the heavens were made, their starry host by the breath of his mouth.
+
+<bref>Psa 33:6 NLT</bref>
+The LORD merely spoke, and the heavens were created. He breathed the word, and all the stars were born.
+
+<bref>Psa 33:6 KJV</bref>
+By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.
+
+When the bible says "the Lord created the heavens by the breath of his mouth", it might be easy to draw a conclusion that God merely spoke and by supernatural power creation immediately stood up to attention. That's the impression that the NLT version gives, by saying 'the Lord merely spoke'. But if you think and ponder about it judiciously, what is the principle word or term that the picture depends on? The term "the Lord created" explains the principle actor and activity. But there is an adverb of sorts that adds depth and backgound to the picture. The Hebrew word Ruach is translated to the english word breath, and either refers to a spirit or to naturally occuring wind. Why does Hebrew apply the same word for wind and spirit. Because both wind and spirit animate the flesh. The wind moves the clouds, trees, water and dirt. Without wind life on earth would not exist because wind makes rain possible. It carries warm water vapour into the colder atmosphere creating clouds. Consider that the violence and power of a storm is just wind. The "breath of God's mouth" is a very important theology statement. It says the Lord God is a person, whose voice is His Word, and breath is His Spirit. This identifies the Trinity. The Father declares His Word (the Son) using His breath (the Spirit). But wait a second, God is spirit !? Breathing is required for flesh but not for Spirit. Ahha ! This is a beautiful analogy that encourages mankind to connect with their maker. The Lord encourages mankind to believe that their image is from God. 
+
+It's an analogy because God is spirit, He does not breath. He does not inhale air and exhale breath. It actually means that creation has an Executor, a very powerful person. He is the Holy Spirit. He does the actual work of creating, and He moves only when God's command is declared. Recall that Gen 1:2 says "The Spirit of God hovered over the waters". This means Holy Spirit was getting in position ready for the water, the Word of God, to flow. Like a runner with their posture set to for takeoff. So the idea that God spoke and immediately the earth changed from nothing into a functional planet is not valid. Since nothing is impossible for God, the Lord CAN create something from nothing, but that not what the bible records. 
+
+<bref>Heb 11:3 NKJV</bref>
+By faith we understand that the worlds were framed by the word of God, so that the things which are seen were **not made of things which are visible.**
+
+
+<bref>Heb 11:3 NIV</bref>
+By faith we understand that the universe was formed at God’s command, so that what is seen **was not made out of what was visible.**
+
+The universe, the things which are seen, were not made of things which are visible. The substance of creation is something, and that something is invisible. What is something invisible that can produce visible matter? Answer : energy. Einstein's law of mass and energy to be accurate : E = mc^2. 
+
+ 
+Since the holy angels are like God's sons, like a good Father, the Lord God gives them the privelege of declaring the commands that are entrusted to them. In the first order creation, Arch-angels speak commands for creating worker angels. Later, in the second order creation, worker angels are directed by commander Arch-angels to speak their commands for creating the natural world.
+
+
+Imagine the scene, kind of like a stage when each of the morning stars has a turn in the spotlight to declare the next creation command. After the natural things appear, an angel or an angel company of the Kingdom is charged to maintain life. That does not mean things are static, quite the opposite. I believe, there is continual warfare in the spiritual heavens designed to uphold or degrade the prosperity of mankind. Each person is pushed and pulled to believe either their eternal identity is real or fake. The consequences of this struggle flow on to affect all of natural life. Realise that Satan and his cohorts hate mankind with a cruel hatred, because if unchallenged the chosen ones of mankind will eventually supercede the angels and one Day start to rule with God, even as the Lord God planned from the beginning. The chosen ones of mankind are Israel, according to the Spirit. The Day of Reckoning happens when the Morning Star, Jesus appears at the Resurrection of the dead. 
+
+----------------- not sure if this is relevent -------------------------------
+Consider the vast array of galaxies in the heavenly realm. Genesis 1 says "God made lights in the firmament of heaven to give light on the earth and to divide the light from the darkness". This might be a twofold witness. First, Kingdom angels govern the galaxies maintaining the law of gravity so that the combined stablility and influence of all galaxies adds up, providing conditons for the sun and earth to stay perfectly in place, giving life continuity on earth. Second, it might indicate that 'light on the earth' is a universal term referring to any planet made of stardust orbiting around a star anywhere in the universe. 
+------------------------------------------------------------------------------
 
 There is a huge industry of Christian youtube publishers who I suppose present themselves are champions of the bible. 
-
 
 The witness embedded in the oracle of God's Word, the Hebrew language. An unavoidable reality is that God's Word has it's own language, a spiritual language that is sometimes strange in contrast to literal and "logical" natural language. 
 
@@ -64,7 +95,7 @@ This verse is one of the most studied and explored verses of the bible, yet do w
 Is God really saying that the beasts of the fields are intelligent? You might say "He means animal cunning, like a lioness crouching in the grass sneaking up on unsuspecting wilderbeast". It's hard not to smile or giggle, thinking how this cunning comparison could be worked out. Imagine some cartoon african herbivores talking about predators. "Well the lion's main weapon is the ambush because of numbers, but the leopard, ugg, he is a deadly night stalker". As a side note about noctural predators, ever wondered why the zebra is marked with black and white stripes? It's not for daylight hours but for camouflage in the night. You might expect, with there exceptional night vision, leopards would clean up stalking at night, especially when moonlight could reveal their prey. Well the black and white stripes work especially well in the moonlight. Because moonlight casts varying shadows, in that space, a pack of zebras become almost invisible.
 
 But seriously, is there something else that does not rely on personified animals? Yes, He is referring to the angels who govern the lifecycle of every animal type and subtype. These are the Generations, the living types in charge of life continuity and version control, who rule over the Day and and the Night. 
-This verse also points to a special Generation, the minstry of Man which decides in advance the type of each human spirit born into the world. For example, in this story the snake represents Satan and that human spirit class that is aligned with Darkness, while Jesus is Lord over the Just, the human spirit class that is aligned with Light.
+This verse also points to a special Generation, the ministry of Man which decides in advance the type of each human spirit born into the world. For example, in this story the snake represents Satan and that human spirit class that is aligned with Darkness, while Jesus is Lord over the Just, the human spirit class that is aligned with Light.
 
 Recently, I listened to some commentators talking about creation versus intelligent-design. This event was a youtube debate between two Christian academic leaders, both professional scientists, one a creationist the other an evolutionist. A moderator controlled the debate, helping with discussion flow. To start, the premise of the debate was established. This essential concept is the context, setting or picture of Day and Night, which could in other words mean the Frame of Reference for studying the text. The creationist man, in my view, correctly asserted that perceiving the right idea of Day and Night depends on your worldview. This startled me, because it resonates with my own studies. For another discussion about worldview see my previous article called The Eye and the Lamp. The term worldview conjures different impressions for various people. So to use this term, it must be limited by scope, like 'cosmic or local', 'spiritual or natural'. In hearing the arguments of each speaker, the two men of course had distinct views. The creationist, by association, supports a "young earth cosmology" and the evolutionist supports "old earth cosmology". To be accurate, the "old earth cosmology" branch is divided into the secular evolution and intelligent design branches. The former thinks that entropy created life simply because life activity accelerates entropy. Therefore, entropy needs life to support entropy dominance. Sounds like there must be a sinister agency behind this entropy. You're right, it's called Chaos! Haha, a bit a humour adds flavor like salt on a ripe tomato.
 
@@ -320,3 +351,33 @@ Also, refer to God's name IAM to help the reader perceive the only true God is t
 In this true account might be a hidden revelation why all creature sins can only be remitted by the blood of another creature, or by one who accepts custody of the common creature type.
 
 Like a sheep that is silent before her shearers, so He did not open his mouth. Jesus the Lamb of God prophesised by Moses in the story of the Passover. This clearly shows that the primary context of scripture is spiritual. The Christ is not a literal sheep, He is a man, God in the flesh, who does the same actions predicted by the prophets that came after Moses, which declare that He will offer himself as a sacrifice for sin. Therefore, what is the proper context of Genesis? It must be spiritual because the Revelation declares that Christ is the Ruler of creation and the prophers declares the Spirit of Jesus Christ is the spirit of prophesy.
+
+---------------------------------------------------------------------------
+Notes about the revelation that competition explains what creation is doing
+---------------------------------------------------------------------------
+<bref>Isa 50:4 NKJV</bref>
+The Lord GOD has opened My ear; And I was not rebellious, Nor did I turn away
+
+<bref>Isa 50:4 NIV</bref>
+The Sovereign LORD has opened my ears; I have not been rebellious, I have not turned away
+
+<bref>Psa 40:6 NKJV</bref>
+Sacrifice and offering You did not desire; My ears You have opened. Burnt offering and sin offering You did not require.
+
+<bref>Psa 40:6 NLT</bref>
+You take no delight in sacrifices or offerings. Now that you have made me listen, I finally understand— you don’t require burnt offerings or sin offerings.
+
+The root word of the hebrew word for morning means ->
+1. to seek, enquire, consider
+  (Piel)
+    to seek, look for
+    to consider, reflect
+
+So to seek, to enquire implies a willingness to listen to a wise counsellor
+To consider, to reflect means to meditate on the advice, instuction even commands of the counsellor
+
+The principle of Day and Night is about Spirit versus Flesh competing for dominance. In the Day and Night of creation 2 or more virtual creatures are competing in the Day striving to beat one another for the prize of having their seed continue when the night comes around. The saint is challenged to decide which version of themselves will win the race to carry seed into the next generation, the next version, but the compatants are Spirit versus Flesh.
+
+Two cases for the saint call to compete for a greater life. 1. The call says "You're not ambitious enough ! I've called you to do more, follow me to go higher and above what you current limit is now. 2. The call says "you're languishing in prison because you have great talent. Follow the Holy Spirit's leadership to break out of prison and do great exploits for Jesus."
+
+What is this talk about virtual creatures and virtual seed? Realise that the gospel has given this vital information to provide education about the most characteristic of all - your type of spirit. Those who are led by the Holy Spirit gain more and more Christ likeness as they journey in life. Likeness in terms of type - put it this way - all behavior is explained by the types of person or spirit. Not emotions, not intellect, not ethnic origins. Type of person rules over everthing else. That's why the bible says 'your whole life is a competition that compels man to choose between 2 kinds of seed - the Spirit of Christ or the spirit of Antichrist or Flesh.'
