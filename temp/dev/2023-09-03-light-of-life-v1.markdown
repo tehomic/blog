@@ -29,8 +29,15 @@ categories: bible exposition
 <hr/>
 <br/>
 
-The book of Genesis is the Lord God's intelligent design document, providing a witness about Creation activity and purpose and a witness about the structure of heaven and the universe. However, without doubt there is a significant challenge presented to the reader in order to to appreciate His witness. 
-Consider that the world of heaven must surely be dramatically different to earth. On this subject, I recently heard a good preacher declare "the realm of Heaven compared to Earth might be like comparing two worlds. Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter is a projected image moving through time.
+The book of Genesis Chapter one is the Lord God's intelligent design document, providing a witness about the created structure of heaven and the universe. Without doubt there is a significant challenge presented to the reader in order to to appreciate His witness. 
+Consider that the world of heaven must surely be dramatically different to earth. The obvious contrast is that heaven is not a physical world. The realm of Heaven compared to Earth is like comparing day and night, spirit and flesh. 
+
+By relative comparison, imagine Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter exists by virtue of the former. That is, the Earth and Mankind exist by vitue of the Lord God of Israel, the Father, Son and Holy Spirit. This means that natural life is like a projected image moving through time, in the same way an image reel moves through the light of a projector.
+
+Add God says I AM - self-existant, but man can only say 'I AM' by virtue of God who gives me the light of light. 
+Transition to 'God divided the light from the darkness' in the beginning.
+
+The light of life IS the virtue of Jesus which gives creation opportunity to work and compete
 
 Eventhough a born again Christian is seated in heaven with Christ, unless he/she walks with the Holy Spirit, bible reading and interpretation might be a challenge, because the flesh is spiritual.
 
@@ -58,7 +65,7 @@ The LORD merely spoke, and the heavens were created. He breathed the word, and a
 <bref>Psa 33:6 KJV</bref>
 By the word of the LORD were the heavens made; and all the host of them by the breath of his mouth.
 
-When the bible says "the Lord created the heavens by the breath of his mouth", it might be easy to draw a conclusion that God merely spoke and by supernatural power creation immediately stood up to attention. That's the impression that the NLT version gives, by saying 'the Lord merely spoke'. But if you think and ponder about it judiciously, what is the principle word or term that the picture depends on? The term "the Lord created" explains the principle actor and activity. But there is an adverb of sorts that adds depth and backgound to the picture. The Hebrew word Ruach is translated to the english word breath, and either refers to a spirit or to naturally occuring wind. Why does Hebrew apply the same word for wind and spirit. Because both wind and spirit animate the flesh. The wind moves the clouds, trees, water and dirt. Without wind life on earth would not exist because wind makes rain possible. It carries warm water vapour into the colder atmosphere creating clouds. Consider that the violence and power of a storm is just wind. The "breath of God's mouth" is a very important theology statement. It says the Lord God is a person, whose voice is His Word, and breath is His Spirit. This identifies the Trinity. The Father declares His Word (the Son) using His breath (the Spirit). But wait a second, God is spirit !? Breathing is required for flesh but not for Spirit. Ahha ! This is a beautiful analogy that encourages mankind to connect with their maker. The Lord encourages mankind to believe that their image is from God. 
+When the bible says "the Lord created the heavens by the breath of his mouth", it might be easy to draw a conclusion that God merely spoke and by supernatural power creation immediately stood up to attention. That's the impression that the NLT version gives, by saying 'the Lord merely spoke'. But if you think and ponder about it judiciously, what is the principle word or term that the picture depends on? The term "the Lord created" explains the principle actor and activity. But there is an adverb of sorts that adds depth and backgound to the picture. The Hebrew word Ruach is translated to the english word breath, and either refers to a spirit or to naturally occuring wind. Why does Hebrew apply the same word for wind and spirit? Because both wind and spirit animate the flesh. The wind moves the clouds, trees, water and dirt. Without wind life on earth would not exist because wind makes rain possible. It carries warm water vapour into the colder atmosphere creating clouds. Consider that the violence and power of a storm is just wind. The "breath of God's mouth" is a very important theology statement. It says the Lord God is a person, whose voice is His Word, and breath is His Spirit. This identifies the Trinity. The Father declares His Word (the Son) using His breath (the Spirit). But wait a second, God is spirit !? Breathing is required for flesh but not for Spirit. Ahha ! This is a beautiful analogy that encourages mankind to connect with their maker. The Lord encourages mankind to believe that their image is from God. 
 
 It's an analogy because God is spirit, He does not breath. He does not inhale air and exhale breath. It actually means that creation has an Executor, a very powerful person. He is the Holy Spirit. He does the actual work of creating, and He moves only when God's command is declared. Recall that Gen 1:2 says "The Spirit of God hovered over the waters". This means Holy Spirit was getting in position ready for the water, the Word of God, to flow. Like a runner with their posture set to for takeoff. So the idea that God spoke and immediately the earth changed from nothing into a functional planet is not valid. Since nothing is impossible for God, the Lord CAN create something from nothing, but that not what the bible records. 
 
@@ -70,7 +77,7 @@ By faith we understand that the worlds were framed by the word of God, so that t
 By faith we understand that the universe was formed at God’s command, so that what is seen **was not made out of what was visible.**
 
 The universe, the things which are seen, were not made of things which are visible. The substance of creation is something, and that something is invisible. What is something invisible that can produce visible matter? Answer : energy. Einstein's law of mass and energy to be accurate : E = mc^2. 
-
+It also refers to invisible phyical matter, that is, the atomic elements. The atomic mass of an element is is approximately equivalent to the number of protons and neutrons in the atom (the mass number) or to the average number allowing for the relative abundances of different isotopes. Apart from a neutrino, an electron is the smallest particle having a mass. It also has a wavelength and demonstrates wave like behaviour. The possibility is that an atom is really best described as bounded energy, bounded by a virtual boundary that is not physically detectable.
  
 Since the holy angels are like God's sons, like a good Father, the Lord God gives them the privelege of declaring the commands that are entrusted to them. In the first order creation, Arch-angels speak commands for creating worker angels. Later, in the second order creation, worker angels are directed by commander Arch-angels to speak their commands for creating the natural world.
 
@@ -244,7 +251,7 @@ The Day and Night are spiritual terms referring to the Lord's mastery of metamor
 
 Find all biblical references that use the phrase - the light of life.
 
-All the following verses give a witness that in the morning, things will change, people and cities will be transformed. This is the witness about the morning and the purpose of the Day. The Day is a period when life is resident and a creature has opportunity to do work. The Night is a time of endurance, waiting for dawn to arrive. It can also be a time of adversity, because darkness is imposed on someone by the Adversary, and their life and their world is darkened. In this case, a search for Truth is the only recourse to deal with pain, the pain of wasted time and effort. In this place a righteous cause is very meaningful! 
+All the following verses give a witness that in the morning, things will change, people and cities will be transformed. This is the witness about the morning and the purpose of the Day. The Day is a period when life is resident and a creature has opportunity to do work. The Night is a time of endurance, waiting for dawn to arrive. It can also be a time of adversity, because darkness may be imposed on someone by the Adversary, and their life and their world is darkened. In this case, rehersal of life is the only recourse to deal with pain, the pain of wasted time and effort. Rehersal is just like an actor preparing to play a role on a stage, when the light of life has come. Rehersal is about meditating on the Word of God as Joshua 1:8 says "Do not let this Word of God (book of the law) depart from your mouth, meditate on it day and night, that you may observe to do all that is written in it, then you will be prosperous and have good success". To observe means to perceive by faith.
 
 Job 14:14 NIV
 If someone dies, will they live again? All the days of my hard service I will wait for my renewal to come.
@@ -269,6 +276,7 @@ Awake, awake, put on your strength, O Zion; put on your beautiful garments, O Je
 Isa 60:1-2 ESV
 Arise, shine, for your light has come, and the glory of the Lord has risen upon you. For behold, darkness shall cover the earth, and thick darkness the peoples; but the Lord will arise upon you, and his glory will be seen upon you.
 
+What beautiful language! Arise, your light has 
 Rom 13:11-12 ESV
 Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.
 
