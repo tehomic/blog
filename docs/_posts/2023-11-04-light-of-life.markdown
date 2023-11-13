@@ -349,6 +349,7 @@ Besides this you know the time, that the hour has come for you to wake from slee
 
 <hr/>
 <br/>
+<br/>
 
 ### **Bibliography**
 
@@ -357,5 +358,6 @@ Besides this you know the time, that the hour has come for you to wake from slee
   </li>
 </ol>
 
-<hr/>
 <br/>
+<hr/>
+
