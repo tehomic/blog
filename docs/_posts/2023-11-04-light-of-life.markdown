@@ -98,9 +98,15 @@ The bible calls angels the sons of God. As for the holy angels, the Lord God giv
 
 Imagine the scene, kind of like a stage when each of the morning stars has a turn in the spotlight to declare the next creation command. After the natural things appear, an angel or an angel company of the Kingdom is charged to maintain life. That does not mean things are static, quite the opposite. I believe, there is continual warfare in the spiritual heavens designed to uphold or degrade the prosperity of mankind. Each person is pushed and pulled to believe either their eternal identity is real or fake. The consequences of this struggle flow on to affect a perception of eternal life for each person. Realise that Satan and his cohorts hate mankind with a cruel hatred, because if unchallenged the chosen ones of mankind, the ones who overcome by faith in Christ, will eventually supercede the angels and one day start to rule with God, even as the Lord God planned from the beginning. The chosen ones of mankind are Israel, according to the Spirit. The final day of reckoning happens when the bright Morning Star, Jesus Christ appears at the Resurrection of the dead. 
 
-A feature of God's Word, is the oracle of the Hebrew language. Another feature of God's Word is the descriptive language, a spiritual language that is sometimes strange in contrast to literal and "logical" natural language. This strangeness might be prohibitive for some class-conscious people, whose worldview is limited to "proper" academic information.
+A feature of God's Word, is the oracle of the Hebrew language. Another feature of God's Word is the descriptive language, a spiritual language that is sometimes strange in contrast to literal and "logical" natural language. This strangeness might be prohibitive for some people, whose worldview is limited to "proper" academic information.
 
-For example, the Lord's spiritual language sometimes appears to personify objects and animals, giving them intelligence attributes like a human begin.
+<bref>1 Cor 1:19 NIV</bref>
+For it is written: “I will destroy the wisdom of the wise; the intelligence of the intelligent I will frustrate.”
+
+<bref>1 Cor 1:19 NKJV</bref>
+For it is written: “I will destroy the wisdom of the wise, And bring to nothing the understanding of the prudent.”
+
+The Lord's spiritual language sometimes appears to personify objects and animals, giving them intelligence attributes like a human begin.
 
 <bref>Gen 3:1 NKJV</bref>
 .<bref>1</bref> Now the serpent was more cunning than any beast of the field which the LORD God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”
@@ -111,9 +117,9 @@ Is God really saying that the beasts of the fields are intelligent? You might sa
 
 But seriously, is there something else that does not rely on personified animals? Yes, He is referring to the angels who govern the lifecycle of every animal type and kind. These are the Generations, the living types in charge of life continuity and version control, who rule over the Day and and the Night.
 
-In this story the snake represents Satan, the ruler of Darkness, while Jesus is the Lord of Light. There is a fierce competition between Light and Dark for the right to propogate their seed. In this continuous struggle, the victor of each warfare episode wins the right to decide what **kind of people** will continue or be culled in the various tribes of man of the world. This struggle is reflected in the earth and described by the term "survival of the fittest".
+In this story the snake represents Satan, the ruler of Darkness, while Jesus is the Lord of Light. There is a fierce competition between Light and Dark for the right to propogate their seed. In this continuous struggle, the victor of each warfare episode wins the right to decide what **kind of people** will continue or be culled in the various tribes of man in the world. This struggle is reflected in the earth and described by the term "survival of the fittest".
 
-The bible is not designed for academic scholars to critic. There is only one worldview that can truely perceive and understand Gods prophetic writing. That is, the worldview of the Holy Spirit. This is an amazing gift, it comes from the heart of God, the amazing attibute that makes Man different from other creatures. 
+The bible is not designed for academic scholars to critique. There is only one worldview that can truely perceive and understand Gods prophetic writing. That is, the worldview of the Holy Spirit. This is an amazing gift, it comes from the heart of God, the amazing attibute that makes Man different from other creatures. 
 
 <bref>2 Cor 9:9 BSB</bref>
 As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”
@@ -298,7 +304,12 @@ The earth takes shape like clay under a seal (signet ring), its features stand o
 
 This is an amazing support testimony that refers exactly to the role of Jesus as Lord of creation. The saints of course know the answer to Isaiah's concern : Jesus is the firstborn from the dead, vindicated and seated at the right hand of the Father, high above every other name that can be named. 
 
-Yet another biblical term that reinforces the notion of a spiritual Day is the concept of morning or dawn. There is one special Morning, the spiritual Day called Resurrection of the Dead. Although generally Morning explains the purpose of a transition from Night to Day, because it generally means that relative to the previous Day, the new Day will reveal some degree of metamorphosis that defines a new creature version.
+Yet another biblical term that reinforces the notion of a spiritual Day is the concept of morning or dawn. There is one special Morning, the spritual Day called Resurrection of the Dead. The faith concept of Morning is very important, because it a veritable fountain of hope that supports and sustains all those who are consoled about injustice by imagining a special Morning when true justice will be rendered. 
+
+<bref>Isa 50:4-5 NIV</bref>
+<bref>4</bref> The Sovereign LORD has given me a instructed tongue, to know the word that sustains the weary. He wakens me morning by morning, wakens my ear to listen like one being taught. <bref>5</bref> The Sovereign LORD has opened my ears; I have not been rebellious, I have not drawn back.
+
+The Word of God reveals that the Morning can be effective here and now, for those who believe correctly. The Lord is explaining the purpose of a transition from Night to Day. It generally means that relative to the previous Day, the new Day will reveal some degree of change that brings new life. However, there is a spiritual technicality that deserves noting. The dawn of a new Day is significant because it defines a new creature version, one that is resident and alive.
 
 All the following verses give a witness that in the Morning, things will change, people and cities will be transformed. This is the witness about the morning and the purpose of the Day. The Day is a period when life is resident and a creature has opportunity to work. The Night is a time of endurance, waiting for dawn to arrive. It can also be a time of adversity, because obscurity may be imposed on someone by the Adversary of the saints, making their life and their world darkened. In this case, rehersal of life is the only way to avoid moments and periods of unbelief. Try to celebrate that any challenge, any adversity is no match for one who is called to rise up and conquer! Rehersal is just like an actor preparing to play a stage role, when the light of life dawns. Rehersal is clinging on to hope that morning is coming around when anticipated changes happen, changes that resonate with the Light of life. Rehersal is about meditating on the God's word. As Joshua 1:8 says "Do not let this Word of God depart from your mouth, meditate on it day and night, that you may observe to do all that is written in it. Then you will be prosperous and have good success". To observe means to perceive and understand by faith.
 
