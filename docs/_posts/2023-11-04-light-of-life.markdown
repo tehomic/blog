@@ -347,8 +347,8 @@ Arise, shine, for your light has come, and the glory of the Lord has risen upon 
 <bref>Rom 13:11-12 ESV</bref>
 Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.
 
-<hr/>
 <br/>
+<hr/>
 <br/>
 
 ### **Bibliography**
@@ -357,7 +357,3 @@ Besides this you know the time, that the hour has come for you to wake from slee
   <li id="dcorby">I borrowed the term "flatland" from Hillsong college professor Duncan Corby, who preached a superb message on "flatland" world and the "I AM status of the Lord God" in early 2023.
   </li>
 </ol>
-
-<br/>
-<hr/>
-
