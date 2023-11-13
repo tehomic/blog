@@ -31,7 +31,7 @@ categories: bible exposition
 
 The book of Genesis Chapter one is the Lord God's intelligent design document, providing a witness and picture of heaven and the universe. Without doubt there is a significant challenge presented to the reader in order to to appreciate His witness. Consider that the world of heaven must surely be dramatically different to earth. The obvious contrast is that heaven is not a physical world. The realm of Heaven compared to Earth is like comparing day and night, spirit and flesh. 
 
-How different could it be? Let's hope for inspiration while I make an educated guess! Imagine Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter exists by virtue of the former. That is, the universe, earth and mankind exist by virtue of the Lord God of Israel - the Father, Son and Holy Spirit. By comparison, the natural life of "flatland" is like a projected image moving through time, in the same way a 1950's picture reel moves through the light of a projector.
+How different could it be? Let's hope for inspiration while I make an educated guess! Imagine Heaven is 3 dimensional and "everywhere" while earth is a 2 dimensional "flatland" world controlled by Heaven. The former is true reality while the latter exists by virtue of the former. That is, the universe, earth and mankind exist by virtue of the Lord God of Israel - the Father, Son and Holy Spirit. By comparison, the natural life of <sup><href="https://tehomic.github.io/blog/bible/exposition/2023/11/04/light-of-life.html#dcorby">[1]</href></sup>"flatland" is like a projected image moving through time, in the same way a 1950's picture reel moves through the light of a projector.
 
 <bref>Exo 3:14 NIV</bref>
 God said to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’”
@@ -54,7 +54,7 @@ The people who sat in darkness have seen a great light, And upon those who sat i
 Notice that the people in darkness sit in the darkness waiting for dawn, because a person can not work in the darkness.
 
 <bref>John 1:4 ESV</bref>
-In him was life, and the life was the light of men
+In him was life, and **the life was the light** of men
 
 <bref>John 8:12 ESV</bref>
 Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the **light of life**.”
@@ -86,7 +86,7 @@ By faith we understand that the worlds were framed by the word of God, so that t
 <bref>Heb 11:3 NIV</bref>
 By faith we understand that the universe was formed at God’s command, so that what is seen **was not made out of what was visible.**
 
-The universe, the things which are seen, were not made of things which are visible. The substance of creation is something, and that something is invisible. What is something invisible that can produce visible matter? The answer must be energy, perhaps not in terms of E = mc^2. It also refers to invisible phyical matter, that is, the atomic elements. There is a really curious idea that proposes an alternate definition of atomic existance. That is, atomic mass depends on a physically undetectable virtual host, provided by the Lord of Hosts! This container converts energy to mass not according to E=mc^2 but according to a statistical energy field of mass existance, which indeed may define Space itself. The term "mass existance" means virtual mass density. Thus, atomic mass might be defined by a probability distribution of mass density inside this tiny container. That is, the constructive interference path of probability wave motion is the path of virtual mass movement. This could explain atomic nucleus particles that exist by the convergence of oscillating waves, intersecting constructively in the center of a spherical host container. Electrons are also created by other waves that harmonically oscillate, converging on the boundary of the container. This wave model is inline with a discrete atomic energy spectrum. That is, in a higher energy state the probabilty wave has a higher frequency, which is always a discrete or quantum multiple of the stable frequency condition. About visualising the atomic nucleus idea. Think of a cyclindrical cup of water with a height to diameter ratio between 1 and 1.5 and filled to 4/5ths of the cup height. If the cup is gently knocked, the water sloshes creating circularish waves that rebound off the walls and converge in the center. The first convergence of circular ripples will create a little ball of water projecting upwards, which for a moment is separate in free space.
+The universe, the things which are seen, were not made of things which are visible. The substance of creation is something, and that something is invisible. What is something invisible that can produce visible matter? The answer must be energy, perhaps not in terms of E = mc^2. It also refers to invisible phyical matter, that is, the atomic elements. There is a really curious idea that proposes an alternate definition of atomic existance. That is, atomic mass depends on a physically undetectable virtual host, provided by the Lord of Hosts! This container converts energy to mass not according to E=mc^2 but according to a statistical energy field of mass existance, which indeed may define Space itself. The term "mass existance" means virtual mass density. Thus, atomic mass might be defined by a probability distribution of mass density inside this tiny container. That is, the constructive interference path of probability wave motion is the path of virtual mass movement. When constructive composition exceeds a threshold value of probable occurance, mass existance is valid. This could explain atomic nucleus particles that exist by the convergence of oscillating waves, intersecting constructively in the center of a spherical host container. Electrons are also created by other waves that harmonically oscillate, converging on the boundary of the container. This wave model is inline with a discrete atomic energy spectrum. That is, in a higher energy state the probabilty wave has a higher frequency, which is always a discrete or quantum multiple of the stable frequency condition. About visualising the atomic nucleus idea. Think of a cyclindrical cup of water with a height to diameter ratio between 1 and 1.5 and filled to 4/5ths of the cup height. If the cup is gently knocked, the water sloshes creating circularish waves that rebound off the walls and converge in the center. The first convergence of circular ripples will create a little ball of water projecting upwards, which for a moment is separate in free space.
 
 <bref>Job 38:4-7 NIV</bref>
 .<bref>4</bref> Where were you when I laid the earth’s foundation? Tell me, if you understand. <bref>5</bref> Who marked off its dimensions? Surely you know! Who stretched a measuring line across it? <bref>6</bref> On what were its footings set, or who laid its cornerstone- <bref>7</bref> while the morning stars sang together and all the angels shouted for joy?
@@ -106,12 +106,12 @@ For it is written: “I will destroy the wisdom of the wise; the intelligence of
 <bref>1 Cor 1:19 NKJV</bref>
 For it is written: “I will destroy the wisdom of the wise, And bring to nothing the understanding of the prudent.”
 
-The Lord's spiritual language sometimes appears to personify objects and animals, giving them intelligence attributes like a human begin.
+The Lord's spiritual language sometimes appears to personify objects and animals, giving them intelligence like a human begin.
 
 <bref>Gen 3:1 NKJV</bref>
 .<bref>1</bref> Now the serpent was more cunning than any beast of the field which the LORD God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”
 
-This verse is one of the most studied and explored verses of the bible, yet do we really know the "3D picture" of the story. It's not hard to imagine how an authoritive book that personifies animals might influence story tellers throughout history. Books like the Narnia series by T.S Lewis are an example. 
+This verse is one of the most studied and explored verses of the bible, yet do we really know the 3d picture of the story. It's not hard to imagine how an authoritive book that personifies animals might influence story tellers throughout history. Books like the Narnia series by T.S Lewis are an example. 
 
 Is God really saying that the beasts of the fields are intelligent? You might say "He means animal cunning, like a lioness crouching in the grass sneaking up on unsuspecting wilderbeast". It's hard not to smile or giggle, thinking how this cunning comparison could be worked out. Imagine some cartoon african herbivores talking about predators. "Well the lion's main weapon is the ambush because of numbers, but the leopard, ugg, he is a deadly night stalker". As a side note about noctural predators, ever wondered why the zebra is marked with black and white stripes? It's not for daylight hours but for camouflage in the night. You might expect, with there exceptional night vision, leopards would clean up stalking at night, especially when moonlight could reveal their prey. Well the black and white stripes work especially well in the moonlight. Because moonlight casts varying shadows, in that space, a pack of zebras become almost invisible.
 
@@ -347,3 +347,9 @@ Arise, shine, for your light has come, and the glory of the Lord has risen upon 
 <bref>Rom 13:11-12 ESV</bref>
 Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.
 
+### **Bibliography**
+
+<ol>
+  <li id="dcorby">I borrowed the term "flatland" from Hillsong college professor Duncan Corby, who preached a superb message on "flatland world" and the "I AM status of the Lord God" in early 2023.
+  </li>
+</ol>
