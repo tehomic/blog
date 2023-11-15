@@ -335,6 +335,12 @@ This one is an example of how the Hebrew language can produce super interesting 
 
 The resurrection of the Dead, is a day when staggering changes will happen. A new version of life is revealed, for some the life of light and vindication for others the darkness of guilt and judgement followed by the second death which is final and unchangable.
 
+<bref>Psa 110:3 KJV</bref>
+Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
+
+<bref>Psa 110:3 ESV</bref>
+Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours
+
 <bref>Isa 51:17 BSB</bref>
 Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the hand of the Lord the cup of his wrath, who have drunk to the dregs the bowl, the cup of staggering.
 
