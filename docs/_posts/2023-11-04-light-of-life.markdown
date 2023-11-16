@@ -169,7 +169,12 @@ Let's review the interpretation of Light according to Genesis. The Hebrew dictio
 
 What about Genesis Day one? What kind of creature was created on Day one?
 
-Day one describes the beginning of the God's great plan and purpose of a creating a new age of Kingdom investment. The Lord God of Israel owns the whole universe because of course He made it. He designed it to be used and consumed until every last drop of fuel is burned up and the world is totally worn out. However, the first Day is founded on the cornerstone of Life. In the beginning "darkness (disorder and corruption) was on the face of the deep", which might point to the post-apocalypse state of the previous age. And God said "Let there be Light". Truth is Light and deceit is Darkness. Thus on the first Day, the ministry of creation was setup and established, which is the first act of separating Light from Darkness. The first act of building a foundation was appointing the ruler of creation. The Light of creation is the Ruler of creation, and is Jesus Christ, as declared in <a target="_blank" href="https://www.blueletterbible.org/kjv/rev/3/1/t_conc_1170014"><u>Rev 3:14</u></a>. This Ministry of Creation is itself a living creature, and Day one is when it was born. 
+Day one describes the beginning of the God's great plan and purpose of a creating a new age of Kingdom investment. The Lord God of Israel owns the whole universe because of course He made it. He designed it to be used and consumed until every last drop of fuel is burned up and the world is totally worn out. However, the first Day is founded on the cornerstone of Life. In the beginning "darkness (disorder and corruption) was on the face of the deep", which might point to the post-apocalypse state of the previous age. And God said "Let there be Light". Truth is Light and deceit is Darkness. Thus on the first Day, the ministry of creation was setup and established, which is the first act of separating Light from Darkness. The first act of building a foundation was appointing the ruler of creation. The Light of creation is the Ruler of creation, and is Jesus Christ, as declared in <a target="_blank" href="https://www.blueletterbible.org/kjv/rev/3/1/t_conc_1170014"><u>Rev 3:14</u></a>. This Ministry of Creation is itself a living creature, and Day one is when it was born. The following Days account for expansion of creative capacity and diversity. After each Night a new Day reveals the birth of a new generation. A new kind that is more advanced than the previous one. This progressive increase of complexity culminates with the final Day when the generation of Man appears. Man is probably the jewel in God's creative crown, because unlike other creatures he has three components : spirit, soul and body.
+
+<bref>Rev 22:5 NKJV</bref>
+There shall be no night there: They need no lamp nor light of the sun, for the Lord God gives them light. And they shall reign forever and ever.
+
+Here is yet more evidence that a Day is about life from start to finish ... unless there is no finish! The scripture reveals that there is no more Night, so life is uninterrupted - eternal life!
 
 <bref>Genesis 2:4 KJV</bref>
 These are the generations <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H8435"><u>H8435</u></a> of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens
@@ -303,6 +308,12 @@ Notice again that Isaiah 53:8 says "who will declare his generation?". This vers
 The earth takes shape like clay under a seal (signet ring), its features stand out like those of a garment.
 
 This is an amazing support testimony that refers exactly to the role of Jesus as Lord of creation. The saints of course know the answer to Isaiah's concern : Jesus is the firstborn from the dead, vindicated and seated at the right hand of the Father, high above every other name that can be named. 
+
+<bref>Isa 53:10-11 NIV</bref>
+.<bref>10</bref> Yet it was the LORD’s will to crush him and cause him to suffer, and though the LORD makes his life an offering for sin, he will see his offspring and prolong his days, and the will of the LORD will prosper in his hand. <bref>11</bref> After he has suffered, he will see the **light of life** and be satisfied; by his knowledge my righteous servant will justify many, and he will bear their iniquities.
+
+<bref>Isa 53:10-11 NKJV</bref>
+.<bref>10</bref> Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall see His seed, He shall **prolong His days**, And the pleasure of the LORD shall prosper in His hand. <bref>11</bref> He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities.
 
 Yet another biblical term that reinforces the notion of a spiritual Day is the concept of morning or dawn. There is one special Morning, the spritual Day called Resurrection of the Dead. The faith concept of Morning is very important, because it a veritable fountain of hope that supports and sustains all those who are consoled about injustice by imagining a special Morning when true justice will be rendered. 
 
