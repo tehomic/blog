@@ -286,12 +286,12 @@ Phonetic : dure
 {% highlight java %}
 ¹BSB definition =>
 {% endhighlight %}
-1. to heap up, pile
+1. to *heap up*, pile
     * to dwell
         - (Qal) to dwell
         - heap up (imp.)
-    * generation (characterised by quality, condition, class of men)
-    * dwelling-place, habitation
+    * **generation** (characterised by quality, condition, class of men)
+    * *dwelling-place, habitation*
 
 {% highlight java %}
 ¹Strong’s definition =>
@@ -310,10 +310,10 @@ The earth takes shape like clay under a seal (signet ring), its features stand o
 This is an amazing support testimony that refers exactly to the role of Jesus as Lord of creation. The saints of course know the answer to Isaiah's concern : Jesus is the firstborn from the dead, vindicated and seated at the right hand of the Father, high above every other name that can be named. 
 
 <bref>Isa 53:10-11 NIV</bref>
-.<bref>10</bref> Yet it was the LORD’s will to crush him and cause him to suffer, and though the LORD makes his life an offering for sin, he will see his offspring and prolong his days, and the will of the LORD will prosper in his hand. <bref>11</bref> After he has suffered, he will see the **light of life** and be satisfied; by his knowledge my righteous servant will justify many, and he will bear their iniquities.
+.<bref>10</bref> Yet it was the LORD’s will to crush him and cause him to suffer, and though the LORD makes his life an offering for sin, he will **see his offspring** and **prolong his days**, and the will of the LORD will prosper in his hand. <bref>11</bref> After he has suffered, he will see the **light of life** and be satisfied; by his knowledge my righteous servant will justify many, and he will bear their iniquities.
 
 <bref>Isa 53:10-11 NKJV</bref>
-.<bref>10</bref> Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall see His seed, He shall **prolong His days**, And the pleasure of the LORD shall prosper in His hand. <bref>11</bref> He shall see the labor of His soul, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities.
+.<bref>10</bref> Yet it pleased the LORD to bruise Him; He has put Him to grief. When You make His soul an offering for sin, He shall **see His seed**, He shall **prolong His days**, And the pleasure of the LORD shall prosper in His hand. <bref>11</bref> He shall see the **labor of His soul**, and be satisfied. By His knowledge My righteous Servant shall justify many, For He shall bear their iniquities.
 
 Yet another biblical term that reinforces the notion of a spiritual Day is the concept of morning or dawn. There is one special Morning, the spritual Day called Resurrection of the Dead. The faith concept of Morning is very important, because it a veritable fountain of hope that supports and sustains all those who are consoled about injustice by imagining a special Morning when true justice will be rendered. 
 
@@ -340,7 +340,7 @@ But those who die in the LORD will live; their bodies will rise again! Those who
 Your dead will live; Their corpses will rise. You who lie in the dust, awake and shout for joy, For your dew is as the dew of the dawn, And the earth will give birth to the departed spirits.
 
 <bref>Isa 26:19 KJV</bref>
-Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out <a target="_blank" href="https://www.blueletterbible.org/lexicon/h5307/kjv/wlc/0-1/"><u>H5307</u></a> the dead <a target="_blank" href="https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/"><u>H7496</u></a>
+Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth **shall cast out** <a target="_blank" href="https://www.blueletterbible.org/lexicon/h5307/kjv/wlc/0-1/"><u>H5307</u></a> the dead <a target="_blank" href="https://www.blueletterbible.org/lexicon/h7496/kjv/wlc/0-1/"><u>H7496</u></a>
 
 This one is an example of how the Hebrew language can produce super interesting hermeneutics (interpretations). The KJV english phrase "shall cast out" refers to <b1>H5307</b1>. The applied Hebrew verb/adverb tense is Hiphil which means the Earth is doing something to the dead. That's fairly obvious from the general theme of this verse, but let's look at how the "giving birth or healing" idea is revealed exactly. For <b1>H5307</b1>, for Hiphil tense, the Hebrew dictionary says "to overthrow" and "to let drop, cause to fail". So we can deduce that the slightly obscure term "to let drop" points to the more concrete term "cause to fail". Next the phrase "the dead" refers to <b1>H7496</b1>. The Hebrew meaning is "ghosts of the dead, shades, spirits". The root verb is actually a combination of two, <a target="_blank" href="https://www.blueletterbible.org/lexicon/h7495/kjv/wlc/0-1/"><u>H7495</u></a> and <a target="_blank" href="https://www.blueletterbible.org/lexicon/h7503/kjv/wlc/0-1/"><u>H7503</u></a>. For <b1>H7495</b1>, the Hiphil tense means "to be healed", while <b1>H7503</b1> means "to let drop, abandon, relax, refrain, forsake". Notice that the term "to let drop" appears first with qualifying verbs following. So the dead are people for whom healing was allowed to drop, allowed to fail. Here's the interesting part : in the Morning the earth overthows that condition by multiplying "to fail" with "to fail" which is a double negative and apparently equals "to succeed"! So the final verdict says the resurrected dead will become people for whom healing is allowed to succeed! 
 
@@ -350,7 +350,7 @@ The resurrection of the Dead, is a day when staggering changes will happen. A ne
 Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
 
 <bref>Psa 110:3 ESV</bref>
-Your people will offer themselves freely on the day of your power, in holy garments; from the womb of the morning, the dew of your youth will be yours
+Your people will offer themselves freely on the day of your power, in holy garments; from **the womb of the morning**, the dew of your youth will be yours
 
 <bref>Isa 51:17 BSB</bref>
 Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the hand of the Lord the cup of his wrath, who have drunk to the dregs the bowl, the cup of staggering.
