@@ -124,22 +124,30 @@ In this story the snake represents Satan, the ruler of Darkness, while Jesus is 
 <bref>Matt 12:33 NIV</bref>
 Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, **for a tree is recognised by its fruit**.
 
-Notice that Jesus says "make a tree" good or bad. The good or bad behaviour, attitude or speech of a man comes from his type. By this statement Jesus is giving a witness that He made Man according to type, just as He made all things according to type. But in the case of Man, because he is spirit, soul and body, Jesus made Man with a type of spirit and type of flesh. The natural type is commom to all men, and is related to the human genome. This why faith in Jesus is the only real salvation, because by faith we are born again with a new type of spirit - type Jesus, the firstborn from the Dead.
+<bref>Gen 1:11 BSB</bref>
+Then God said, “Let the earth bring forth vegetation: seed-bearing plants and fruit trees, each bearing **fruit with seed** according to its kind.” And it was so.
+
+Notice that Jesus says "make a tree" good or bad. The Lord God is your maker! The good or bad behaviour, attitude or speech of a man comes from his seed or type. The behaviour of a man is his fruit. Gen 1:11 says the tree (or man) will bear fruit with seed according to its kind. The Lord Jesus is giving a witness that He made Man according to type, just as He made all things according to type. But in the case of Man, because he is spirit, soul and body, Jesus made Man with a type of spirit and type of flesh. The natural type is commom to all men, and is related to the human genome. There is only one race of Man, the human race. The Lord's creation ministry produces different kinds of flesh, for as many tribes as are found in the world. The original spiritual type is called Corruptible Man, which all people inherit from the first Adam. During the journey of life, it seems all people who belong to Jesus receive a witness that their roots are in Christ. Thus they move towards the Light and put their faith in Christ. This is what distinguishes type driven behaviour from emotions or reasoning. Those whose type (seed) is Light move towards the Light while those whose seed is Dark stay in the Darkness.
+
+<bref>John 3:19-21 NKJV</bref>
+.<bref>19</bref>And this is the condemnation, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. <bref>20</bref>For everyone practicing evil hates the light and does not come to the light, lest his deeds should be exposed. <bref>21</bref>But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God.
+
+This why faith in Jesus is the only real salvation, because by faith we are born again with a new type of spirit - type Incorruptible Man, which is inherited from Jesus, the firstborn from the Dead. 
 
 <bref>2 Cor 5:17 BSB</bref>
 Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!
 
-All behaviour, attitude and speech ultimately comes from a type of spirit. Sometimes a certain type can be imposed by the power of flood water. Why does the Lord God use the term flood? To give insight about spirital power that can possibly override even a resident type. Or the flood can add weight to a resident kind making it stronger. Imagine you encounter a flash flood, travelling by car trying to escape heavy rain. You might have a desperate need to cross the flooded road. Thoughts go back and forth, each with a reason to cross over or stay. Finally you decide to risk it all and make a dash for the other side. All seems fine until the fast flowing water hits your car and your heavy car is picked up by the water and you **carried where you don't want to go**. The Flood of heaven is so pervasive that the bible says "the waters ARE people, nations and tongues". When thoughts prevail in your mind they win your consent and you walk and act in line with the flow of thought (water). When this becomes endemic, a person or people become whatever the water source determines. Of course, the author is the man himself, and the water source is the heart of man, which is a deep sea of thoughts. However the sea is composed of thoughts that were allowed to enter and allowed to circulate.
+From start to finish of life, a person's behaviour progressively reveals their type (seed). Sometimes a certain type can be imposed by the power of flood water. Why does the Lord God use the term flood? To give insight about spirital power that can possibly override even a resident type. Or the flood can add weight to a resident kind making it stronger. Imagine you encounter a flash flood, travelling by car trying to escape heavy rain. You might have a desperate need to cross the flooded road. Thoughts go back and forth, each with a reason to cross over or stay. Finally you decide to risk it all and make a dash for the other side. All seems fine until the fast flowing water hits your car and your heavy car is picked up by the water and you **carried where you don't want to go**. The Flood of heaven is so pervasive that the bible says "the waters ARE people, nations and tongues". When thoughts prevail in your mind they win your consent and you walk and act in line with the flow of thought (water). When this becomes endemic, a person or people become whatever the water source determines. Of course, the author is the man himself, and the water source is the heart of man, which is a deep sea of thoughts. However the sea is composed of thoughts that were allowed to enter and allowed to circulate.
 
 <bref>Rev 13:1 NIV</bref>
 The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns, and on each head a blasphemous name.
 
 <bref>Rev 17:15 NKJV</bref>
-Then he said to me, “The waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues.
+Then he said to me, “The waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues."
 
-The beast comes out of the "sea". This means the beast comes out of a sea of people, tongues and nations. The beast is not a literal monster or savage animal. It is the servant of the Dragon, the hands and feet of Satan, just as the body of Christ are the servants of Jesus, the hands and feet of Jesus.
+The beast comes out of the "sea". This means the beast comes out of a sea of people, tongues and nations. The beast is not a literal monster or savage animal. It is the servant of the Dragon, the hands and feet of Satan, just as the body of Christ is the servant of Jesus, the hands and feet of Jesus.
 
-<bref>Dan 8:5</bref>
+<bref>Dan 8:5 NIV</bref>
 As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth **without touching the ground**.
 
 This is an amazing witness of both Flood activity and power of influence. Notice that the goats feet are not touching the ground! The flood carries the goat, just as a flood torrent carries a person. The Flood empowers that leader and nation to conquer the ram. Notice the goat has a horn between its eyes. This implies the whole nation is enslaved and endoctrined by their God, called elohim in Hebrew. A goat is symbolic of people strongly aligned with idolatry.
@@ -379,7 +387,7 @@ Thy people shall be willing in the day of thy power, in the beauties of holiness
 <bref>Psa 110:3 ESV</bref>
 Your people will offer themselves freely on the day of your power, in holy garments; from **the womb of the morning**, the dew of your youth will be yours
 
-<bref>Isa 51:17 BSB</bref>
+<bref>Isa 51:17 ESV</bref>
 Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the hand of the Lord the cup of his wrath, who have drunk to the dregs the bowl, the cup of staggering.
 
 <bref>Isa 52:1 BSB</bref>
