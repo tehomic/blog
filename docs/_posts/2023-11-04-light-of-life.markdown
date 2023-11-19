@@ -121,6 +121,29 @@ But seriously, is there something else that does not rely on personified animals
 
 In this story the snake represents Satan, the ruler of Darkness, while Jesus is the Lord of Light. There is a fierce competition between Light and Dark for the right to propogate their seed. In this continuous struggle, the victor of each warfare episode wins the right to decide what **kind of people** will continue or be culled in the various tribes of man in the world. This struggle is reflected in the earth and described by the term "survival of the fittest".
 
+<bref>Matt 12:33 NIV</bref>
+Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, **for a tree is recognised by its fruit**.
+
+Notice that Jesus says "make a tree" good or bad. The good or bad behaviour, attitude or speech of a man comes from his type. By this statement Jesus is giving a witness that He made Man according to type, just as He made all things according to type. But in the case of Man, because he is spirit, soul and body, Jesus made Man with a type of spirit and type of flesh. The natural type is commom to all men, and is related to the human genome. This why faith in Jesus is the only real salvation, because by faith we are born again with a new type of spirit - type Jesus, the firstborn from the Dead.
+
+<bref>2 Cor 5:17 BSB</bref>
+Therefore if anyone is in Christ, he is a new creation. The old has passed away. Behold, the new has come!
+
+All behaviour, attitude and speech ultimately comes from a type of spirit. Sometimes a certain type can be imposed by the power of flood water. Why does the Lord God use the term flood? To give insight about spirital power that can possibly override even a resident type. Or the flood can add weight to a resident kind making it stronger. Imagine you encounter a flash flood, travelling by car trying to escape heavy rain. You might have a desperate need to cross the flooded road. Thoughts go back and forth, each with a reason to cross over or stay. Finally you decide to risk it all and make a dash for the other side. All seems fine until the fast flowing water hits your car and your "heavy" car is picked up by the water and you **carried where you don't want to go**. The Flood of heaven is so pervasive that the bible says "the waters ARE people, nations and tongues". When thoughts prevail in your mind they "win" your consent and you walk and act in line with the flow of thought (water). When this becomes endemic, a person or people become whatever the water source determines. Of course, the author is the man himself, and the water source is the heart of man, which is a deep sea of thoughts. However the sea is composed of thoughts that were allowed to enter and allowed to circulate.
+
+<bref>Rev 13:1 NIV</bref>
+The dragon stood on the shore of the sea. And I saw a beast coming out of the sea. It had ten horns and seven heads, with ten crowns on its horns, and on each head a blasphemous name.
+
+<bref>Rev 17:15 NKJV</bref>
+Then he said to me, “The waters which you saw, where the harlot sits, are peoples, multitudes, nations, and tongues.
+
+The beast comes out of the "sea". This means the beast comes out of a sea of people, tongues and nations. The beast is not a literal monster or savage animal. It is the servant of the Dragon, the hands and feet of Satan, just as the body of Christ are the servants of Jesus, the hands and feet of Jesus.
+
+<bref>Dan 8:5</bref>
+As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth **without touching the ground**.
+
+This is an amazing witness of both Flood activity and power of influence. Notice that the goats feet are not touching the ground! The flood carries the goat, just as a flood torrent carries a person. The Flood empowers that leader and nation to conquer the ram. Notice the goat has a horn between its eyes. This implies the whole nation is enslaved and endoctrined by their God, called elohim in Hebrew. A goat is symbolic of people strongly aligned with idolatry.
+
 The bible is not designed for academic scholars to critique. There is only one worldview that can truely perceive and understand Gods prophetic writing. That is, the worldview of the Holy Spirit. This is an amazing gift, it comes from the heart of God, the amazing attibute that makes Man different from other creatures. 
 
 <bref>2 Cor 9:9 BSB</bref>
@@ -172,6 +195,8 @@ Let's review the interpretation of Light according to Genesis. The Hebrew dictio
 What about Genesis Day one? What kind of creature was created on Day one?
 
 Day one describes the beginning of the God's great plan and purpose of a creating a new age of Kingdom investment. The Lord God of Israel owns the whole universe because of course He made it. He designed it to be used and consumed until every last drop of fuel is burned up and the world is totally worn out. However, the first Day is founded on the cornerstone of Life. In the beginning "darkness (disorder and corruption) was on the face of the deep", which might point to the post-apocalypse state of the previous age. And God said "Let there be Light". Truth is Light and deceit is Darkness. Thus on the first Day, the ministry of creation was setup and established, which is the first act of separating Light from Darkness. The first act of building a foundation was appointing the ruler of creation. The Light of creation is the Ruler of creation, and is Jesus Christ, as declared in <a target="_blank" href="https://www.blueletterbible.org/kjv/rev/3/1/t_conc_1170014"><u>Rev 3:14</u></a>. This Ministry of Creation is itself a living creature, and Day one is when it was born. The following Days account for expansion of creative capacity and diversity. After each Night a new Day reveals the birth of a new generation. A new kind that is more advanced than the previous one. This progressive increase of complexity culminates with the final Day when the generation of Man appears. Man is probably the jewel in God's creative crown, because unlike other creatures he has three components : spirit, soul and body.
+
+About the living creatures described by Ezekiel and Revelation, who seem to be high ranking angels that are always present at the Lord's throne. They might be the Lord God's bodyguard? However, I reckon these are not literal beings, although the vision shows them as an a living creature with a body like a man or whatever. As a group, the four might represent the Holy government of the Lord God, each one with a specific ministry. One of which is the ministry of creation. Notice that the text says "they have eyes all over their body". This might refer to the supervisory powers of the living creature, which is actually a whole army of angels, an army of eyes watching and reporting all activity in the lower heavens and nature.
 
 <bref>Rev 22:5 NKJV</bref>
 There shall be no night there: They need no lamp nor light of the sun, for the Lord God gives them light. And they shall reign forever and ever.
