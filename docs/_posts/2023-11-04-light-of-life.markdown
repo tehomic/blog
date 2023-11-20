@@ -150,9 +150,9 @@ The beast comes out of the "sea". This means the beast comes out of a sea of peo
 <bref>Dan 8:5 NIV</bref>
 As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth **without touching the ground**.
 
-This is an amazing witness of both Flood activity and power of influence. Notice that the goats feet are not touching the ground! The flood carries the goat, just as a flood torrent carries a person. The Flood empowers that leader and nation to conquer the ram. Notice the goat has a horn between its eyes. This implies the whole nation is enslaved and endoctrined by their God, called elohim in Hebrew. A goat is symbolic of people strongly aligned with idolatry.
+This is an amazing witness of both Flood activity and power of influence. Notice that apparently the goat's feet are not touching the ground! The Flood carries the goat, just as a flood torrent carries a person. The Flood empowers that leader and nation to conquer the ram. Notice the goat has a horn between its eyes. This implies the whole nation is enslaved and endoctrined by their God, called elohim in Hebrew. A goat is symbolic of people strongly aligned with idolatry.
 
-The bible is not designed for academic scholars to critique. There is only one worldview that can truely perceive and understand Gods prophetic writing. That is, the worldview of the Holy Spirit. This is an amazing gift, it comes from the heart of God, the amazing attibute that makes Man different from other creatures. 
+The bible is not designed for academic scholars to critique. There is only one worldview that can truely perceive and understand Gods prophetic writing. That is, the worldview of the Holy Spirit. This is an amazing gift that is **available to all the saints** through the Holy Spirit's baptism. It comes from the heart of God, the amazing attibute that makes Man different from other creatures.
 
 <bref>2 Cor 9:9 BSB</bref>
 As it is written: “He has scattered abroad His gifts to the poor; His righteousness endures forever.”
