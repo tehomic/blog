@@ -393,6 +393,9 @@ Wake yourself, wake yourself, stand up, O Jerusalem, you who have drunk from the
 <bref>Isa 52:1 BSB</bref>
 Awake, awake, clothe yourself with strength, O Zion! Put on your garments of splendor, O Jerusalem, holy city! For the uncircumcised and unclean will no longer enter you.
 
+<bref>Isa 52:1 KJV</bref>
+Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
+
 <bref>Isa 60:1-2 ESV</bref>
 Arise, shine, for your light has come, and the glory of the Lord has risen upon you. For behold, darkness shall cover the earth, and thick darkness the peoples; but the Lord will arise upon you, and his glory will be seen upon you.
 
