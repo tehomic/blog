@@ -81,7 +81,7 @@ When the bible says "the Lord created the heavens by the breath of his mouth", i
 It's an analogy because God is spirit, He does not breath. He does not inhale air and exhale breath. It actually means that creation has an Executor, a very powerful person. He is the Holy Spirit. He does the actual work of creating, and He moves only when God's command is declared. Recall that Gen 1:2 says "The Spirit of God hovered over the waters". This means Holy Spirit was getting in position ready for the water, the Word of God, to flow. Like a runner with their posture set to explode forward on the starter's gun. So the idea that God spoke and immediately the earth changed from nothing into a functional planet is not valid. Since nothing is impossible for God, the Lord CAN create something from nothing, but that not what the bible actually records. 
 
 <bref>Eph 2:1-2 NKJV</bref>
-<bref>1</bref> And you He made alive, who were dead in trespasses and sins, <bref>2</bref> in which you once walked according to the course of this world, according to the **prince of the power of the air**, the spirit who now works in the sons of disobedience,
+.<bref>1</bref> And you He made alive, who were dead in trespasses and sins, <bref>2</bref> in which you once walked according to the course of this world, according to the **prince of the power of the air**, the spirit who now works in the sons of disobedience,
 
 <bref>Job 41:8-9 NIV</bref>
 .<bref>8</bref> If you lay a hand on him (Leviathan), you will remember the struggle and never do it again! <bref>9</bref> Any hope of subduing it is false; the mere sight of it is overpowering.
