@@ -1,3 +1,0 @@
-Hebrews 12:9 says "Moreover we have all had human fathers who disciplined us and we respected them for it. How much more should we submit to the Father of [our] spirits and live!"
-
-This verse explains that a natural father is not the maker of the spirit of his child, he is only the maker of their body, since the flesh is inherited naturally. It declares that the maker, the Father of the spirit is the Lord God, even the Father of Christ Jesus. This also is a proof text that declares the duality of Man's heritage, natural and spiritual.
