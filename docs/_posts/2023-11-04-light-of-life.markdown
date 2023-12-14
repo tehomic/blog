@@ -374,7 +374,7 @@ This is an amazing support testimony that refers exactly to the role of Jesus as
 Yet another biblical term that reinforces the spiritual Day theme is the idea of morning or dawn. There is one special Morning, the spritual Day called Resurrection of the Dead. The faith concept of Morning is very important, because it a veritable fountain of hope that supports and sustains all those who are consoled about injustice by imagining a special Morning when true justice will be rendered. 
 
 <bref>Isa 50:4-5 NIV</bref>
-<bref>4</bref> The Sovereign LORD has given me a instructed tongue, to know the word that sustains the weary. He wakens me morning by morning, wakens my ear to listen like one being taught. <bref>5</bref> The Sovereign LORD has opened my ears; I have not been rebellious, I have not drawn back.
+.<bref>4</bref> The Sovereign LORD has given me a instructed tongue, to know the word that sustains the weary. He wakens me morning by morning, wakens my ear to listen like one being taught. <bref>5</bref> The Sovereign LORD has opened my ears; I have not been rebellious, I have not drawn back.
 
 The Word of God reveals that the Morning can be effective here and now, for those who believe correctly. The Lord is explaining the purpose of a transition from Night to Day. It generally means that relative to the previous Day, the new Day will reveal some degree of change that brings new life. However, there is a spiritual technicality that deserves noting. The dawn of a new Day is significant because it defines a new creature version, one that is resident and alive.
 
