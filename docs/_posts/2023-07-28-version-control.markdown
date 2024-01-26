@@ -110,7 +110,7 @@ Genesis support commentaries appears many times throughout the bible, supplement
 <bref>Job 9:8 NIV</bref>
 .<bref>8</bref> He alone stretches out the heavens and treads on the waves of the sea.
 
-Is the One who treads on the waves of the sea the same person who walked on the sea of Galilee ... yes! The Son of God, Jesus Christ is His name.
+Is the One who treads on the waves of the sea the same person who walked on the sea of Galilee? Yes! The Son of God, Jesus Christ is His name.
 
 <bref>Psa 104:2 NIV</bref>
 .<bref>2</bref> The LORD wraps himself in light as with a garment; he stretches out the heavens like a tent
