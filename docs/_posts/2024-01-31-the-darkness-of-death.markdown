@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Darkness of Death"
-date:   2024-02-02 00:00:00-0600
+date:   2024-01-31 00:00:00-0600
 categories: bible exposition
 ---
 
