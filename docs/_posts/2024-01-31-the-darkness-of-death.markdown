@@ -140,7 +140,7 @@ My unction is this: While on the cross, Jesus **virtually** experienced a death 
 <ol>
   <li id="note-one">Abraham's company : the place where the soul of a blameless person goes after death. 
 
-  The KJV calls it "Abraham's bosom". About the location that I called Upper Sheol. Ater the resurrection of Jesus Christ and His assession to the Father, Abraham's company, the spirtual place migrated from Sheol to Christ's Kingdom. It became a place or territory in the heavenly "country" of Christ's Kingdom. By connection with the place, the people in Upper Sheol, must have also migrated to heaven. When a faithful Christ believer dies, they immediately go to be with Jesus in heaven. Abraham's company seems to be a special place where new arrivals get an introduction to the majesty of Jesus Christ and His eternal Kingdom.
+  The KJV calls it "Abraham's bosom". About the location that I called Upper Sheol. After the resurrection of Jesus Christ and His assession to the Father, Abraham's company, the spirtual place migrated from Sheol to Christ's Kingdom. It became a place or territory in the heavenly "country" of Christ's Kingdom. By connection with the place, the people in Upper Sheol, must have also migrated to heaven. When a faithful Christ believer dies, they immediately go to be with Jesus in heaven. Abraham's company seems to be a special place where new arrivals get an introduction to the majesty of Jesus Christ and His eternal Kingdom.
   </li>
 </ol>
 
