@@ -94,7 +94,10 @@ Now let's review briefly what the bible says about the Arch-Enemy of the Lord Go
 <bref>Psa 140:7 NIV</bref>
 Sovereign LORD, my strong deliverer, you shield my head in the day of battle.
 
-David knew that the Lord his God would protect him and fight for him. Armed with this witness, He faced the lion and bear. His testimony even confirms the reason for his confidence.
+<bref>Psa 140:7 ESV</bref>
+O LORD, my Lord, the strength of my salvation, you have covered my head in the day of battle
+
+David says, O Jehovah (Father), Adonay (Son), the strength (Spirit) of my salvation, you have covered (protected) my head in the day of battle. He is laying hold of his personal Sovereign Lord who calls to him saying 'come up higher'. David knew that the Lord his God would protect him and fight for him. Armed with this witness, He faced the lion and bear. His testimony even confirms the reason for his confidence. 
 
 <bref>1 Sam 17:37 ESV</bref>
 And David said, “The LORD who delivered me from the paw of the lion and from the paw of the bear will deliver me from the hand of this Philistine.” And Saul said to David, “Go, and the LORD be with you!”
