@@ -105,7 +105,7 @@ So the Firmament is the second heaven below God's heavenly headquarters. Apparen
 <bref>Rev 4:6 NKJV</bref>
 .<bref>6</bref> Before the throne *there* was a sea of glass, like crystal. And in the midst of the throne, and around the throne, *were* four living creatures full of eyes in front and in back.
 
-Genesis support commentaries appears many times throughout the bible, supplementing the first narrative with more information describing the key elements of creation.
+Genesis support commentaries appear many times throughout the bible, supplementing the first word with more information describing the key elements of creation.
 
 <bref>Job 9:8 NIV</bref>
 .<bref>8</bref> He alone stretches out the heavens and treads on the waves of the sea.

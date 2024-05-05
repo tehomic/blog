@@ -31,7 +31,7 @@ categories: bible exposition
 
 This journal is a fresh update to original content from the <a target="_blank" href="/blog/bible/exposition/2023/07/28/version-control.html"><u>Daytime of Work</u></a> blog post. To keep it fresh, most scriptures are updated with different bible versions, compared to the original.
 
-Genesis support commentaries appears many times throughout the bible, supplementing the first narrative with more information describing the key elements of creation.
+Genesis support commentaries appear many times throughout the bible, supplementing the first word with more information describing the key elements of creation.
 
 <bref>Job 9:8 ESV</bref>
 .<bref>8</bref> who alone stretched out the heavens and trampled the waves of the sea;
