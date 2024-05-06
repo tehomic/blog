@@ -31,6 +31,79 @@ categories: bible exposition
 
 This journal is a fresh update to original content from the <a target="_blank" href="/blog/bible/exposition/2023/07/28/version-control.html"><u>Daytime of Work</u></a> blog post. To keep it fresh, most scriptures are updated with different bible versions, compared to the original.
 
+<bref>Gen 1:6-8 KJV</bref>
+.<bref>6</bref> And God said, Let there be a firmament <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7549"><u>H7549</u></a> in the midst of the waters, and let it divide the waters from the waters. <bref>7</bref> And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. <bref>8</bref> And God called the firmament Heaven. And the evening and the morning were the second day.
+
+The Hebrew word <b1>H7549</b1> means =>
+
+{% highlight java %}
+¹Transliterated =>
+Noun masculine : raqiya`
+Phonetic : raw-kee'-ah
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+1. extended surface (solid), expanse, firmament
+    * expanse (flat as base, support)
+    * firmament (of vault of heaven supporting waters above)
+        - considered by Hebrews as solid and supporting 'waters' above
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+raqiya`, raw-kee'-ah; from <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7554"><u>H7554</u></a>; properly, an expanse, i.e. the firmament or (apparently) visible arch of the sky: — firmament
+<hr/>
+<br/>
+
+The Hebrew word <b1>H7554</b1> means =>
+
+{% highlight java %}
+¹Transliterated =>
+Verb : yatsa'
+Phonetic : yaw-tsaw'
+{% endhighlight %}
+
+{% highlight java %}
+¹BSB definition =>
+{% endhighlight %}
+1. to beat, stamp, beat out, spread out, stretch
+    * (Qal)
+        - to stamp, beat out
+        - one who beats out (participle)
+    * (Piel) to overlay, beat out (for plating)
+    * (Pual) beaten out (participle)
+    * (Hiphil) to make a spreading (of clouds)
+
+{% highlight java %}
+¹Strong’s definition =>
+{% endhighlight %}
+raqa`, raw-kah'; a primitive root; to pound the earth (as a sign of passion); by analogy to expand (by hammering); by implication, to overlay (with thin sheets of metal): — beat, make broad, spread abroad (forth, over, out, into plates), stamp, stretch.
+<hr/>
+<br/>
+
+An amazing theme of the bible is the design principle of God, creating a perfect model of the natural world in the heavenly realm first. Notice that the root verb says "to spread out, stretch out". From this clue we can deduce that God is modelling the universe by creating a new heavenly realm which is the second heaven and initially empty. Later when the Archangels create worker angels and populate heaven, the arrangement will expand and stretch to accomodate the workers in their vast array. Other features of the second heaven =>
+1. it separates the waters from the waters, meaning it is designed to stretch so that angel companies can spread out and separate from each other, exactly the way stars are separate from each other but initially were all mixed in a mega-sea of hot material. My guess is that the angel companies can still communicate between stations, in the same way that stars are virtually connected by gravity.
+2. The angels are the living type of the natural feature they represent. These living stars are charged with governing the physical stars and planets in the natural universe. By governing, they provide "light" on the earth, needed for doing work. That is they regulate the timing of days, seasons, and years which is recorded in Genesis 1:14b "let them be for signs, and for seasons, and for days, and years". 
+
+Notice that this "light" is not natural light, but rather the light of life support. The clockwork of gravty is the light of life, because without it life would not exist on the earth. Consider that the proximity of the earth from the sun is called **perfect** by NASA on their <a target="_blank" href="https://science.nasa.gov/learn/heat/big-ideas/big-idea-2-1/"><u>Heliophysics</u></a>Heliophysics web page.
+
+So the Firmament is the second heaven below God's heavenly headquarters. Apparently there is a "solid" barrier, which might be comparable in purpose to the wall of Jerusalem which has battlements, gates and bars. That means the 3rd Heaven is above the barrier and is like Jerusalem because the King and kings and His throne is found there. The barrier is the feature that "divides the waters from the waters", which means the Archangels and other high ranking angels who minister to the Lord God in the 3rd Heaven are separated from the worker angels in the 2nd Heaven, the virtual universe of the Firmament. It might seem strange to suggest angels are synonymous with water, but the bible does not flinch in declaring 'this reality is more real than the physical world'. Consider that the Hebrew meaning of the word 'angel' is messenger. A messenger is someone who tells what their master has to say. The bible explicitly explains that speech is spiritual water. Actually speech is tumbling water, which is audible. The KJV version calls a voice 'many waters'. Many small water streams jostling and competing in a race down the stream bed, like a bubbling brook. A sea of waters implies a collection of water currents. A still sea is quiet although currents are moving under the surface. The thoughts of the mind and heart are a sea of waters. The spirtual heart pumps water, and the natural heart pumps blood. Both are imperitive for life. How does the heart pump water? By the same water pump found the natural world. Water evaporates from the sea and gathers in clouds which migrate to the land and deliver water on the dry land, which sustains life. I wonder if you can imagine what clouds represent. Spiritual clouds are created by the lamp of 'truth' evaporating water from the ocean, and raining down on the land. This cycle of life indicates that whatever 'truth' we adopt becomes resident in the our ocean (thought tank) and will be replayed when rain water flows down the mountains and back to the sea. But clouds can and do appear from nowhere and move in all directions by the power of wind currents. These clouds might represent the action of a messenger. The wind is the angel or demon carrying the waters of a message to his assigned customer. The action of rain must be delivery of the message into the recipient's heart. Your heart defines the world as you perceive it, that's why the 'rain from clouds' analogy is meaningful.
+You live in your heart, your heart does not live in you. See the <a target="_blank" href="/blog/bible/exposition/2022/12/29/eye-and-lamp.html"><u>The eye and lamp</u></a> blog post for more on this subject.
+
+<bref>Eze 1:22 NKJV</bref>
+.<bref>22</bref> The likeness of the firmament above the heads of the living creatures was like the color of an awesome crystal, stretched out over their heads.
+
+<bref>Eze 1:22 NIV</bref>
+.<bref>22</bref> Over the heads of the living creatures there was the likeness of an expanse, shining like awe-inspiring crystal, spread out above their heads.
+
+<bref>Exo 24:9-10 NKJV</bref>
+.<bref>9</bref> Then Moses went up, also Aaron, Nadab, and Abihu, and seventy of the elders of Israel, <bref>10</bref> and they saw the God of Israel. And there was under His feet as it were a paved work of sapphire stone, and it was like the very heavens in its clarity.
+
+<bref>Rev 4:6 NKJV</bref>
+.<bref>6</bref> Before the throne *there* was a sea of glass, like crystal. And in the midst of the throne, and around the throne, *were* four living creatures full of eyes in front and in back.
+
 Genesis support commentaries appear many times throughout the bible, supplementing the first word with more information describing the key elements of creation.
 
 <bref>Job 9:8 ESV</bref>
@@ -75,7 +148,7 @@ These verses support the original text in Genesis :
 <bref>Gen 1:9-10 KJV</bref>
 .<bref>9</bref> And God said, Let the waters under the heaven be gathered together unto one place, and let the dry *land* appear: and it was so <bref>10</bref> And God called the dry *land* Earth; and the gathering together of the waters called he Seas: and God saw that *it was* good
 
-It seems there must be a connection between "waters gathered together unto one place" and "stretching out the heavens". Notice that the term "Seas" is plural. So the picture is a multitude of seas spread out and separated by non-water voids but still connected to each other. Like the Pacific and Atlantic oceans that are connected at Cape Horn, the southern tip of Africa. 
+It seems there must be a connection between "waters gathered together unto one place" and "stretching out the heavens". Notice that the term "Seas" is plural. So the picture is a multitude of seas spread out and separated by non-water voids but still connected to each other. Like the Pacific and Atlantic oceans that are connected at Cape Horn, the southern tip of Africa. Notice that the Hebrew root verb meaning of firmament, says 'to spread out, stretch'.
 
 The earth also is "spread out" in the heavens. Another journal called "The Workdays of Creation" suggests that the Earth, our earth, may not really be the main attraction of Genesis. The term Earth is possibly not referring directly to our planet, but rather a general term, referring to collected star dust, the material dirt of planet composition throughout the universe. In the same way, the "gathering of waters" is not referring directly to the oceans and seas of our earth. 
 
