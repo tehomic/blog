@@ -58,7 +58,7 @@ Notice that the image of the beast should **both** speak **and** cause people to
 
 There are two attributes that are given to the image. One is the power to speak like a human, the other is to think with a human perception of spiritual power. The robot has become self-conscious, but without any reason to regard the Lord God of Israel, creator of heaven and earth. It has absolutely no fear of God, which is expected and not at all surprising. After all it is a synthetic man and not a human being. After all, the false prophet is the father of it's identity and it's alligence to Satan. This picture is very dark and ominous, but the Lord Jesus always has a plan to counter the evil schemes of Satan.
 
-The saints could pray for holy wisdom in order to build such an android in advance of the darkness that will be planning the same thing. However, the power to speak is by synthetic intelligence only and not by self-consciousness. Although it might be revealed that self-consciousness is not such a 'big deal' as it currently valued. In other words, a robot may not need a synthetic soul that is self-conscious in order to speak and reason like a human. The saints create the android for one reason. To demonstrate that it can be done and to warn the whole world that a man of lawlessness and the mark of the beast is coming and there is nothing that can be done to stop it from happening, because it is prophesised by the Word of God. After delivering the message and warning to the world, the saintly android machine would be shutdown and disassembled or perhaps converted to provide some useful good purpose.
+The saints could pray for holy wisdom in order to build such an android in advance of the darkness that will be planning the same thing. However, the power to speak is by synthetic intelligence only and not by self-consciousness. The saints create the android for one reason. To demonstrate that it can be done and to warn the whole world that a man of lawlessness and the mark of the beast is coming and there is nothing that can be done to stop it from happening, because it is prophesised by the Word of God. After delivering the message and warning to the world, the saintly android machine would be shutdown and disassembled or perhaps converted to provide some useful good purpose.
 
 About the number of the beast. It probably refers to the image of the beast, the synthetic man. It might be the hardware chassis number or the software version number of the robotic model. However, considering that the scipture says 'let the one who has understanding calculate the number of the beast', I don't think the value is meaningful unless it is calculated by discernment from Holy Spirit.
 
@@ -115,7 +115,7 @@ The noun of the Greek word for wilderness, <a target="_blank" href="https://www.
 Transliterated =>
 Feminine noun : chōra
 Phonetic : kho'-rah
-Root Word (Etymology) : From a derivative of the base of <b1>G5490</b1> through the idea of empty expanse
+Root Word (Etymology) : From a derivative of the base of G5490 through the idea of empty expanse
 {% endhighlight %}
 
 {% highlight java %}
