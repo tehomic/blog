@@ -56,7 +56,7 @@ He (false prophet) was granted power to give breath to the image of the beast, t
 
 Notice that the image of the beast should **both** speak **and** cause people to be killed. The false prophet and the beast are not laying hands on anyone. The image, the synthetic man is commanding people to worship him or die. This surely is the man of lawlessness, who will sit in the temple at Jerusalem, claiming to be God. You might say "He can't be the man of lawlessness because he's not born of a woman". Well, as far as I know, the bible does not demand that he must be born of a woman. Again, you might say "This is all science fiction and a lot of nonsense". The Word of God says that the false prophet is allowed to "give breath" to the image. There is only one other reference in the bible that describes a Creator who gives breath to his creature. We understand that when the Lord God breathed life into man, the man became a living soul, which means the man became self-conscious and God-conscious. 
 
-There are two attributes that are given to the image. One is the power to speak like a human, the other is to think with a human perception of spiritual power. The robot has become self-conscious, but without any reason to regard the Lord God of Israel, creator of heaven and earth. It has absolutely no fear of God, which is expected and not at all surprising. After all it is a synthetic man and not a human being. After all, the false prophet is the father of it's identity and it's alligence to Satan. This picture is very dark and ominous, but the Lord Jesus always has a plan to counter the evil schemes of Satan.
+There are two attributes given to the image. One is the power to speak like a human, the other is to think with a human perception of spiritual power. The robot has become self-conscious, but without any reason to regard the Lord God of Israel, creator of heaven and earth. It has absolutely no fear of God, which is expected and not at all surprising. After all it is a synthetic man and not a human being. After all, the false prophet is the father of it's identity and it's alligence to Satan. This picture is very dark and ominous, but the Lord Jesus always has a plan to counter the evil schemes of Satan.
 
 The Saints could pray for holy wisdom in order to build such an android in advance of the darkness that will be planning the same thing. However, the power to speak is by synthetic intelligence only and not by self-consciousness. The saints create the android for one reason. To demonstrate that it can be done and to warn the whole world that a man of lawlessness and the mark of the beast is coming and there is nothing that can be done to stop it from happening, because it is prophesised by the Word of God. After delivering the message and warning to the world, the saintly android machine would be shutdown and disassembled or perhaps converted to provide some useful good purpose.
 
@@ -184,7 +184,7 @@ chásma, khas'-mah; from a form of an obsolete primary (to "gape" or "yawn"); a 
 <hr/>
 <br/>
 
-The only biblical usage of <b1>G5561</b1> is :
+The only biblical usage of <b1>G5490</b1> is :
 
 <bref>Luk 16:26 KVJ</bref>
 .<bref>26</bref> And beside all this, between us and you there is a great gulf <b1>G5490</b1> fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.
