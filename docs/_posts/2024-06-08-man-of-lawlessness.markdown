@@ -200,6 +200,6 @@ Compare this word meaning chasm with a similar word rendered as void or space in
 ### **Bibliography**
 
 <ol>
-  <li id="derekprince">I heard this on a youtube sermon by Derek Prince. He brilliantly explaned how the breath of God accompanies the Word of God when the bible is proclaimed by a believer who is called to be a herald and ambassador for Jesus, even as all Spirit filled believers are. Derek also taught how the word of God presented without Holy Spirit affirmation can be unfruitful, because the word of God might become letters that kill but with the Spirit they give life.
+  <li id="derekprince">I heard this on a youtube sermon by Derek Prince. He brilliantly explained how the breath of God accompanies the Word of God when the bible is proclaimed by a believer who is called to be a herald and ambassador for Jesus, even as all Spirit filled believers are. Derek also taught how the word of God presented without Holy Spirit authority can be unfruitful, because the word of God might become letters that kill but with the Spirit they give life.
   </li>
 </ol>

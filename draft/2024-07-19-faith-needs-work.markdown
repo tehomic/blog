@@ -102,4 +102,4 @@ Why? because Job has to work a lot harder to maintain his faith that indeed he i
 
 By asserting that Job was only aligned God because of his social standing, Satan accused Job of treachery against the Lord God. 
 
-The 'robe or mantle' is inherited from God and is Job's identity. It is the eye through which Job understands his place in the world. 
+The 'robe or mantle' is inherited from God and is Job's identity. It is the eye through which Job understands his place in the world.
