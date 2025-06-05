@@ -29,15 +29,25 @@ categories: bible exposition
 <hr/>
 <br/>
 
+Thesis ideas :
+1. the suffering servant is a desperately poor man yet Jesus in the gospels in rich man who is well respected by the majority of the people who witnessed his good life.
+2. document all gospel scripture that show Jesus was well respected and admired by the majority.
+for content see 2025-01-06-melchizedek-support.markdown
+
+3. explain that the suffering servant is not revealed and remains a secret unless we consider that Jesus became this servant by experiencing a virtual life that God created in the hours that He hung on the cross.
+4. note that David calls himself a poor man in the psalms but his actual life experience was only poor when he was a shepard. when he became king he was promoted from being poor to rich in spirit because he required a rich man identity to handle the role of King. that was Saul's experience as well. when he met Samuel at Ramah he was anointed with the oil then as he turned to go home his heart was changed into a different man, that is, a rich man in spirit able to confidently rule his royal army and house.
+5. show that a severely poor man who is marginalised by sin and rejected and despised and is virtually a leper because that is exactly how a leper is treated by the clean community.
+6. show that every biblical story about leperosy shows that is a spirtually contracted condition.
+
 <bref>Isaiah 52:13 ESV</bref>
-.<bref>13</bref> Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted. <bref>14</bref> As many were astonished at you— his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind— <bref>15</bref> so shall he sprinkle many nations. Kings shall shut their mouths because of him, for that which has not been told them they see, and that which they have not heard they understand.
+.<bref>13</bref> Behold, my servant shall act wisely; he shall be high and lifted up, and shall be exalted. <bref>14</bref> As many were astonished at you— his appearance was so marred, beyond human semblance, and his form beyond that of the children of mankind— <bref>15</bref> so shall he sprinkle many nations. Kings shall shut their mouths because of him, for that which has not been told them they see, and that which they have not heard they will understand.
 
 <bref>Isaiah 53:1 ESV</bref>
 
 .<bref>1</bref> Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed?
 <bref>2</bref> For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him. <bref>3</bref> He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. <bref>4</bref> Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. <bref>5</bref> But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.
 
-Maybe the experience of Jesus on the cross is really the fullfillment of Isaiah 53:3-4. His visage was so marred, beyond human resemblance, and his form beyond that of the children of mankind. Who are the wicked people who despised and rejected Jesus the Messiah of God? Who are those who esteemed Jesus stricken, laughed at His suffering, and mocked when He was executed because He was aquainted with grief, and committed no sin. These wicked ones are like Cain, they want to kill the righteous man simply because the man is innocent and by comparison we are sinners, evil transgressors. They are you and me and the whole of Mankind. Romans 8:5 says "this is the love of God. while we were still sinners He forgave ous sins so that we might be saved". Bravo God! Thank you Lord!. The suffering Messiah is the epitomy a poor man, desperately poor in spirit, who cannot win against the peril of Sin and kingdom of Darkness. But this is not the Jesus we know. In the gospels, Jesus is majestic and glorious in performing all kinds of amazing and glorious signs and wonders which prove He is the Messiah. Only God can do the quality and quantity of miracles that Jesus did. A human prophet cannot heal absolutely everyone, even if they have faith. 
+Maybe the experience of Jesus on the cross is really the fullfillment of Isaiah 53:3-4. His visage was so marred, beyond human resemblance, and his form beyond that of the children of mankind. Who are the wicked people who despised and rejected Jesus the Messiah of God? Who are those who esteemed Jesus stricken, laughed at His suffering, and mocked when He was executed because He was aquainted with grief, and committed no sin. These wicked ones are like Cain, they want to kill the righteous man simply because he is innocent and by comparison they are sinners, evil transgressors. They are you and me and the whole of Mankind. Romans 8:5 says "this is the love of God. while we were still sinners He forgave ous sins so that we might be saved". Bravo God! Thank you Lord!. The suffering Messiah is the epitomy a poor man, desperately poor in spirit, who cannot win against the peril of Sin and kingdom of Darkness. But this is not the Jesus we know in the gospels. There Jesus is majestic and glorious in performing all kinds of amazing and glorious signs and wonders which prove He is the Messiah. Only God can do the quality and quantity of miracles that Jesus did. A human prophet cannot heal absolutely everyone, even if they have faith. 
 
 So who is this suffering Messiah, who is desperately poor in Spirit, rejected by all and one from whom men hide their faces? This is Jesus who suffered during his time on the cross, when the whole episode of bearing the sin of Mankind was experienced virtually. That is, on the cross, Jesus walked before God in weakness, in desperate spiritual poverty, but still perfectly righteous in his heart being a true worshipper of the God of Israel. You must understand the concept of a virtual life experience, which is pointing to the Kingdom of God, the real power and true Glory of God. 
 
@@ -46,11 +56,11 @@ Why? Well without understanding God's Virtue, the disciple is vulnerable to unde
 Like how does the clockwork of gravity work? This is yet to be fully discovered. 
 Without first understanding God's Virtue, the Saints will never understand the real science that controls the Universe.
 
-The whole world is in fact rotating in a virtual Cosmos called Time, through which most of Mankind passes without even knowing that this natural universe is actually a virtual world. This is the Power and Glory of God! So Jesus, when He bore the punishment for sin, had to endure hardship due to having no power to "push back" against the darkness of Sin. This is equivalent to saying "he was a poor man, deperately poor in spirit" and is what Isaiah spoke about. Recall the words of Isaiah 53:3.
+The whole world is in fact rotating in a virtual Cosmos called Time, through which most of Mankind passes without even knowing that this natural universe is actually a virtual world. This is the Power and Glory of God! So Jesus, when He bore the punishment for sin, had to endure hardship due to having no power to "push back" against the darkness of Sin. This is equivalent to saying "he was a poor man, deperately poor in spirit" and is what Isaiah spoke about. Recall the words of Isaiah 53:3, "He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not". The psalms often
 
 IMPORTANT : don't forget to include the great Godly witness that all biblical occurances of people contracting 
 leprosy are spiritual. Not one time does the person just randomly contract it by accidental contact with the 
-disease which naturally migrates from one animal to another. In all cases, leprosy is contracted by the judgement 
+disease which naturally migrates from one person to another. In all cases, leprosy is contracted by the judgement 
 of a person caught rebelling against the will of God. And in all cases of people being cured of leperosy, every 
 instance is a spiritual or miraculous healing by the grace of God. This shows that leprosy is as much a spiritual 
 condition as one that is tagged by a physical disease. This shows what leprosy really is. It is spiritual death 
@@ -59,27 +69,15 @@ healthy people, but only with his/her own kind.
 
 IMPORTANT : some of David's psalms talk about the poor man in the first person as though David is the actual poor 
 man who is suffering from the cursing of a hateful enemy. But I reckon that there will be one or more psalms that 
-reveal that the content is prophetic and is not talking about David, because the circumstances could not be applied 
-to David. 
+reveal that the content is prophetic and is not talking about David, because the circumstances could not be applied to David. 
 
-IMPORTANT : need to find one or more psalms that reveal that when the poor man is cursed by his enemy his visage is
-stamped and perhaps this will be explained by the turning of the poor man on his bed or on his 'something' which
-indicates that during the turning of a revolution the visage is stamped by the power of spritual death which is 
-delivered by a wicked traitor who has authority to hurt or heal, but chooses to hurt.
+IMPORTANT : need to find one or more psalms that reveal that when the poor man is cursed by his enemy his visage is stamped and perhaps this will be explained by the turning of the poor man on his bed or on his 'something' which indicates that during the turning of a revolution the visage is stamped by the power of spritual death which is delivered by a wicked traitor who has authority to hurt or heal, but chooses to hurt.
 
 IMPORTANT : consider that David was quite ambitious and after Saul was killed he did not refrain from violence to
 bring down the house and kingdom of Saul. When Judah defected to come under David's house and preliminary kingdom,
-David did not seek God's plan to bring the whole of Israel into unity with Judah without unneccessary violence, but
-instead he just warned the Benjamites that he is reigning over Judah in Hebron, so be strong *and get ready for conflict*"
+David did not seek God's plan to bring the whole of Israel into unity with Judah without unneccessary violence, but instead he just warned the Benjamites that he is reigning over Judah in Hebron, so be strong *and get ready for conflict*"
 Consider that David went into Bathsheba and arranged the death of Uriah, but did not consider how the psalms speak
-about what should happen to one who betrays and kills a loyal and humble servant of the Lord, as Uriah was. This is
-in some way evidence that David was writing prophetically and did not really identify with the poor man who is the
-prey of a rich and arrogant ruler. however, as a young man, when employed as a humble shepard, David was poor in 
-spirit and then he was promoted after killing Goliath. the scripture even testifies that David did have some kind
-of transformation from poor to rich in spirit, because one verse says "I took you from keeping sheep to become the 
-leader of my people Israel". the persecution of David by Saul produced many life threatening challenges and he showed 
-great faith to perserve under trial. when Saul was killed he surely did graduate and inherited the heart of a rich
-man, the heart of a great leader.
+about what should happen to one who betrays and kills a loyal and humble servant of the Lord, as Uriah was. He did not recall his own words in psalm 19 "the law of the Lord is perfect, reviving the soul". This is in some way evidence that David was writing prophetically and did not really identify with the poor man who is the prey of a rich and arrogant ruler. however, as a young man, when employed as a humble shepard, David was poor in spirit and then he was promoted after killing Goliath. the scripture even testifies that David did have some kind of transformation from poor to rich in spirit, because one verse says "I took you from keeping sheep to become the leader of my people Israel". the persecution of David by Saul produced many life threatening challenges and he showed great faith to perserve under trial. when Saul was killed he surely did graduate and inherited the heart of a rich man, the heart of a great leader.
 
 IMPORTANT !
 messianic psalms which might contain life experiences that either did not happen to David, or happened to David because he is a type of Christ. Psalm : 21,30,31,54,55,56
@@ -95,7 +93,7 @@ Psalm 65:7-8 says 'who stills the roaring of the seas, the roaring of their wave
 
 About 'the ends of the earth'. what if earth is not referring this home planet called earth but Earth in terms of a kind of habitable planet of which there are many in the universe. then the extremity of the Earth would be the most remote instance of a habitable planet from some reference point such as the center of the universe.
 
-Psalm 86 is surely a messianic psalm because David is imperfectly a godly man and he is not a really and truely poor man because the leader of 600 men has to be charismatic and impressive. A whole company of Gathites (gittites) were so impressed by David's leadership that they followed his back to israel which is absolutely indicates that he is actually rich in spirit. But the suffering Messiah is despised and rejected which resonates with this psalm.
+Psalm 86 is surely a messianic psalm because David is imperfectly a godly man and he is not a really and truely poor man because the leader of 600 men has to be charismatic and impressive. A whole company of Gathites (gittites) were so impressed by David's leadership that they followed him back to israel which absolutely indicates that he is actually rich in spirit. But the suffering Messiah is despised and rejected which resonates with this psalm.
 
 Psalm 88 even more so than 86 is a suffering messianic psalm. Did Heman really go down to Sheol? No it just poetry. But the suffering messiah did.
 
@@ -103,7 +101,7 @@ Psalm 89:20 proves that only a king is anointed with oil to confer a rulership
 
 IMPORTANT!
 about David and how well he identifies with the 'despised and rejected' suffering messiah. 
-you might think correctly that David graduated from being a poor man to a rich man, when he killed Goliath. that was the time when he stepped onto the stage of greater influence, so God, being wise, loving and gracious gave David a new sense of his destiny by gifting him a change of heart, the heart of a spiritually rich man endowed with wisdom, discretion and discernment for handling his new role in the army and his challenge of managing the greater influence that God provided. you might also think that David was despised and rejected when he was a poor shepard and not appreciated for his work. by some people, at least his brothers, he was not expected to be a man of distinction, eventhough has was anointed king of Israel. but that is not the case, because when Saul needed comfort when troubled by an evil spirit, his advisors said 'there is one man who is a well regarded musician, a skillful harpist and also he is known to be a mighty man of valor'. David was not despised and rejected when he was a shepard in his 'poor in spirit' training period. actually, he was well liked and admired. it is clear that, for David, the 'poor in spirit' training period was a prolonged season of being underestimated. his older brothers may have mocked him because in their eyes he was only good enough to be a shepard. even Jesse his father seemed to dismiss him as not being destined for much because he did not invite him to meet Samuel for the big day of promotion. in that aspect only he was downtrodden and perhaps felt trapped by the sheparding arrangement. but God made that arrangement to train and prepare David for the bigger stage. the scripture even says that 'David learned by God's command that a king must judge impartially and justly'.
+you might think correctly that David graduated from being a poor man to a rich man, when he killed Goliath. that was the time when he stepped onto the stage of greater influence, so God, being wise, loving and gracious, gave David a new sense of his destiny by gifting him a change of heart, the heart of a spiritually rich man endowed with wisdom, discretion and discernment for handling his new role in the army and his challenge of managing the greater influence that God provided. you might also think that David was despised and rejected when he was a poor shepard and not appreciated for his work. by some people, at least his brothers, he was not expected to be a man of distinction, eventhough has was anointed king of Israel. but that is not the case, because when Saul needed comfort when troubled by an evil spirit, his advisors said 'there is one man who is a well regarded musician, a skillful harpist and also he is known to be a mighty man of valor'. David was not despised and rejected when he was a shepard in his 'poor in spirit' training period. actually, he was well liked and admired. it is clear that, for David, the 'poor in spirit' training period was a prolonged season of being underestimated. his older brothers may have mocked him because in their eyes he was only good enough to be a shepard. even Jesse his father seemed to dismiss him as not being destined for much because he did not invite him to meet Samuel for the big day of promotion. in that aspect only he was downtrodden and perhaps felt trapped by the sheparding arrangement. but God made that arrangement to train and prepare David for the bigger stage. the scripture even says that 'David learned by God's command that a king must judge impartially and justly'.
 
 IMPORTANT!
 we must explain somehow the scope, context and range of affliction that applies to the 'poor man'. it's not right to suggest that a 'poor man' is generally bereft of wisdom. it probably more likely that a 'poor man' is wiser than appearances would first suggest. that's the delema of a poor man, he may be judged by his peers according to the flesh and if his flesh is unattractive, then although he has talents to offer he is disregarded. an example of a wise poor man reference in the bible is a proverb that says : 'a poor wise man in a walled city is better than a small army instead, because the poor wise man can save the city by his diplomacy'.
@@ -117,7 +115,7 @@ A desperately poor man is always the tail and never the head. Always being told 
 
 IMPORTANT!
 date: 24 March 2025
-Got this inspiration while meditating : a poor man is maginalised by satanic persecution, that is the identity trait that makes the poor man poor. Jesus says "blessed are you when men insult and persecute you for the sake of the Kingdom of God. rejoice ! for great is your reward in heaven". the poor man may be talented and gifted but his horn is rejected, that is his authority and influence is weak. the Lord will chasten a man who is gifted but lacks character which is designed to purge out evil attributes like pride and lust for riches. David was gifted but his character needed refining, so God tested and tried him by the hand of Saul. 
+Got this inspiration while meditating : a poor man is maginalised by satanic persecution, that is the condition that makes the poor man poor. Jesus says "blessed are you when men insult and persecute you for the sake of the Kingdom of God. rejoice ! for great is your reward in heaven". the poor man may be talented and gifted but his horn is rejected, that is his authority and influence is weak. the Lord will chasten a man who is gifted but lacks character which is designed to purge out evil attributes like pride and lust for riches. David was gifted but his character needed refining, so God tested and tried him by the hand of Saul. 
 
 about God's word that says 'Israel is my son, even my firstborn. and i say to you Pharaoh, let my son go that he may serve me. and if you do not let him go, behold, i will slay your son, your firstborn'. this is referring to both the nation of Israel descended from Isaac according to nature and Israel descended from Christ according to the Spirit. the natural nation is firstborn because they are ranked first by God among all nations and the latter are the spiritual nation or family ranked first among all the families of Man according to the Spirit.
 
@@ -128,7 +126,12 @@ more evidence that the waters are angels appears in psalm 150:4-6
 5. Let them praise the name of the Lord! For He commanded and they were created
 6. And He established them forever and ever. He gave a decree and it shall not pass away.
 
-first it says 'Praise him ... you **waters** above the heavens! Let **them** praise the name of the Lord. For He commanded and **they** were created. And He established **them** forever and ever. He gave a decree and it shall not pass away. the waters are personified when the Word addresses the waters as 'them waters' instead of 'those waters'. so the Word of God is telling us that the waters are a symbolic name or a spiritual name. that is they are spiritual waters. and if not if someone still insists that the waters are literal a literal body of waters then what is does the singular term water then reveal? what is a unit of water? a stream? yes that is indeed what it is, but why does God demand that literal water streams all give praise to God? how does a literal water stream give praise to God? that is not rational. the Lord is of course using His spiritual language, to refer to angels and they are the creatures that were created in verse 5. if you have a problem with God's spirtual language and reject the truth about it, beware that we as Christians are meant to listen to Holy Spirit who will teach us all things and lead us into all truth (quote other gospel verses that support this). God has established them forever. how has He established them? God created the rank and file of angels in such a structured way that He collectively calls them a 'living creature', such as the creatures that Ezekiel describes. verse 6 then says 'He gave a decree and it shall not pass away'. what decree? the Lord says (my paraphrase) 'i have set a boundary in the heavens that the waters must not overflow. i declared 'here at this mark your proud waves must stop' (quote other OT scripture verses that support this)'
+first it says 'Praise him ... you **waters** above the heavens! Let **them** praise the name of the Lord. For He commanded and **they** were created. And He established **them** forever and ever. He gave a decree and it shall not pass away. the waters are personified when the Word addresses the waters as 'them' instead of 'those'. so the Word of God is telling us that the waters are a symbolic name or a spiritual name. that is they are spiritual waters. and if not, if someone still insists that the waters are literal a literal body of waters then what is does the singular term water then reveal? what is a unit of water? a stream? yes that is indeed what it is, but why does God demand that literal water streams all give praise to God? how does a literal water stream give praise to God? that is not rational. the Lord is of course using His spiritual language, to refer to angels and they are the creatures that were created in verse 5. if you have a problem with God's spirtual language and reject the truth about it, beware that we as Christians are meant to listen to Holy Spirit who will teach us all things and lead us into all truth (quote other gospel verses that support this). God has established them forever. how has He established them? God created the rank and file of angels in such a structured way that He collectively calls them a 'living creature', such as the creatures that Ezekiel describes. verse 6 then says 'He gave a decree and it shall not pass away'. what decree? the Lord says (my paraphrase) 'i have set a boundary in the heavens that the waters must not overflow. i declared 'here at this mark your proud waves must stop' (quote other OT scripture verses that support this)'
+
+EXTRA :
+John 1:9 The true light, which give light to everyone, was coming into the world.
+
+This is a dramatic confirmation that the spiritual light of God is the Light of Life which means this verse could be stated equivalently : The true light, which gives **life** to everyone, was coming into the world.
 
 <bref>Job 5:15-16 KJV</bref>
 But he saveth the poor from the sword, from their mouth, and from the hand of the mighty. <bref>16</bref> So the poor hath hope, and iniquity stoppeth her mouth.
@@ -562,7 +565,40 @@ John MacArthur says that when Adam and Eve walked with God, they walked in the p
 The master plan of God, for Moses, for you, or for me, is a spiritual journey. It is a journey of increasing faith and spiritual maturity. The Israelites did not understand or perceive that their challenge was one of Faith. Faith in God, whose plans are always good. They did not perceive that up ahead there was a bigger faith challenge. But immediately, they must be focused and dedicated in faith to complete the current stage on God's master plan.
 
 Melchizedek in Leviticus. Open by reviewing the messianic story of in Isaiah 53 which says "he was a man of 
-sorrows, despised and rejected, one from whom men hide their faces". This actually describes the experience of a leper or rather a virtual leper, in that the one who suffers  as a leper may not have a skin disease.  The suffering Messiah is that kind of man. The pharisees rejected Jesus especially in the way they arrested and bound him as as a criminal then treated him with contempt before the romans did even more cruel deeds that was a rejection of his righteousness.
+sorrows, despised and rejected, one from whom men hide their faces". This actually describes the experience of a leper or rather a virtual leper, in that the one who suffers as a leper may not have a skin disease.  The suffering Messiah is that kind of man. The pharisees rejected Jesus especially in the way they arrested and bound him as as a criminal then treated him with contempt before the romans did even more cruel deeds that was a rejection of his righteousness.
 
+IMPORTANT!
+date: 21 Apr 2025
+about the miserable and wretched way the Pharisees considered miraculous healing to be work that the Sabbath law prohibits. The Lord Jesus could have rebutted their claim that He was working by saying "it is not myself that is actually doing any work, but the Holy Spirit is". i suppose they might be so miserable as to claim "well you are forcing the Spirit to do His work by being available to heal sick people".
 
+IMPORTANT!
+date: 27 Apr 2025
+For the thesis : make a point about king Uzziah and his unfortunate life story of attempting to burn incense in the outer holy place of the temple and God judged him by putting leperosy on his forehead. From that day  Uzziah ceased his role as king because a leper cannot be king. His life as king was dead being replaced by his son. Even when he died his memorial was not grand because he was a leper and that was his inglorious tag everything else all his achievements were not celebrated. 
 
+date : 5 May 2025
+Note : his leprosy appeared because of disobediance and was spiritually attached to him like clothing, as the evidence of spirtual death.
+
+IMPORTANT!
+date : 6 May 2025
+For the thesis : the ceremony for reinstating a clean person who was formerly a leper is exactly the same as that of the consecration ceremony of a high priest. So because in the natural that makes no sense it must be spiritually applied. And that excludes the natural sons of Aaron because the ceremony does not apply because a leper would not even be considered for the priesthood. Anyway needless to say it does nor make sense in the natural. So enter the only other priesthood that demands a high priest. That is the priesthood of Melchizedek, and there is only one person who meets that credential. That is Jesus the risen King and high priest of the new church in his name and blood.
+
+For the theis : in john's  gospel Jesus says "i am the way, the truth and the life". I wonder if you could rephrase that by saying: "i am the blood, the bread and the light of life." Blood is the way because its travels on a fixed path through the body. The truth is bread because Man shall not live on bread alone but by every word that comes form God 
+
+IMPORTANT!
+date : 22 May 2025
+For the thesis: the 144000 who are virgins and who have not defiled themselves with women might be a spiritual picture of those who have not sold themselves by prostitution. They have avoided the whoredom of selling your body, the arrangement that God gives for serving him. Thus they are faithful to Jesus in their unfailing allegiance to Him eventhough the world may have tried to seduce with temptations and alluring enticement for fame and glory instead of humility and meekness.
+
+IMPORTANT!
+date : 22 May 2025
+Matt, Mark and Luke all have scripts that recount the end of days tribulation. it says in Matt 24:21 'unless those days were cut short no human being would be saved. but for the sake of the elect they will be cut short'. How are they shortened? they must be virtually cut short. in that, the experience of those days for people on the earth is not different than a regular day, but in the heavenly realm time is running faster than a regular day. that is accomplished by a change in the gravitational field strength of the earth.
+
+IMPORTANT!
+date : 27 May 2025
+Ephesians 3:14-15 ESV
+[14] For this reason I bow my knees before the Father, [15] from whom every family in heaven and on earth is named, 
+
+Notice that he says "every family in heaven and on earth" and indicates that there is a family record that is according to a heavenly purpose, meaning and reason.
+
+these are gospel scriptures that show Jesus was well respected and admired by the majority of people.
+Matt 7:28-29
+28 And when Jesus finished these sayings, the crowds were astonished at his teaching, 29 for he was teaching them as one who had authority, and not as their scribes.

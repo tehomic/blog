@@ -56,6 +56,11 @@ Notice that the people in darkness sit in the darkness waiting for dawn, because
 <bref>John 1:4 ESV</bref>
 In him was life, and **the life was the light** of men
 
+<bref>John 1:9 ESV</bref>
+The true light, which give light to everyone, was coming into the world.
+
+Jesus **is** the spiritual light of God, the Light of Life which means this verse could be stated equivalently : The true light, which gives **life** to everyone, was coming into the world.
+
 <bref>John 8:12 ESV</bref>
 Again Jesus spoke to them, saying, “I am the light of the world. Whoever follows me will not walk in darkness, but will have the **light of life**.”
 
@@ -420,12 +425,18 @@ Awake, awake, clothe yourself with strength, O Zion! Put on your garments of spl
 <bref>Isa 52:1 KJV</bref>
 Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.
 
-<bref>Isa 60:1-2 ESV</bref>
-Arise, shine, for your light has come, and the glory of the Lord has risen upon you. For behold, darkness shall cover the earth, and thick darkness the peoples; but the Lord will arise upon you, and his glory will be seen upon you.
-
 <bref>Rom 13:11-12 ESV</bref>
 Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light.
 
+<bref>2 Cor 3:7- ESV</bref>
+. <b1>7</b1> Now if the ministry of death, carved in letters on stone, came with such glory that the Israelites could not gaze at Moses’ face because of its glory, which was being brought to an end, <b1>8</b1> will not the ministry of the Spirit have even more glory? <b1>9</b1> For if there was glory in the ministry of condemnation, the ministry of righteousness must far exceed it in glory. <b1>10</b1> Indeed, in this case, what once had glory has come to have no glory at all, because of the glory that surpasses it. <b1>11</b1> For if what was being brought to an end came with glory, much more will what is permanent have glory. <b1>12</b1> Since we have such a hope, we are very bold, <b1>13</b1> not like Moses, who would put a veil over his face so that the Israelites might not gaze at the outcome of what was being brought to an end.
+
+When Moses talked with the Lord, face to face, his face was virtually hot with God's glory, but he was blessed by that 'sunburn'. Notice that the radiance faded away just like the redness of sunburn eventually returns to normal flesh color. The people of Israel gazed at the "light of life" that appeared on a human being, which might have elevated Moses to be a god in their eyes. Since that would not honor God, Moses put the veil on his face. 
+
+<bref>Isa 60:1-2 ESV</bref>
+Arise, shine, for your light has come, and the glory of the Lord has risen upon you. <b1>2</b1> For behold, darkness shall cover the earth, and thick darkness the peoples; but the Lord will arise upon you, and his glory will be seen upon you.
+
+Consider Isa 60:2b that says "and his glory will be seen upon you". Even before Isaiah wrote chapter 60 of his book, Moses fullfilled that prophesy, which is quite an tribute to Moses and his intimacy with the Lord. Now consider 2 Cor 3:9b which says "the ministry of righteousness must far exceed it in glory". Yes the evidence of new testament glory abounds all throughout the world history from the first century to now. Western civilization was shaped by new testament principles of love and justice, compassion and community service. But does the new testament church church show the glory of God visibly that the world might gaze at it with amazement? The answer is no. Why? That is a question each individual Christian should ask God privately and in fellowship with their local church. I believe that when the afflicted church, when the prisoners seek God to know Him intimately, then the Lord will deliver His promise. Then the prisoners will arise and shine and they will manifest God's glory, the glory will be on them.
 <br/>
 <hr/>
 <br/>

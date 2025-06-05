@@ -50,6 +50,8 @@ How to plan the project in stages, and what size is the scope of the first stage
   iv. let cool enough to combine with the ferment juice
   v. blend with the stick blender.
 
+9. fish farming which relies on cultivating bait fish using only small overheads of food cost compared to providing fish pellets to the adult fish that we want to grow. the fish farm will focus on salmon and possibly snapper. then also some other low-cost fast growing fish species purely for organic fertilizer production.
+
 =============
 Day 18
 =============

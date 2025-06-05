@@ -81,7 +81,7 @@ The slothful <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7
 <bref>Prov 12:27 New American Bible</bref>
 Sloth does not catch <b1>H2760</b1> its prey, but the wealth of the diligent is splendid.
 
-The Hebrew word <b1>H7423</b1> means =>
+The Hebrew word <b1>H7423</b1> for slothful means =>
 
 {% highlight java %}
 Transliterated =>
@@ -134,7 +134,7 @@ ramah, raw-maw'; a primitive root; to hurl; specifically, to shoot; figuratively
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2760"><u>H2760</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2760"><u>H2760</u></a> for roasteth means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -158,7 +158,7 @@ charak, khaw-rak'; a primitive root; to braid (i.e. to entangle or snare) or <y1
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6718"><u>H6718</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6718"><u>H6718</u></a> for hunting means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -209,7 +209,7 @@ tsuwd, tsood; a primitive root; to lie alongside (i.e. in wait); by implication,
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H1952"><u>H1952</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H1952"><u>H1952</u></a> for substance means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -259,7 +259,7 @@ Phonetic : own
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2742"><u>H2742</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2742"><u>H2742</u></a> for diligent means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -311,7 +311,7 @@ charats, khaw-rats'; a primitive root; properly, to point sharply, i.e. (literal
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3368"><u>H3368</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3368"><u>H3368</u></a> for precious means =>
 
 {% highlight java %}
 ¹Transliterated =>
