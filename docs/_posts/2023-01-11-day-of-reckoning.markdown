@@ -81,7 +81,7 @@ The slothful <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7
 <bref>Prov 12:27 New American Bible</bref>
 Sloth does not catch <b1>H2760</b1> its prey, but the wealth of the diligent is splendid.
 
-The Hebrew word <b1>H7423</b1> for slothful means =>
+The Hebrew word <b1>H7423</b1> for 'slothful' means =>
 
 {% highlight java %}
 Transliterated =>
@@ -134,7 +134,7 @@ ramah, raw-maw'; a primitive root; to hurl; specifically, to shoot; figuratively
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2760"><u>H2760</u></a> for roasteth means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2760"><u>H2760</u></a> for 'roasteth' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -158,7 +158,7 @@ charak, khaw-rak'; a primitive root; to braid (i.e. to entangle or snare) or <y1
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6718"><u>H6718</u></a> for hunting means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6718"><u>H6718</u></a> for 'hunting' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -209,7 +209,7 @@ tsuwd, tsood; a primitive root; to lie alongside (i.e. in wait); by implication,
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H1952"><u>H1952</u></a> for substance means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H1952"><u>H1952</u></a> for 'substance' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -259,7 +259,7 @@ Phonetic : own
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2742"><u>H2742</u></a> for diligent means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2742"><u>H2742</u></a> for 'diligent' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -311,7 +311,7 @@ charats, khaw-rats'; a primitive root; properly, to point sharply, i.e. (literal
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3368"><u>H3368</u></a> for precious means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3368"><u>H3368</u></a> for 'precious' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -397,7 +397,7 @@ A slothful <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H610
 <bref>Prov 19:24 NIV</bref>
 A sluggard <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6102"><u>H6102</u></a> buries his hand in the dish; he will not even bring it back to his mouth!
 
-The Hebrew word <b1>H6102</b1> means =>
+The Hebrew word <b1>H6102</b1> for 'sluggard' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -439,7 +439,7 @@ atsal, aw-tsal'; a primitive root; to lean idly, i.e. to be indolent or slack: �
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2934"><u>H2934</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2934"><u>H2934</u></a> for 'hideth' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -466,7 +466,7 @@ taman, taw-man'; a primitive root; to hide (by covering over): — hide, lay pri
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3027"><u>H3027</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3027"><u>H3027</u></a> for 'hand' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -498,7 +498,7 @@ yad, yawd; a primitive word; a hand (the open one (indicating power, means, dire
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6747"><u>H6747</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6747"><u>H6747</u></a> for 'bosom' or 'dish' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -543,7 +543,7 @@ tsalach, tsaw-lakh'; or tsaleach, tsaw-lay'-akh; a primitive root; to push forwa
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7725"><u>H7725</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H7725"><u>H7725</u></a> for 'to bring' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -595,7 +595,7 @@ shuwb, shoob; a primitive root; to turn back (hence, away) transitively or intra
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6310"><u>H6310</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H6310"><u>H6310</u></a> for 'mouth' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -651,6 +651,16 @@ The Lord God gives talent and anointing, which is prosperity power. Slothfulness
 
 What is the clue that shows this is real? The Hebrew verb <a target="_blank" href="https://www.blueletterbible.org/kjv/pro/19/1/t_conc_647024"><u>bring</u></a> has <a target="_blank" href="https://uhg.readthedocs.io/en/latest/stem_hiphil.html"><u>Hiphil</u></a> tense applied, which is causative action. Meaning that Sin is the active player, trapping a person to spoil their talent. How does it have a mandate to do this? By the stealing authority from an authority holder. A parent, a relative, a pastor, a work or church leader.
 
+<bref>Matt 21:19 ESV</bref>
+.21 And seeing a fig tree by the wayside, he went to it and found nothing on it but only leaves. And he said to it, “May no fruit ever come from you again!” And the fig tree withered at once.
+
+Remember how Jesus cursed the fig tree? In the same way, that is exactly how a person can be captured by Sin and virtually killed by entering a prison of Slothfulness and obscurity. If an authority holder curses a person in their custody then that person to some degree will spiritully die, depending on the words spoken. In terms of killing gifting and talent a good example of a killing curse is "you will never amount to anything" or "you are good for nothing" or "you're a hopeless fool". When a gifted person is undisciplined and unteachable their character flaws will inevitably give an advantage to Satan who can provoke a guardian to curse the disruptive man who is causing trouble. There is a constant struggle in the heart of man between flesh and spirit. When someone, especialy a Christian, has cronic bad behaviour and is failing relationally that indicates the man is dominated by his flesh.
+
+However, as a warning to authority holders Jesus taught that every careless word will be judged when He comes again to judge the church and the world.
+
+<bref>Matt 5:22 ESV</bref>
+But I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire.
+
 To escape prison a holy <a target="_blank" href="https://uhg.readthedocs.io/en/latest/stem_hophal.html"><u>Hophal</u></a> deliverance is needed. Hophal is the passive form of Hiphil tense. 
 For deliverance it means "The battle is the Lords". 
 
@@ -662,7 +672,7 @@ Next, Isaiah gives some insight about what a dungeon experience is like.
 <bref>Isa 42:7 KJV</bref>
 To open the blind eyes, to bring out <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3318"><u>H3318</u></a> the prisoners <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H616"><u>H616</u></a> from the prison <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H4525"><u>H4525</u></a>, and them that sit in darkness <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2822"><u>H2822</u></a> out of the prison <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3608"><u>H3608</u></a> house.
 
-The Hebrew word <b1>H3318</b1> means =>
+The Hebrew word <b1>H3318</b1> 'to bring' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -694,7 +704,7 @@ yatsa', yaw-tsaw'; a primitive root; to go (causatively, bring) out, in a great 
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H616"><u>H616</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H616"><u>H616</u></a> for 'prisoners' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -715,7 +725,7 @@ Phonetic : as-sere'
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H4525"><u>H4525</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H4525"><u>H4525</u></a> for 'prison' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -769,7 +779,7 @@ cagar, saw-gar'; a primitive root; to shut up; figuratively, to surrender: — c
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2822"><u>H2822</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H2822"><u>H2822</u></a> for 'darkness' means =>
 
 {% highlight java %}
 ¹Transliterated =>
@@ -819,7 +829,7 @@ chashak, khaw-shak'; a primitive root; to be dark (as withholding light); transi
 <hr/>
 <br/>
 
-The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3608"><u>H3608</u></a> means =>
+The Hebrew word <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H3608"><u>H3608</u></a> for 'prison house' means =>
 
 {% highlight java %}
 ¹Transliterated =>
