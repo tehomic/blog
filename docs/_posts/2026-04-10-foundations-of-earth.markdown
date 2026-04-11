@@ -114,8 +114,8 @@ yaw-lad'; a primitive root; to bear young; causatively, to beget; medically, to 
 <br/>
 
 The Hebrew word H8435 'generation' means descendents or genealogies. What are the generations? They are things that were created in Genesis chapter 1. Yet only Day 6 is directly connected with human genealogy. That is the creation of Man in God's image. This is very curious. So what does the creation account from Day 1 to Day 5 have to do with human genealogy? 
-
+<br/>
 It must be connected to humanity by providing the foundations of the earth. As a prerequisite, that foundation is the creation of the earth as a host of human existance. According to psalm 102:25, it is clear that Genesis 1 describes the creation of the heavens and is connected with foundations. Now, again, compare psalm 102:25 and Isaiah 41:4. 
-
+<br/>
 Notice that there must be a connection between the generations and the foundations of earth. What is the implication? The foundation principle is government. The creation objective of Genesis 1 must be for governing the natural universe so that it continues sustainably for thousands and thousands of years, but not forever. So the creation account is the foundation of the earth and is the government of the Lord God of Israel which constitutes the angels of heaven that were made in their vast array.
 
