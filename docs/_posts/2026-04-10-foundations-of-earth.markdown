@@ -75,6 +75,7 @@ to-led-aw'; or tôlᵉdâh; from <b1>H3205</b1>; (plural only) descent, i.e. fam
 <hr/>
 <br/>
 
+
 The Hebrew root word <b1>H3205</b1> means =>
 
 {% highlight java %}
@@ -113,6 +114,7 @@ yaw-lad'; a primitive root; to bear young; causatively, to beget; medically, to 
 <br/>
 <hr/>
 <br/>
+
 
 The Hebrew word H8435 'generation' means descendents or genealogies. What are the generations? They are things that were created in Genesis chapter 1. Yet only Day 6 is directly connected with human genealogy. That is the creation of Man in God's image. This is very curious. So what does the creation account from Day 1 to Day 5 have to do with human genealogy? 
 
