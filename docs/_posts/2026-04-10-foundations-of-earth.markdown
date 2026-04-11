@@ -78,7 +78,7 @@ The Hebrew root word <b1>H3205</b1> means =>
 </p>
 {% highlight java %}
 Transliterated =>
-Noun feminine : yālaḏ
+Verb : yālaḏ
 Phonetic : yaw-lad'
 {% endhighlight %}
 
