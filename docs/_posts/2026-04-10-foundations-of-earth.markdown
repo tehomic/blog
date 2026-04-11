@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Foundations of the Earth"
-date:   2026-04-11 00:00:00-0600
+date:   2026-04-10 00:00:00-0600
 categories: bible exposition
 ---
 
