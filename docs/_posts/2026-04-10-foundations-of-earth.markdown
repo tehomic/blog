@@ -73,6 +73,7 @@ Phonetic : to-led-aw'
 to-led-aw'; or tôlᵉdâh; from <b1>H3205</b1>; (plural only) descent, i.e. family; (figuratively) history:—birth, generations
 <br/>
 <hr/>
+<br/>
 
 The Hebrew root word <b1>H3205</b1> means =>
 
@@ -111,6 +112,7 @@ Phonetic : yaw-lad'
 yaw-lad'; a primitive root; to bear young; causatively, to beget; medically, to act as midwife; specifically, to show lineage:—bear, beget, birth(-day), born, (make to) bring forth (children, young), bring up, calve, child, come, be delivered (of a child), time of delivery, gender, hatch, labour, (do the office of a) midwife, declare pedigrees, be the son of, (woman in, woman that) travail(-eth, -ing woman).
 <br/>
 <hr/>
+<br/>
 
 The Hebrew word H8435 'generation' means descendents or genealogies. What are the generations? They are things that were created in Genesis chapter 1. Yet only Day 6 is directly connected with human genealogy. That is the creation of Man in God's image. This is very curious. So what does the creation account from Day 1 to Day 5 have to do with human genealogy? 
 
