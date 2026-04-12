@@ -33,7 +33,10 @@ categories: bible exposition
 <hr/>
 <br/>
 
-Especially for the western world and its historical development, the foundations of human society is rooted in God ordained government and its interpretation of civilization and standard of living. Let us now consider that, logically, the foundations of humanity must depend on the foundations of the earth?
+Especially for the Western world and its historical development, the foundations of human society is rooted in God ordained government and its interpretation of social justice and standard of living. <sup><a href="https://tehomic.github.io/blog/bible/exposition/2026/04/10/foundations-of-earth.html#googleai">[1]</a></sup> The early Christian church fundamentally shaped Western society by establishing the foundations of education, social care, law, and political organization after the fall of Rome. It transformed European culture by introducing concepts of human dignity, providing a unifying moral structure and producing institutions like universities, hospitals ans charities. 
+
+<br/>
+Let us now consider that, logically, the foundations of humanity must depend on the foundations of the earth?
 
 <bref>Psalm 102:25 NIV</bref>
 .<bref>25</bref> In the beginning you laid the foundations of the earth and the heavens are the work of your hands
@@ -120,3 +123,13 @@ It must be connected to humanity by providing the foundations of the earth. As a
 <br/>
 
 Notice that there must be a connection between the generations and the foundations of earth. What is the implication? The foundation principle is government. The creation objective of Genesis 1 must be for governing the natural universe so that it continues sustainably for thousands and thousands of years, but not forever. So the creation account is the foundation of the earth and is the government of the Lord God of Israel which constitutes the angels of heaven that were made in their vast array.
+
+<br/>
+<hr/>
+<br/>
+
+### **Bibliography**
+
+<ol>
+  <li id="googleai">google ai produced this text.</li>
+</ol>
