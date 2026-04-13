@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Leper and Leviticus"
-date:   2025-08-10 00:00:00-0600
-categories: bible exposition
+title:  "Climate Change"
+date:   2026-04-11 00:00:00-0600
+categories: pop science
 ---
 
 <style>
