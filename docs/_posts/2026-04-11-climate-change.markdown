@@ -69,7 +69,7 @@ For comprehensive information on the causes and effects of climate change, the U
 
 The real and deadly climate change dynamic of our times is the greenhouse gas blanket that blocks heat radiation out of the atmosphere and into space. The heat-trapping effect blocks or slows down the release of heat from the land which then leaks heat into the ocean.
 
-There is one feature of environmental degradation that is not properly addressed by current climate change scientific analysis. That is deforestation and devegetation. The destructive result creates uncovered ground that provides the condition for 'solar heat storage'. When uncovered ground is exposed to direct sunlight it absorbs solar energy until clouds or the evening sky allows the land to release heat which radiates back into the atmosphere. 
+There is one feature of environmental degradation that is not properly addressed by current climate change scientific analysis. That is deforestation and devegetation. The destructive result creates uncovered ground that provides the condition for solar heat storage in the soil. When uncovered ground is exposed to direct sunlight it absorbs solar energy until clouds or the evening sky allows the land to release heat which radiates back into the atmosphere. 
 
 #### Google search : <b1>Does uncovered ground store solar energy and then release it during the night?</b1>
 
@@ -101,7 +101,7 @@ Heat Retention: Water holds heat for a longer duration, meaning the ocean surfac
 
 In places where large open plains are found, heat release produces thermal currents that affect the prevailing weather.
 
-#### Google search : <b1>In meteorology do thermal currents produce how or low pressure systems</b1>
+#### Google search : <b1>In meteorology do thermal currents produce high or low pressure systems?</b1>
 
 #### Ai Results :
 
@@ -117,7 +117,7 @@ When the sun heats the ground, the ground heats the air above it, making the air
 
 While rising warm air creates the thermal low, this air eventually cools, diverges, and sinks in another area, contributing to the creation of high-pressure systems elsewhere, as seen in Hadley cell circulation
 
-### A potential new threat : catastrophic ground heat retention
+### <b1>A potential new threat : catastrophic ground heat retention</b1>
 
 The effects of uncovered ground and solar heat retention contribute to the deadly dynamic of trapped land heat leaking into the ocean. It seems that the scientific community does not properly address the threat of uncovered ground in climate change analysis.
 
@@ -141,9 +141,8 @@ This process, known as the greenhouse effect, works as follows:
 
 Essentially, the atmosphere allows short-wave solar radiation in but blocks long-wave thermal heat from going out, trapping energy within the land-ocean-atmosphere system.
 <hr/>
-
+<br/>
 Notice that the greenhouse blanket effect is beneficial when atmospheric gas concentration is in the right range. According to google ai, without the greenhouse gas blanket the "earth's average temperature would be roughly -18°C rather than the current comfortable average".
-<hr/>
 <br/>
 
 #### Google search : <b1>Since atmospheric greenhouse gas traps heat, does it block the release of solar heat stored in the land so that the land retains some heat?</b1>
