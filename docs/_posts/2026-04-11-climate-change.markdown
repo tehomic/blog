@@ -97,6 +97,7 @@ Yes, land releases more heat and cools down faster than the ocean at night. Land
 Heat Retention: Water holds heat for a longer duration, meaning the ocean surface stays warmer throughout the night.
 - **Thermal Circulation** : The rapid heat loss from land causes the air above it to cool and become dense, creating a high-pressure zone that pushes wind towards the warmer, lower-pressure ocean, a phenomenon known as a land breeze.
 - **Daily Contrast** : As explained, this "differential heating" and cooling causes the land to be hotter than the ocean during the day, but significantly cooler at night.
+<hr/>
 <br/>
 
 In places where large open plains are found, heat release produces thermal currents that affect the prevailing weather.
@@ -116,6 +117,8 @@ When the sun heats the ground, the ground heats the air above it, making the air
 - **Thermal Low Example** : In central Australia or desert areas, intense daily surface heating drives rising air, creating a local thermal low that can increase in intensity by the evening.
 
 While rising warm air creates the thermal low, this air eventually cools, diverges, and sinks in another area, contributing to the creation of high-pressure systems elsewhere, as seen in Hadley cell circulation
+<hr/>
+<br/>
 
 ### <b1>A potential new threat : catastrophic ground heat retention</b1>
 
@@ -190,5 +193,4 @@ Consider that increasing worldwide devegetation and thus increasing uncovered gr
 Consider that scientific measurement of uncovered ground heat retention could help to produce a threshold metric that estimates at what point uncovered ground heat retention increases to a non-recoverable state.The threat of a non-recoverable state depends on greenhouse gas atmospheric concentration. That is, the threat of heat leaking from land to the ocean has 2 conditions that amplify the heat leak effect. Condition 1 is the greenhouse gas heat radiation blocker affect. Condition 2 is the total worldwide uncovered ground area as a percentage of total worldwide land area. 
 <br/>
 
-Lets review the evidence again. During the period of night uncovered ground stored solar heat release and radiation out of the atmosphere is blocked by the greenhouse gas affect. The total stored ground heat is not released during the night and thus that retained heat leaks into the ocean. The fact that some ground heat is retained when the next morning arrives means that heat retention is a potentially compounding cycle.
-That is why it neccessary to estimate what is the percentage of uncovered ground that produces heat retention which will always be compounding.
+Lets review the evidence again. During the period of night uncovered ground stored solar heat release and radiation is blocked by the greenhouse gas affect. The total stored ground heat is not released during the night and thus that retained heat leaks into the ocean. The fact that some ground heat is retained when the next morning arrives means that heat retention is a potentially compounding cycle. That is why it neccessary to estimate what is the percentage of uncovered ground that produces heat retention which will always be compounding.

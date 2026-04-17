@@ -29,7 +29,7 @@ categories: bible exposition
   }
 </style>
 
-<p style="text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a target="_blank" property="dct:title" rel="cc:attributionURL" href="https://github.com/tehomic/blog.git">Tehomic Christian Themes</a> by <a target="_blank" rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/tehomic">Peter A McGill</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
+<p style="text-align: center;" xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a target="_blank" property="dct:title" rel="cc:attributionURL" href="https://github.com/tehomic/blog.git">Tehomic Christian Themes</a> is licensed under <a target="_blank" href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution-NonCommercial 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p>
 <hr/>
 <br/>
 
@@ -91,7 +91,7 @@ tsaw-rah'; a primitive root; <y1>to scourge</y1>, i.e. (intransitive and figurat
 
 Every old testament occurance of people contracting leprosy are spiritual. Not one time does the person just randomly contract it by accidental contact that allows the disease to naturally migrate from one person to another. In all cases, leprosy is contracted by judgement of a person caught rebelling against the will of God. Similarly, every instance of a person cured of leperosy is a spiritual or miraculous healing by the grace of God. This shows that leprosy is really a spiritual condition that is tagged by a physical disease. This shows what leprosy really is. It is spiritual death because any person afflicted by leprosy was virtually a dead man walking, with no licence even to associate with other healthy people, but only with his/her own kind.
 
-Jesus said "what comes out of the heart is what defiles the man. for out of the heart comes pride, arrogance, wrath, hatred, coveting, disobediance, lust, greed, slander, folly, sexual immorality and wickedness". Consider the story of king Uzziah who was incited by pride, demanding the right to burn incense in the inner court of God's sanctuary. The priests tried to reason with him attempting to turn him around by warning that to do so would violate the exclusive and special priesthood ministry mandate. That only made Uzziah furious and stubborn, his face seething with rage. Then leperosy erupted on his forehead which changed the power contest completely. King Uzziah was immediately a defeated man and quickly thrust out of the sanctuary. This occurance shows the power of condemnation which is actually the root of leperosy. Anyone who transgressed the law willfully showing disdain for the law and contempt for righteousness, was a candidate for leperosy. I wonder if the mark of Cain was leperosy or something equivalent. 
+Jesus said "what comes out of the heart is what defiles the man. For out of the heart comes pride, arrogance, wrath, hatred, coveting, disobediance, lust, greed, slander, folly, sexual immorality and wickedness". Consider the story of king Uzziah who was incited by pride, demanding the right to burn incense in the inner court of God's sanctuary. The priests tried to reason with him attempting to turn him around by warning that to do so would violate the exclusive and special priesthood ministry mandate. That only made Uzziah furious and stubborn, his face seething with rage. Then leperosy erupted on his forehead which changed the power contest completely. King Uzziah was immediately a defeated man and quickly thrust out of the sanctuary. This occurance shows the power of condemnation which is actually the root of leperosy. Anyone who transgressed the law willfully showing disdain for the law and contempt for righteousness, was a candidate for leperosy. I wonder if the mark of Cain was leperosy or something equivalent. 
 
 Although, there is also the case where injustice and betrayal cause an innocent person to be condemned for a sin they did not commit. It is remarkable that before cleasing a leper Jesus never said 'your sins are forgiven' before touching them, eventhough He did on other occasions such as the paralytic man lowered from the exposed roof of a house. Notice that Jesus did what was socially unthinkable in jewish culture. He touched the leper, to demonstrate His loving kindness and also activate the cleansing miracle. The other remarkable saying of Jesus about cleansing a leper was His command about offering the cleasing sacrifice 'as a testimony to them'. I reckon He might be saying "offer the sacrifice to be fully vindicated by the Lord your God".
 
@@ -255,67 +255,8 @@ Phonetic : naw-saw'
 {% endhighlight %}
 
 nâsâʼ, naw-saw'; or nâçâh; (Psalm 4:6 [7]), a primitive root; to lift, in a great variety of applications, literal and figurative, absolute and relative:—accept, advance, arise, (able to, (armor), suffer to) bear(-er, up), bring (forth), burn, carry (away), cast, contain, desire, ease, exact, exalt (self), extol, fetch, forgive, furnish, further, give, go on, help, high, hold up, honorable ( man), lade, lay, lift (self) up, lofty, marry, magnify, × needs, obtain, pardon, raise (up), receive, regard, respect, set (up), spare, stir up, swear, take (away, up), × utterly, wear, yield.
-
-Hebrew word for 'eruption'
-
-Strongs Number : H5597
-
-{% highlight java %}
-Translitered =>
-Feminine noun : sapaḥaṯ
-Phonetic : sap-pakh'-ath
-{% endhighlight %}
-
-{% highlight java %}
-Biblical Usage
-{% endhighlight %}
-
-1. eruption, scab, lesion
-  - either malignant or benign
-
-{% highlight java %}
-Strong’s Definition
-{% endhighlight %}
-
-çappachath, sap-pakh'-ath; from <b1>H5596</b1>; the mange (as making the hair fall off):—scab.
-
-Hebrew root word <b1>H5596</b1>
-
-{% highlight java %}
-Transliterated =>
-Verb : sāp̄aḥ
-Phonetic : saw-fakh'
-{% endhighlight %}
-
-{% highlight java %}
-¹Biblical usage =>
-{% endhighlight %}
-
-1. to join, attach to, join together
-
-  - (Qal)
-    * to join, attach to
-
-  - (Niphal)
-    * to attach oneself
-
-  - (Piel)
-    * joining (participle)
-
-  - (Pual)
-    * to be joined together, hold oneself together
-
-  - (Hithpael)
-    * to join oneself
-
-  - (Piel)
-    * to cause a scab upon, smite with scab
-
-{% highlight java %}
-¹Strongs definition =>
-{% endhighlight %}
-
-çâphach, saw-fakh'; or sâphach; (Isaiah 3:17), a primitive root; properly, to scrape out, but in certain peculiar senses (of removal or association):—abiding, gather together, cleave, smite with the scab.
+<hr/>
+<br/>
 
 Hebrew word for 'spot'
 
@@ -788,28 +729,6 @@ I.to be deep, be profound, make deep
 <hr/>
 <br/>
 
-Hebrew word <b1>H6883</b1> for ‘leprosy’
-
-{% highlight java %}
-Transliterated =>
-Feminine noun : ṣāraʿaṯ
-Phonetic : tsaw-rah'-ath
-{% endhighlight %}
-
-I.leprosy
-
-  1. in people, malignant skin disease (Le. 13-14)
-  2. in clothing, a mildew or mould (Le. 13:47-52)
-  3. in buildings, a mildew or mould (Le. 14:34-53)
-
-{% highlight java %}
-¹Strongs definition =>
-{% endhighlight %}
-
-tsâraʻath, tsaw-rah'-ath; from <b1>H6879</b1>; leprosy:—leprosy.
-<hr/>
-<br/>
-
 Hebrew word <b1>H7200</b1> for ‘examined’
 
 {% highlight java %}
@@ -887,45 +806,7 @@ I.to be unclean, become unclean, become impure
 <hr/>
 <br/>
 
-Hebrew root word <b1>H2930</b1> for ‘unclean’
-
-{% highlight java %}
-Transliterated =>
-Verb : ṭāmē'
-Phonetic : taw-may'
-{% endhighlight %}
-
-I.to be unclean, become unclean, become impure
-
-  1. (Qal) to be or become unclean
-    - sexually
-    - religiously
-    - ceremonially
-  2. (Niphal)
-    - to defile oneself, be defiled
-    -  sexually
-    - by idolatry
-    - ceremonially
-    - to be regarded as unclean
-  3. (Piel)
-    -  to defile
-    - sexually
-    - religiously
-    - ceremonially
-    - to pronounce unclean, declare unclean (ceremonially)
-    - to profane (God's name)
-  4. (Pual) to be defiled
-  5. (Hithpael) to be unclean
-  6. (Hothpael) to be defiled
-
-{% highlight java %}
-¹Strongs definition =>
-{% endhighlight %}
-
-ṭâmêʼ, taw-may'; a primitive root; to be foul, especially in a ceremial or moral sense (contaminated):—defile (self), pollute (self), be (make, make self, pronounce) unclean, × utterly.
-<hr/>
-<br/>
-
+Hebrew root word <b1>H2930</b1> for ‘unclean’ is exactly the same as 'pronouce'.
 
 This is a comprehensive study of the hebrew words contained in Lev 13:1-3. What stands out as proof that leprosy is a spiritual condition? 
 
@@ -943,18 +824,18 @@ Nouns
 5. spot
   - root word says 'to be bright, shining' which points to the resurrected Jesus
 6. disease
-  - means stroke, wound. root word says 'to be stricken by disease' which points to the script 'we esteemed him stricken'
+  - means stroke, wound. root word says 'to be stricken by disease' which points to the scripture 'we esteemed him stricken'
 7. skin
   - root word says 'exposed, bared, laid bare' which points to the helpless predicament of the leper facing judgement under condemnation.
 8. hair
   - root word says 'to storm against, come as a storm' which points to God's wrath against sin poured onto Jesus at the cross. also says 'to dread, to bristle or shiver with horror' which points to the severity of God's wrath against sin.
-11. white
+9. white
   - root word says 'become white, to purify' which points to the cleansing and vindication of a redeemed leper.
-12. appears
+10. appears
   - means sight, phenomenon, spectacle which points to Jesus visage marred beyond human likeness by the experience of a spiritual death plague.
-13. deep
+11. deep
   - means mysterious, unsearchable which points to the judgement of God and His righteousness in doing so.
-  - root word says 'to be deep, profound'
+  - root word says 'to be deep, profound' which describes the Holy justice of God. 
 
 Verbs
 1. to turn
@@ -967,20 +848,31 @@ Verbs
 
 <bref>Isaiah 53:1-5 ESV</bref>
 
-.<bref>1</bref> Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed?
-<bref>2</bref> For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him. <bref>3</bref> He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. <bref>4</bref> Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. <bref>5</bref> But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.
+.<bref>1</bref> Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed? <bref>2</bref> For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him. <bref>3</bref> He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. <bref>4</bref> Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. <bref>5</bref> But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed.
 
-<do not include>
-Though good news was preached, who has believed our message? Instead of peace, a raging tempest stormed against the arm of the Lord. Those who judge examine the flesh. The unjust ruler judges according to the flesh searching for the form, mark and the color of corruption. They see no beauty, the haughty only desire what is false. Though the man may be just, if his color goes deeper than the skin, woe to that man. If the priest judges only by the flesh, upholding an illusion of justice, he pronouces a sentence of death. By judgement the leper's soul turns to the left, turned black like a bruise. That curse strikes deep and goes down to Sheol.
+Though good news was preached, who has believed our message? Instead of peace, a raging tempest stormed against the arm of the Lord. Those who judge examine the flesh. The pharisee, the unjust ruler is a hypocrite. He judges according to the flesh searching for the form, mark and color of corruption. They reject holiness, they reject beauty. The haughty only desire what is false. Though the man may be just, if the color of his wound goes deeper than the skin, woe to that man. If the priest judges only by the flesh, upholding an illusion of justice, he pronouces a sentence of death. By judgement the leper's soul turns to the left, turned black like a bruise. That curse strikes deep and goes down to Sheol.
 
 Who can measure his grief? To measure his grief is impossible, even unsearchable. We saw him stricken with deadly wounds, afflicted by disease and grief, crushed and defeated, despised and rejected. A wandering leper weighed down by innumerable sorrows, scourged by God's plague of judgement that virtually disfigures his visage (his face) so that it is marred beyond human likeness. The question is this : who is demanding that anyone agree with this? 
-</do not include>
 
 Consider that modern Rabinic study calls the suffering Messiah the '<a target="_blank" href="https://www.chabad.org/kabbalah/article_cdo/aid/379486/jewish/The-Holy-Leper.htm">Leper of Rebbe</a>'. Rebbe is a celebrated Rabbi who is the author of this title. So the Rabbis agree that the suffering Messiah is like a leper in that He is despised and rejected, from whom men hide their faces.
 
-Leviticus describes the special ritual of cleansing a leper, which dabs the blood and oil of the sin offering on not only the right big toe of Messiah but also on his right ear lobe and thumb. The remaining oil in the priests left hand is smeared on the head of the Messiah. In the whole book of Leviticus, this type of ritual only applies to a priestly consecration ceremony and partially to the calling of a king by pouring of oil on the head. This ceremony points to the special induction ritual that confirms a priest according to the order of Melchizedek and is a prophesy about Jesus. According to the Oxford dictionary, the word induction means 'the process or action of giving rise to something'. Well in the case of the melchizedek priesthood it means that the prophesy that was foretold is now fulfilled in the resurrection of Jesus! Anyone searching for the Leper of Rebbe can stop searching, Jesus is the Leper of Rebbe! 
+<bref>Heb 4:14 ESV</bref>
+. <bref>14</bref> Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession.
 
-The cleasing ceromony has ritual rites that are unique. Blood AND oil and dabbed on the right big toe, thumb and ear lobe of the cleased leper. <a href="https://www.biblegateway.com/passage/?search=Exodus%2029:19-21&version=ESV" target="_blank">Exodus 29:19-20</a> describes the ordination of a priest which says that blood only is dabbed on the right big toe, thumb and ear lobe, not oil as well. A king is ordained by a high priest pouring the anointing oil on his head. So this cleasing ritual is UNIQUE and surpasses both the individual rites for priest and king. Why is the oil dabbed on the appendages of the cleased leper? This explains that the ritual is designed to ordain a special one who is a priest AND a king concurrently. One who is a priest according to the order of Melchizedek! After resurrection, I reckon when Jesus accended to the father this ceremony was performed in the heavenly sanctuary, with Holy Spirit as the ministering priest. This special leper cleansing ritual is a prophetic account that only applies to one special person, the risen Messiah! 
+Hebrews 4:14 states that Jesus has "passed through the heavens" (or "gone through the heavens"), identifying him as the great high priest who ascended to God’s presence. This phrase signifies Jesus' divine authority, his completion of redemptive work, and his role as an empathetic intercessor who is both human and divine. 
+
+#### <b1>Key Implications of "Passed Through the Heavens"</b1> :
+- **Superior High Priest** : Unlike the earthly high priest who entered the Holy of Holies, Jesus passed through the heavens victoriously into the direct presence of God.
+- **Accension and Authority** : It indicates Jesus is alive, resurrected, and now reigns in authority over the spiritual realm.
+- **Active Intercession** : He is not merely "in" heaven, but above the heavens, interceding for believers.
+- **Empathetic Saviour** : Because he was human and tempted, yet sinless, he is able to sympathize with human weaknesses.
+- **Confidence in Access** : Because Jesus is in the presence of God, believers are encouraged to approach God's "throne of grace" with confidence.
+
+Leviticus describes the special ritual of cleansing a leper. The cleasing ceromony has ritual rites that are unique. Blood AND oil and dabbed on the right big toe, thumb and ear lobe of the cleased leper. <a href="https://www.biblegateway.com/passage/?search=Exodus%2029:19-21&version=ESV" target="_blank">Exodus 29:19-20</a> describes the ordination of a priest which says that **blood only** is dabbed on the right big toe, thumb and ear lobe, not oil as well. A king is ordained by a high priest pouring the anointing oil on his head. So this cleasing ritual is **unique** and surpasses both the individual rites for priest and king. Why is the oil dabbed on the appendages of the cleased leper? 
+
+This ceremony points to a special ordination ritual that confirms a priest according to the order of Melchizedek and is a prophesy about Jesus. It is designed to ordain a special one who is a priest AND a king concurrently. According to the Oxford dictionary, the word induction means 'the process or action of giving rise to something'. Well in the case of the Melchizedek priesthood it means that the prophesy that was foretold is now fulfilled in the resurrection of Jesus! 
+
+After resurrection, I reckon when Jesus accended to the father this ceremony was performed in the heavenly sanctuary, with Holy Spirit as the ministering priest. This special leper cleansing ritual is a prophetic account that only applies to one special person, the risen Messiah! Anyone searching for the Leper of Rebbe can stop searching, Jesus is the Leper of Rebbe! 
 
 <bref>Isaiah 53:1 NIV</bref> 
 .<bref>1</bref> "Who has believed our message and to whom has the arm of the Lord been revealed?"
@@ -996,25 +888,6 @@ This could even describe how the suffering Messiah was smitten by God and crushe
 
 <bref>Isaiah 53:10 ESV</bref>
 Yet it was the will of the Lord to crush him. He has put him to grief. When his soul makes an offering for guilt, he shall see his offspring. He shall prolong his days and the will of the Lord shall prosper in his hand.
-
-The law of leprosy in Leviticus 13 describes this chastisement when a potential leper is examined by the priest.
-
-Spirtual words for interpreting Levitucus 13 :
-
-Nouns :
-1. priest (chief ruler)
-2. appearance
-3. stricken
-
-Verbs :
-1. to scourge,
-2. to preach, bear news,
-3. to sweep (away),
-4. to change, transform,
-5. to be defiled
-
-Adjectives/Adverbs
-1. unsearchable
 
 <bref>Isaiah 52:14 NIV</bref>
 .<bref>14</bref> Just as there were many who were appalled at him — his appearance was so disfigured beyond that of any human being and his form marred beyond human likeness—
