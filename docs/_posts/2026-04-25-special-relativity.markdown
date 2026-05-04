@@ -60,6 +60,7 @@ categories: pop science
 <tr>
 <td><b>Distance Covered</b></td><td>Longer (proper length)</td><td>Shorter (contracted)</td><td><b>No</b></td>
 </tr>
+<tr>
 <td><b>Relative Speed</b></td><td><i>v</i></td><td><i>v</i></td><td><b>Yes</b></td>
 </tr>
 </table>
