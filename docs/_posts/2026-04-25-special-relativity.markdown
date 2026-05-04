@@ -86,6 +86,6 @@ and red. The length difference scale is in nanometers.
 Notice that, relative to the observatory's blue path, the red path of the target spacecraft is shorter. Notice also that the speed
 of the nanosecond hand at the red path radius is slower than the blue path. This shows that the experience both the observatory crew and the 
 spacecraft crew is the same. That is, time is synchronized in terms of when shared moments occur, such as the experiment start and finish place and time.
-<p><img title="spacetime relativity" alt="spacetime relativity" src="./spacetime-relativity.jpg"></p>
+<p><img title="spacetime relativity" alt="spacetime relativity" src="/blog/pop/science/2026/04/11/spacetime-relativity.jpg"></p>
 </body>
 </html>
