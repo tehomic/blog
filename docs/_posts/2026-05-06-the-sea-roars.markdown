@@ -40,7 +40,7 @@ categories: bible exposition
 
 The bible, both new and old testaments, describes two mysterious creatures called the Flood and the Sea which apparently is not a literal flood or sea or ocean. 
 
-My unction says these are the same creature. The two names Flood and Sea describe two different powers that can effect the life and times of humanity. The Flood is a directed torrent of water that carries one or more people from one place to another. The Sea is a pervasive controlling and spiritual influence which is the heavenly hedgemony of both light and dark angelic principalities.
+My unction says these are the same creature. The two names Flood and Sea describe two different powers that can effect the life and times of humanity. The Flood is a directed torrent of water that carries one or more people from one place to another. The Sea is a pervasive controlling and spiritual influence which is the heavenly hegemony of both light and dark angelic principalities.
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Hegemony">Hegemony</a> refers to the dominant influence, authority, or leadership exerted by one group, state, or culture over others. It involves a mix of coercion (military/economic power) and consent (cultural/ideological influence), often making the dominant group's values seem like common sense. It is commonly used in international relations and social theory.
 
@@ -88,24 +88,23 @@ In this case the angel belongs to the Majestic Flood. On what evidence? Ahab dec
 Consider the demise of the Sennacherib king of Assyria. This mere mortal claimed that he personally was an architect of doom and a destroyer of many nations. He railed against God and against the Flood that gifted him power to conquer kingdoms. Sennacherib was killed by God's judgement against his evil pride and vain delusions.
 
 <bref>Isa 10:12-16 NIV</bref>
-.<b1>12</b1> When the Lord has finished all his work against Mount Zion and Jerusalem, he will say, “I will punish the king of Assyria for the willful pride of his heart and the haughty look in his eyes. <b1>13</b1> For he says : 
+.<bref>12</bref> When the Lord has finished all his work against Mount Zion and Jerusalem, he will say, “I will punish the king of Assyria for the willful pride of his heart and the haughty look in his eyes. <bref>13</bref> For he says : 
   “By the strength of my hand I have done this,
     and by my wisdom, because I have understanding.
   I removed the boundaries of nations,
     I plundered their treasures.
     Like a mighty one I subdued their kings. 
-  <b1>14</b1> As one reaches into a nest,
+  <bref>14</bref> As one reaches into a nest,
     so my hand reached for the wealth of the nations;
   as people gather abandoned eggs,
     so I gathered all the countries;
   not one flapped a wing,
     or opened its mouth to chirp.” 
-  
-  <b1>15</b1> Does the ax raise itself above the person who swings it,
+  <bref>15</bref> Does the axe raise itself above the person who swings it,
     or the saw boast against the one who uses it?
   As if a rod were to wield the person who lifts it up,
     or a club brandish the one who is not wood!
-  <b1>16</b1> Therefore, the Lord, the Lord Almighty,
+  <bref>16</bref> Therefore, the Lord, the Lord Almighty,
     will send a wasting disease upon his sturdy warriors;
   under his pomp a fire will be kindled
     like a blazing flame.
