@@ -135,6 +135,9 @@ My unction is this: While on the cross, Jesus **virtually** experienced a death 
 <hr/>
 <br/>
 
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
+
 ### **Notes**
 
 <ol>

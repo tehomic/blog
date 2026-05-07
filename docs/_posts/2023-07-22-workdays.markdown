@@ -257,5 +257,6 @@ Heat does not flow spontaneously from a colder region to a hotter region; or, eq
 The third law of thermodynamics :
 
 The entropy of an isolated system approaches a constant value as the temperature of the system approaches absolute zero (−273.15 °C, or −459.67 °F). In practical terms, this theorem implies the impossibility of attaining absolute zero, since as a system approaches absolute zero, the further extraction of energy from that system becomes more and more difficult.
+<br/>
 
-
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com

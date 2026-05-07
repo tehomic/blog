@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Sea Roars"
-date:   2026-04-16 00:00:00-0600
+date:   2026-05-06 00:00:00-0600
 categories: bible exposition
 ---
 
@@ -40,34 +40,44 @@ categories: bible exposition
 
 The bible, both new and old testaments, describes two mysterious creatures called the Flood and the Sea which apparently is not a literal flood or sea or ocean. 
 
-My unction says these are the same creature. The two names Flood and Sea describe two different powers that can effect the life and times of humanity. The Flood is a directed torrent of water that carries one or more people from one place to another. The Sea is the pervasive controlling of spiritual influence which is the heavenly hedgemony of both light and dark angelic principalities.
+My unction says these are the same creature. The two names Flood and Sea describe two different powers that can effect the life and times of humanity. The Flood is a directed torrent of water that carries one or more people from one place to another. The Sea is the pervasive controlling and spiritual influence which is the heavenly hedgemony of both light and dark angelic principalities.
 
 <a target="_blank" href="https://en.wikipedia.org/wiki/Hegemony">Hegemony</a> refers to the dominant influence, authority, or leadership exerted by one group, state, or culture over others. It involves a mix of coercion (military/economic power) and consent (cultural/ideological influence), often making the dominant group's values seem like common sense. It is commonly used in international relations and social theory.
 
 The Flood and Sea are creatures because they are created beings that have the power of speech because scripture says the Flood and Sea have a voice. This is not poetry.
 
-<bref>psa 93:3-4 ESV</bref>
+<bref>Psa 93:3-4 ESV</bref>
 . <bref>3</bref> The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their roaring. <bref>4</bref> Mightier than the thunders of many waters, mightier than the waves of the sea, the LORD on high is mighty!
 
-<bref>psa 65:7 ESV</bref>
+<bref>Psa 65:7 ESV</bref>
 .<bref>7</bref> who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples
 
-<bref>prov 20:5 ESV</bref>
+<bref>Prov 20:5 ESV</bref>
 .<bref>5</bref> The purpose in a man’s heart is like deep water, but a man of understanding will draw it out.
 
-<bref>prov 20:5 KJV</bref>
+<bref>Prov 20:5 KJV</bref>
 .<bref>5</bref> Counsel in the heart of man is like deep water, But a man of understanding will draw it out.
 
-<bref>prov 18:4 ESV</bref>
+<bref>Prov 18:4 ESV</bref>
 .<bref>4</bref> The words of a man’s mouth are deep waters. The fountain of wisdom is a bubbling brook.
 
-<bref>luke 21:25-26 ESV</bref>
+<bref>Luke 21:25-26 ESV</bref>
 .<bref>25</bref> And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the <b1>Sea</b1> and the waves, <bref>26</bref> people fainting with fear and with foreboding of what is coming on the world. For the powers of the heavens will be shaken.
 
 For the sake of providing prophesy that Man should understand, the Lord God calls speech Water and collected internal thoughts He calls deep water or Sea. Running water, like a bubbling brook, is audible to anyone in range. The heart of man is a Sea, a flow of deep internal waters and only discernable by the Man and God. The flow of water currents in the heart happen in the mind. Every human being has their own Sea of retained thoughts called memory. 
 
-The heavenly Seas, are the virtual Sea of humanity and the virtual source of Man's intelligence. Not intelligence that is cognitive power but intelligent information that gifts Man with ideas and inspiration. 
-Consider the story of Ahab the evil king of Israel and his demise. The false prophets encouraged Ahab to proceed and claim victory, but Micaiah the true prophet warned him that his prophets were virtually lying. This is indeed the case because the prophets had no idea they were lying by virtue of the angel imposing words in their mind. Since they were false prophets, they did not have a true witness about what they said. They were evil imposters, having no desire to even serve Ahab let alone the Lord God of Israel.
+<bref>Psa 18:15 ESV</bref>
+.<bref>15</bref>Then the channels of the sea were seen, and the foundations of the world were laid bare at your rebuke, O LORD, at the blast of the breath of your nostrils.
+
+<bref>Psa 18:15 NIV</bref>
+.<bref>15</bref>The valleys of the sea were exposed and the foundations of the earth laid bare at your rebuke, LORD, at the blast of breath from your nostrils
+
+<bref>Dan 8:5 NIV</bref>
+As I was thinking about this, suddenly a goat with a prominent horn between its eyes came from the west, crossing the whole earth without touching the ground.
+
+Does the bible show the Flood is action, carrying people from one place to another? Yes, Dan 8:5 tells that the Greek army was carried by the Flood into battle with Persia. How does it say that? The feet of the goat which represents the Greek army did not touch the ground. This happens when people are carried by flood waters while treading water. Notice psalm 18 says the channels of the sea were exposed which are a feature of the foundations of the world. How are the channels used? The channels of the Sea are traffic routes to move people from one place to another. For example, consider the ancient trade canals of Britain. Sea channels may not always be a sea floor structure, they also could be created by strong sea currents.
+
+The heavenly Seas, are the virtual Sea of humanity and the virtual source of Man's intelligence. Not intelligence that is cognitive power but intelligent information that gifts Man with ideas and inspiration. Consider the story of Ahab the evil king of Israel and his demise. The false prophets encouraged Ahab to proceed and claim victory, but Micaiah the true prophet warned him that his prophets were virtually lying. This is indeed the case because the prophets had no idea they were lying by virtue of the angel imposing words in their mind. Since they were false prophets, they did not have a true witness about what they said. They were evil imposters, having no desire to even serve Ahab let alone the Lord God of Israel.
 
 <bref>1 Kings 22:19-23 ESV</bref>
 .<bref>19</bref> And Micaiah said, “Therefore hear the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing beside him on his right hand and on his left <bref>20</bref> and the LORD said, ‘Who will entice Ahab, that he may go up and fall at Ramoth-gilead?’ And one said one thing, and another said another. <bref>21</bref> Then a spirit came forward and stood before the LORD, saying, ‘I will entice him.’ <bref>22</bref> And the LORD said to him, ‘By what means?’ And he said, ‘I will go out, and will be a lying spirit in the mouth of all his prophets.’ And he said, ‘You are to entice him, and you shall succeed; go out and do so.’ <bref>23</bref> Now therefore behold, the LORD has put a lying spirit in the mouth of all these your prophets; the LORD has declared disaster for you.”
@@ -116,10 +126,14 @@ In a prophetic way, that might also fullfill prophecies about the Beast and it's
 
 This speaking image is diabolical because it has absolutely no fear of God. It is a synthetic man and has no spirit that could ascribe allegiance to God. This new man is probably faster, stronger, smarter and more noble than a natural man. I say more noble, because that might be how the secret power of lawlessness works. See 2 Thess 2:7. That is, it is more subtle and deceptive than all other deception on record. For example, the synthetic man may apparently even defy the programming rules of the beast and false prophet and initially proclaim allegiance to the Lord God. This man of intrigue may build for education, healing and charity. It may support the weak and vulnerable. But of course the purpose for all these good works is to steal the hearts of humanity so that devotion and worship to the image is only a heatbeat away. The story of Absalom is similar. He stole the hearts of Israel in order to steal their allegiance. Wise men and women may sound a warning about the subterfuge, but as Revelation says the image will cut them off. In the end, it would not be a surprise at all for this synthetic man to rebuild the temple in Jerusalem in order to sit in the temple of God claiming to be God. Revelation says that the image will demand that people worship it and will kill those who refuse. 
 
+<bref>Rev 17:15 ESV</bref>
+.<b1>15</b1>And the angel said to me, “The waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages.
 
+<bref>Psa 29:10 ESV</bref>
+.<b1>10</b1>The Lord sits enthroned over the flood; the Lord sits enthroned as king forever.
+<br/>
 
-Yes, but first you would need to qualify or define a "good idea"? How do you define purity and intelligence? The fruit of true intelligence is surely only light and goodness. In other words, true intelligence seeks to educate and bless the enthusiast and the seeker. 
+Rev 17 says "the waters ARE peoples and languages". The whore of Babylon represents the malevolent Flood that incites people to worship the creature instead of the Creator. Consider that Hegemony refers to the dominant influence, authority, or leadership exerted by one group, state, or culture over others. Think about the current state of law and order. The evil Flood directly incites the western world especially to embrace God dishonoring legislation that contradicts the bible. The western world today legislates to support gender identity, abortion and homosexuality. All these social "justice" laws represent the justice of Babylon. They each contradict a biblical law or statement such as 'in the beginning He made them male and female', 'you shall not murder' and 'a man must not lie with a man as with a woman; it is an abomination'. Therefore, the Flood and its influence is absolute hegemony over humanity. I say absolute because even the prayers of a righteous man may not really help to remove the corrupt legislation. Why? Because the state of affairs to a certain degree is a test that allows the Lord God to see how each person responds.
+<br/>
 
-True purity comes only from the Lord God of Israel. All Jesus believers are invited to inherit it. They have permission by the Lord God to influence by directly manipulating the thoughts and speech of influential people in order to impose control over thousands of people. The followers are controled by adopting and following the thoughts of their leader. The true story is that influential people become the prophet of the people they influence. 
-
-The channels of the Sea are traffic routes to move people from one place to another.
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com

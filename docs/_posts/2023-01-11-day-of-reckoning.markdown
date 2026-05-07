@@ -893,4 +893,6 @@ Free my soul from prison, that I may praise Your name. The righteous will gather
 
 <bref>Isa 40:27-28 NIV</bref>
 .<bref>27</bref> Why do you complain, Jacob? Why do you say, Israel, “My way is hidden from the LORD; my cause is disregarded by my God"? <bref>28</bref> Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and his understanding no one can fathom.
+<br/>
 
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com

@@ -226,3 +226,6 @@ About the idea that plasma atoms "burst themselves open". Either the bursting is
 ### **Summary**
 
 About my virtual mass density theory. It may not be sensible or valid to some people. But the only thing that matters is if Spacetime agrees saying “yes, virtual mass density is one of my properties”. Praise Jesus !
+<br/>
+
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com

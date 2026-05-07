@@ -194,3 +194,6 @@ Consider that scientific measurement of uncovered ground heat retention could he
 <br/>
 
 Lets review the evidence again. During the period of night uncovered ground stored solar heat release and radiation is blocked by the greenhouse gas affect. The total stored ground heat is not released during the night and thus that retained heat leaks into the ocean. The fact that some ground heat is retained when the next morning arrives means that heat retention is a potentially compounding cycle. That is why it neccessary to estimate what is the percentage of uncovered ground that produces heat retention which will always be compounding.
+<br/>
+
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com

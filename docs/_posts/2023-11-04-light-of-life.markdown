@@ -441,6 +441,9 @@ Consider Isa 60:2b that says "and his glory will be seen upon you". Even before 
 <hr/>
 <br/>
 
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
+
 ### **Bibliography**
 
 <ol>

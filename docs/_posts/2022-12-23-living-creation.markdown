@@ -543,6 +543,10 @@ I propose that in the beginning, according to nature, the whole earth was covere
 I am of course suggesting that the Lord God created the flesh of all beasts, birds and reptiles by His intelligent design. This includes the flesh of man. But He created the spirit of man more personally by creating the generations of Man that make the spirit of man by decree of the Lord’s Government in the 2nd heavenly region. It should not matter to the born again person in Christ if God created his flesh by evolution. Why? Because it does not matter in the big eternal scheme of things, such as the resurrection of the dead.
 
 This is all pointing to the real fundamental teaching of the bible. God is not interested in the flesh of Man, He doesn’t judge according to the flesh, He looks at the heart. Yes, God made man and woman beautiful in the beginning when Adam and Eve were in the garden. But we should not glory only about this in our relation to God. We should glory in having a new kind of spirit called Israel when we receive Jesus and belong to Him.
+<br/>
+
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
 
 ### **Bibliography**
 

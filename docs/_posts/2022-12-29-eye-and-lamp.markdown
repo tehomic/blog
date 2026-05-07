@@ -298,6 +298,9 @@ Recall <a target="_blank" href="https://biblehub.com/psalms/19-5.htm"><u>Psa 19:
 <hr/>
 <br/>
 
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
+
 ### **Bibliography**
 
 1. <a target="_blank" href="https://bible.knowing-jesus.com"><u>www.knowing-jesus.com</u></a>

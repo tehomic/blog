@@ -128,6 +128,9 @@ Notice that there must be a connection between the generations and the foundatio
 <hr/>
 <br/>
 
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
+
 ### **Bibliography**
 
 <ol>

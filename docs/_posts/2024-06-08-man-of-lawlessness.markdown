@@ -196,6 +196,10 @@ Compare this word meaning chasm with a similar word rendered as void or space in
 
 <bref>Job 26:7 NKJV</bref>
 .<bref>7</bref> He stretches out the north over empty space; He hangs the earth on nothing.
+<br/>
+
+Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
+<br/>
 
 ### **Bibliography**
 
