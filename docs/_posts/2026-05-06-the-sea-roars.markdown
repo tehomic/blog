@@ -42,7 +42,7 @@ The bible, both new and old testaments, describes two mysterious creatures calle
 
 My unction says these are the same creature. The two names Flood and Sea describe two different powers that can effect the life and times of humanity. The Flood is a directed torrent of water that carries one or more people from one place to another. The Sea is a pervasive controlling and spiritual influence which is the heavenly hegemony of both light and dark angelic principalities.
 
-<a target="_blank" href="https://en.wikipedia.org/wiki/Hegemony">Hegemony</a> refers to the dominant influence, authority, or leadership exerted by one group, state, or culture over others. It involves a mix of coercion (military/economic power) and consent (cultural/ideological influence), often making the dominant group's values seem like common sense. It is commonly used in international relations and social theory.
+<a target="_blank" href="https://en.wikipedia.org/wiki/Hegemony"><u>Hegemony</u></a> refers to the dominant influence, authority, or leadership exerted by one group, state, or culture over others. It involves a mix of coercion (military/economic power) and consent (cultural/ideological influence), often making the dominant group's values seem like common sense. It is commonly used in international relations and social theory.
 
 The Flood and Sea are creatures because they are created beings that have the power of speech because scripture says the Flood and Sea have a voice. This is not poetry.
 
@@ -50,7 +50,7 @@ The Flood and Sea are creatures because they are created beings that have the po
 .<bref>7</bref> who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples
 
 <bref>Psa 93:3-4 ESV</bref>
-. <bref>3</bref> The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their roaring. <bref>4</bref> Mightier than the thunders of many waters, mightier than the waves of the sea, the LORD on high is mighty!
+.<bref>3</bref> The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their roaring. <bref>4</bref> Mightier than the thunders of many waters, mightier than the waves of the sea, the LORD on high is mighty!
 
 <bref>Psa 148:4-6 ESV</bref>
 .<bref>4</bref> Praise him, you highest heavens, and you waters above the heavens! <bref>5</bref> Let them praise the name of the LORD! For he commanded and they were created. <bref>6</bref> And he established them forever and ever; he gave a decree, and it shall not pass away.
