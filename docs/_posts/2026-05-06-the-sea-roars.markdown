@@ -46,20 +46,23 @@ My unction says these are the same creature. The two names Flood and Sea describ
 
 The Flood and Sea are creatures because they are created beings that have the power of speech because scripture says the Flood and Sea have a voice. This is not poetry.
 
+<bref>Psa 65:7 ESV</bref>
+.<bref>7</bref> who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples
+
 <bref>Psa 93:3-4 ESV</bref>
 . <bref>3</bref> The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their roaring. <bref>4</bref> Mightier than the thunders of many waters, mightier than the waves of the sea, the LORD on high is mighty!
 
-<bref>Psa 65:7 ESV</bref>
-.<bref>7</bref> who stills the roaring of the seas, the roaring of their waves, the tumult of the peoples
+<bref>Psa 148:4-6 ESV</bref>
+.<bref>4</bref> Praise him, you highest heavens, and you waters above the heavens! <bref>5</bref> Let them praise the name of the LORD! For he commanded and they were created. <bref>6</bref> And he established them forever and ever; he gave a decree, and it shall not pass away.
+
+<bref>Prov 18:4 ESV</bref>
+.<bref>4</bref> The words of a man’s mouth are deep waters. The fountain of wisdom is a bubbling brook.
 
 <bref>Prov 20:5 ESV</bref>
 .<bref>5</bref> The purpose in a man’s heart is like deep water, but a man of understanding will draw it out.
 
 <bref>Prov 20:5 KJV</bref>
 .<bref>5</bref> Counsel in the heart of man is like deep water, But a man of understanding will draw it out.
-
-<bref>Prov 18:4 ESV</bref>
-.<bref>4</bref> The words of a man’s mouth are deep waters. The fountain of wisdom is a bubbling brook.
 
 <bref>Luke 21:25-26 ESV</bref>
 .<bref>25</bref> And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the <b1>Sea</b1> and the waves, <bref>26</bref> people fainting with fear and with foreboding of what is coming on the world. For the powers of the heavens will be shaken.
