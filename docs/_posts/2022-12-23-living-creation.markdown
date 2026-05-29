@@ -554,5 +554,5 @@ Got a question or comment? You're welcome to send an email to gilletahom5@gmail.
     * strong’s number lexicon provider
 2. <a target="_blank" href="https://biblehub.com/"><u>www.biblehub.com</u></a>
     * bible scripture provider
-3. <a target="_blank" href="https://drmsh.com/"><u>www.drmsh.com</u></a>
+3. <a id="bib3" target="_blank" href="https://drmsh.com/"><u>www.drmsh.com</u></a>
     * Dr Michael S Heiser’s website
