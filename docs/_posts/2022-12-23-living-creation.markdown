@@ -229,7 +229,7 @@ Let me confirm that by saying Jesus is a deep copy of God, I don’t mean He is 
 ### **Corruptible Man**
 
 <bref>Gen 1:26 KJV</bref>
-And God said, Let us make man H120 in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
+And God said, Let us make man <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H120"><u>H120</u></a> in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.
 
 <bref>Gen 2:7 KJV</bref>
 And the LORD God formed man <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H120"><u>H120</u></a> of the dust of the ground, and breathed into his nostrils the breath of life; and man <a target="_blank" href="https://bible.knowing-jesus.com/strongs/H120"><u>H120</u></a> became a living soul.
@@ -344,7 +344,7 @@ Notice that Peter says 1 “the earth was formed out of water” and 2 “by the
 <bref>Isa 33:1 NIV</bref>
 Woe to you, destroyer, you who have not been destroyed! Woe to you, betrayer, you who have not been betrayed! When you stop destroying, you will be destroyed; when you stop betraying, you will be betrayed.
 
-The bible shows that the “gods”, the Flood, are charged with governing humanity, and will be judged for any corrupt ministry. Concerning this aspect of the Flood, the author of this text cites this <a target="_blank" href="https://www.google.com/search?channel=fs&client=ubuntu&q=the+unseen+realm+youtube#fpstate=ive&vld=cid:81978178,vid:2QM7anD5vSI"><u>video</u></a> as the teaching <sup>3</sup>source
+The bible shows that the “gods”, the Flood, are charged with governing humanity, and will be judged for any corrupt ministry. Concerning this aspect of the Flood, the author of this text cites this <a target="_blank" href="https://www.google.com/search?channel=fs&client=ubuntu&q=the+unseen+realm+youtube#fpstate=ive&vld=cid:81978178,vid:2QM7anD5vSI"><u>video</u></a> as the teaching <a href="/blog/bible/exposition/2022/12/23/living-creation.html#bib3"><sup>3</sup></a>source
 
 <bref>Psalm 82:1-8 NIV</bref>
 .<bref>1</bref> A psalm of Asaph. God presides in the great assembly; he renders judgement among the “gods" : <bref>2</bref> “How long will you defend the unjust and show partiality to the wicked? <bref>3</bref> Defend the weak and the fatherless; uphold the cause of the poor and the oppressed <bref>4</bref> Rescue the weak and the needy; deliver them from the hand of the wicked. <bref>5</bref> “The ‘gods’ know nothing, they understand nothing. They walk about in darkness; all the foundations of the earth are shaken. <bref>6</bref> “I said, ‘You are “gods"; you are all sons of the Most High.’ <bref>7</bref> But you will die like mere mortals; you will fall like every other ruler.” <bref>8</bref> Rise up, O God, judge the earth, for all the nations are your inheritance.
