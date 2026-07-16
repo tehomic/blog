@@ -33,7 +33,7 @@ categories: bible exposition
 <hr/>
 <br/>
 
-Especially for the Western world and its historical development, the foundations of human society is rooted in God ordained government and its interpretation of social justice and standard of living. <sup><a href="https://tehomic.github.io/blog/bible/exposition/2026/04/10/foundations-of-earth.html#googleai">[1]</a></sup> The early Christian church fundamentally shaped Western society by establishing the foundations of education, social care, law, and political organization after the fall of Rome. It transformed European culture by introducing concepts of human dignity, providing a unifying moral structure and producing institutions like universities, hospitals ans charities. 
+Especially for the Western world and its historical development, the foundations of human society is rooted in God ordained government and its interpretation of social justice and standard of living. <sup><a href="https://tehomic.github.io/blog/bible/exposition/2026/04/10/foundations-of-earth.html#googleai">[1]</a></sup> The early Christian church fundamentally shaped Western society by establishing the foundations of education, social care, law, and political organization after the fall of Rome. It transformed European culture by introducing concepts of human dignity, providing a unifying moral structure and producing institutions like universities, hospitals and charities. 
 
 <br/>
 Let us now consider that, logically, the foundations of humanity must depend on the foundations of the earth?
