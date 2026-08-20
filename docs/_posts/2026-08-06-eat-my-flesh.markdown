@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eat the Lord's Flesh"
-date:   2026-04-10 00:00:00-0600
+date:   2026-08-06 00:00:00-0600
 categories: bible exposition
 ---
 
@@ -35,7 +35,7 @@ categories: bible exposition
 
 Jesus says many things which challenge the hearer or reader, but possibly the most difficult saying to understand is found in John chapter 6
 <bref>John 6:53-55 NIV</bref>
-.<bref>53</bref> Jesus said to them "I tell you the truth, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you". <bref>56</bref>"Whoever eats my flesh and drinks my blood remains in me and I in him.
+.<bref>53</bref> Jesus said to them "I tell you the truth, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you". <bref>56</bref> "Whoever eats my flesh and drinks my blood remains in me and I in him.
 
 <p>Jesus talks about His own spiritual food so this is the key to understanding this verse.
 </p>
@@ -44,11 +44,11 @@ Jesus says many things which challenge the hearer or reader, but possibly the mo
 
 <p>Jesus says his food is to do God's will, so the same is true for His followers. Jesus says "the one who obeys my commands is the one who loves me, and abides in me just as I am in him".
 </p>
-<p>But why bother saying "eat my flesh and drink my blood"? Recall in Hebrews that it quotes psalm 40 saying "sacrifice and offering you did not desire, but a body you prepared for me". A body is not literal rather it is the flesh of Jesus' life and ministry which the Father provided. This means Jesus obeyed Gods commands perfectly according to the arrangement of his life and ministry. According to the context of living in Israel under Roman rule. According to the opposition of the rabbinic leadership of the pharisees and saducees with all their traditions and hypocracy. 
+<p>But why bother saying "eat my flesh and drink my blood"? Recall in Hebrews that it quotes psalm 40 saying "sacrifice and offering you did not desire, but a body you prepared for me". A body is not literal rather it is the flesh of Jesus' life and ministry which the Father provided. This means Jesus obeyed Gods commands perfectly according to the arrangement of his life and ministry. According to the context of living in Israel under Roman rule. According to the opposition of rabbinic leadership, that of the pharisees and saducees with all their traditions and hypocracy. 
 </p>
 <p>The "body" of a Jesus follower has the same boundaries. It is the arrangement God provides to serve Jesus in this world while not belonging to the world. In this context the saints eat their daily bread of inspiration and guidance provided by the Holy Spirit. This way of life reveals personal commands from God that the disciple of Jesus should or must obey. When we hear the Holy Spirit and obey His commands we eat the flesh and drink the blood of Jesus. 
 </p>
-<p>Jesus said to Thomas "I am the way the truth and the life". Notice that blood must be contained in vessels and flow in a path in order to give life. The Way of Jesus is a path constructed by His commands and church activity and is like the arteries and veins of the body.
+<p>Jesus said to Thomas "I am the way the truth and the life". Notice that blood must be contained in vessels and flow in a path in order to give life. The Way of Jesus is a path constructed by His commands, guidance and church activity. The Way of Jesus is like the arteries and veins of the body.
 </p>
 <br/>
 <hr/>
