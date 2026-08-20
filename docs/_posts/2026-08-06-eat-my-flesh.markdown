@@ -56,9 +56,3 @@ Jesus says many things which challenge the hearer or reader, but possibly the mo
 
 Got a question or comment? You're welcome to send an email to gilletahom5@gmail.com
 <br/>
-
-### **Bibliography**
-
-<ol>
-  <li id="googleai">google ai produced this text.</li>
-</ol>
